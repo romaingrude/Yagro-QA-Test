@@ -1,0 +1,274 @@
+@import 'primevue/resources/themes/saga-green/theme.css';
+
+@import 'primevue/resources/primevue.css';
+
+@import 'primeicons/primeicons.css';
+
+@import 'variables/z-indexes';
+
+@import 'variables/shadows';
+
+@import 'variables/animations-and-transitions';
+
+@import 'variables/typography';
+
+@import 'variables/colors';
+
+@import 'stylesheets/fonts';
+
+@import 'stylesheets/animations';
+
+@import 'stylesheets/y-popover';
+
+@import 'stylesheets/override-prime-vue';
+
+@import 'stylesheets/branding';
+
+@import 'bootstrap/scss/bootstrap.scss';
+
+/*------------------------------------*\
+#GENERAL
+\*------------------------------------*/
+
+html {
+  position: relative;
+  height: 100%;
+  font-size: 16px;
+}
+
+body {
+  color: #333;
+  font-weight: normal;
+  font-size: 1rem;
+  font-family: 'Montserrat', sans-serif;
+
+  &.logged-in {
+    margin-bottom: 0;
+  }
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  min-height: 100vh;
+  margin-top: 0;
+  padding: 2em 1em;
+
+  @media screen and (min-width: 1025px) {
+    margin-left: 230px;
+  }
+
+  @media screen and (max-width: 1025px) {
+    margin-top: 70px;
+  }
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+/*------------------------------------*\
+#TYPOGRAPHY
+\*------------------------------------*/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-weight: 700;
+  font-family: 'Montserrat', serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+a,
+.link-style {
+  color: var(--primary-colour);
+  cursor: pointer;
+}
+
+a:focus,
+a:hover,
+.link-style:focus,
+.link-style:hover {
+  color: var(--primary-darker-colour);
+  text-decoration: underline;
+}
+
+// First letter of multi-word string to be uppercase
+// e.g. 'fish and chips' -> 'Fish and chips'
+.first-letter-capital {
+  display: inline-block;
+  text-transform: lowercase;
+}
+
+.first-letter-capital:first-letter {
+  text-transform: uppercase;
+}
+
+/*------------------------------------*\
+#POINTERS
+\*------------------------------------*/
+
+.pointer {
+  cursor: pointer;
+}
+
+a.disabled {
+  pointer-events: none;
+}
+
+/*------------------------------------*\
+BUTTONS
+\*------------------------------------*/
+
+.btn {
+  max-width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.btn-primary {
+  background-color: var(--primary-colour);
+  border-color: var(--primary-darker-colour);
+}
+
+.btn-secondary {
+  color: #fff;
+  background-color: #006838;
+}
+
+.btn-secondary:hover {
+  color: #fff;
+  background-color: #3c763d;
+  border-color: #3c763d;
+}
+
+.btn-link {
+  color: var(--primary-colour);
+  font-size: 1em;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.btn-link:focus,
+.btn-link:hover {
+  color: var(--primary-darker-colour);
+  font-size: 1em;
+}
+
+.btn-link:hover {
+  text-decoration: underline;
+}
+
+/*------------------------------------*\
+FORMS
+\*------------------------------------*/
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.input-group-prepend {
+  display: flex;
+  margin-right: -1px;
+}
+
+/*------------------------------------*\
+SIDEBAR
+\*------------------------------------*/
+
+.nav > .nav__header {
+  margin-bottom: 5px;
+  padding-right: 15px;
+  padding-left: 15px;
+  color: var(--secondary-colour);
+  font-weight: bold;
+  font-size: 0.85em;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.nav > .nav__combo {
+  padding: 0.5rem 1rem;
+}
+
+.nav > li + .nav__header {
+  margin-top: 2rem;
+}
+
+.nav > li > a {
+  color: #222;
+
+  &:focus,
+  &:hover,
+  &.active,
+  &.router-link-active {
+    color: var(--primary-darker-colour);
+  }
+
+  .nav-badge {
+    float: right;
+  }
+}
+
+.badge {
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.badge.processing {
+  background-color: #17a2b8;
+}
+
+.badge.checking {
+  background-color: #ffab00;
+}
+
+.badge.uploaded {
+  background-color: #28a745;
+}
+
+.badge.pending {
+  background-color: #6c757d;
+}
+
+/*------------------------------------*\
+FOOTER
+\*------------------------------------*/
+
+.copyright {
+  margin-bottom: 0;
+  opacity: 0.4;
+}
+
+/*------------------------------------*\
+WEBSERVICE PLATFORM MOCKS
+\*------------------------------------*/
+
+.font-weight-bold {
+  font-weight: var(--font-bold);
+}
+
+// Tables
+
+.p-datatable .p-datatable-thead > tr > th {
+  background-color: #e9ecef;
+  color: #495057;
+}
+
+.p-datatable .p-sortable-column.p-highlight {
+  background-color: #e9ecef;
+}

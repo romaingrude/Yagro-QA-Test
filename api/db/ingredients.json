@@ -1,0 +1,7264 @@
+{
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "azoxystrobin"
+    },
+    {
+      "id": 2,
+      "name": "epoxiconazole"
+    },
+    {
+      "id": 3,
+      "name": "fluxapyroxad"
+    },
+    {
+      "id": 5,
+      "name": "tepraloxydim"
+    },
+    {
+      "id": 6,
+      "name": "mandipropamid"
+    },
+    {
+      "id": 7,
+      "name": "glyphosate"
+    },
+    {
+      "id": 8,
+      "name": "pendimethalin"
+    },
+    {
+      "id": 9,
+      "name": "chlorothalonil"
+    },
+    {
+      "id": 11,
+      "name": "alphacypermethrin"
+    },
+    {
+      "id": 12,
+      "name": "cyprodinil"
+    },
+    {
+      "id": 13,
+      "name": "picoxystrobin"
+    },
+    {
+      "id": 14,
+      "name": "linuron"
+    },
+    {
+      "id": 15,
+      "name": "nonyl phenol ethylene oxide"
+    },
+    {
+      "id": 16,
+      "name": "magnesium"
+    },
+    {
+      "id": 17,
+      "name": "boron"
+    },
+    {
+      "id": 18,
+      "name": "deltamethrin"
+    },
+    {
+      "id": 19,
+      "name": "abamectin"
+    },
+    {
+      "id": 20,
+      "name": "mcpa"
+    },
+    {
+      "id": 21,
+      "name": "pirimicarb"
+    },
+    {
+      "id": 22,
+      "name": "brown algae"
+    },
+    {
+      "id": 23,
+      "name": "fosetyl aluminium"
+    },
+    {
+      "id": 24,
+      "name": "metaldehyde"
+    },
+    {
+      "id": 25,
+      "name": "metsulfuron-methyl"
+    },
+    {
+      "id": 26,
+      "name": "tribenuron-methyl"
+    },
+    {
+      "id": 27,
+      "name": "chlorpyrifos"
+    },
+    {
+      "id": 28,
+      "name": "chlortoluron"
+    },
+    {
+      "id": 29,
+      "name": "propachlor"
+    },
+    {
+      "id": 30,
+      "name": "propaquizafop"
+    },
+    {
+      "id": 31,
+      "name": "trifluralin"
+    },
+    {
+      "id": 32,
+      "name": "cyproconazole"
+    },
+    {
+      "id": 33,
+      "name": "difenoconazole"
+    },
+    {
+      "id": 34,
+      "name": "iodosulfuron-methyl-sodium"
+    },
+    {
+      "id": 35,
+      "name": "mesosulfuron-methyl"
+    },
+    {
+      "id": 36,
+      "name": "bixafen"
+    },
+    {
+      "id": 37,
+      "name": "prothioconazole"
+    },
+    {
+      "id": 38,
+      "name": "pinoxaden"
+    },
+    {
+      "id": 39,
+      "name": "bentazone"
+    },
+    {
+      "id": 40,
+      "name": "phenmedipham"
+    },
+    {
+      "id": 41,
+      "name": "desmedipham"
+    },
+    {
+      "id": 42,
+      "name": "ethofumesate"
+    },
+    {
+      "id": 43,
+      "name": "lenacil"
+    },
+    {
+      "id": 44,
+      "name": "chloridazon"
+    },
+    {
+      "id": 45,
+      "name": "metamitron"
+    },
+    {
+      "id": 46,
+      "name": "thiacloprid"
+    },
+    {
+      "id": 47,
+      "name": "borate"
+    },
+    {
+      "id": 48,
+      "name": "florasulam"
+    },
+    {
+      "id": 49,
+      "name": "pyroxsulam"
+    },
+    {
+      "id": 50,
+      "name": "metconazole"
+    },
+    {
+      "id": 51,
+      "name": "bromoxynil"
+    },
+    {
+      "id": 52,
+      "name": "propiconazole"
+    },
+    {
+      "id": 53,
+      "name": "flufenacet"
+    },
+    {
+      "id": 54,
+      "name": "isoxaflutole"
+    },
+    {
+      "id": 55,
+      "name": "mesotrione"
+    },
+    {
+      "id": 56,
+      "name": "terbuthylazine"
+    },
+    {
+      "id": 57,
+      "name": "clethodim"
+    },
+    {
+      "id": 58,
+      "name": "glufosinate-ammonium"
+    },
+    {
+      "id": 59,
+      "name": "flazasulfuron"
+    },
+    {
+      "id": 60,
+      "name": "boscalid"
+    },
+    {
+      "id": 61,
+      "name": "picolinafen"
+    },
+    {
+      "id": 62,
+      "name": "lambda-cyhalothrin"
+    },
+    {
+      "id": 63,
+      "name": "fenpropimorph"
+    },
+    {
+      "id": 64,
+      "name": "chlorpropham"
+    },
+    {
+      "id": 65,
+      "name": "fluroxypyr"
+    },
+    {
+      "id": 66,
+      "name": "mancozeb"
+    },
+    {
+      "id": 67,
+      "name": "pyraclostrobin"
+    },
+    {
+      "id": 68,
+      "name": "mecoprop-p"
+    },
+    {
+      "id": 69,
+      "name": "coniothyrium minitans strain con/m/91-08"
+    },
+    {
+      "id": 70,
+      "name": "copper oxychloride"
+    },
+    {
+      "id": 71,
+      "name": "carbetamide"
+    },
+    {
+      "id": 72,
+      "name": "cymoxanil"
+    },
+    {
+      "id": 73,
+      "name": "diflufenican"
+    },
+    {
+      "id": 74,
+      "name": "dimethoate"
+    },
+    {
+      "id": 75,
+      "name": "tebuconazole"
+    },
+    {
+      "id": 76,
+      "name": "triflusulfuron-methyl"
+    },
+    {
+      "id": 77,
+      "name": "methiocarb"
+    },
+    {
+      "id": 78,
+      "name": "prosulfocarb"
+    },
+    {
+      "id": 80,
+      "name": "napropamide"
+    },
+    {
+      "id": 81,
+      "name": "flumioxazine"
+    },
+    {
+      "id": 82,
+      "name": "bacillus thuringiensis var kurstaki"
+    },
+    {
+      "id": 83,
+      "name": "s-metolachlor"
+    },
+    {
+      "id": 84,
+      "name": "nicosulfuron"
+    },
+    {
+      "id": 85,
+      "name": "fluazinam"
+    },
+    {
+      "id": 86,
+      "name": "metalaxyl-m"
+    },
+    {
+      "id": 87,
+      "name": "trifloxystrobin"
+    },
+    {
+      "id": 88,
+      "name": "fluoxastrobin"
+    },
+    {
+      "id": 89,
+      "name": "metrafenone"
+    },
+    {
+      "id": 90,
+      "name": "quinoxyfen"
+    },
+    {
+      "id": 91,
+      "name": "fluazifop-p-butyl"
+    },
+    {
+      "id": 92,
+      "name": "clopyralid"
+    },
+    {
+      "id": 93,
+      "name": "picloram"
+    },
+    {
+      "id": 94,
+      "name": "clomazone"
+    },
+    {
+      "id": 95,
+      "name": "acetamiprid"
+    },
+    {
+      "id": 96,
+      "name": "triclopyr"
+    },
+    {
+      "id": 97,
+      "name": "thifensulfuron-methyl"
+    },
+    {
+      "id": 98,
+      "name": "copper"
+    },
+    {
+      "id": 99,
+      "name": "phosphate"
+    },
+    {
+      "id": 100,
+      "name": "sulphur"
+    },
+    {
+      "id": 101,
+      "name": "zinc"
+    },
+    {
+      "id": 102,
+      "name": "fluopicolide"
+    },
+    {
+      "id": 103,
+      "name": "propamocarb hydrochloride"
+    },
+    {
+      "id": 104,
+      "name": "dimethomorph"
+    },
+    {
+      "id": 105,
+      "name": "proquinazid"
+    },
+    {
+      "id": 106,
+      "name": "propyzamide"
+    },
+    {
+      "id": 107,
+      "name": "cycloxydim"
+    },
+    {
+      "id": 108,
+      "name": "pyridate"
+    },
+    {
+      "id": 109,
+      "name": "flupyrsulfuron-methyl"
+    },
+    {
+      "id": 110,
+      "name": "magnesium sulphate"
+    },
+    {
+      "id": 111,
+      "name": "foramsulfuron"
+    },
+    {
+      "id": 112,
+      "name": "manganese"
+    },
+    {
+      "id": 113,
+      "name": "manganese sulphate"
+    },
+    {
+      "id": 114,
+      "name": "tau-fluvalinate"
+    },
+    {
+      "id": 115,
+      "name": "prochloraz"
+    },
+    {
+      "id": 116,
+      "name": "quinoclamine"
+    },
+    {
+      "id": 117,
+      "name": "spirotetramat"
+    },
+    {
+      "id": 118,
+      "name": "fosthiazate"
+    },
+    {
+      "id": 119,
+      "name": "imazamox"
+    },
+    {
+      "id": 120,
+      "name": "ioxynil"
+    },
+    {
+      "id": 121,
+      "name": "prosulfuron"
+    },
+    {
+      "id": 122,
+      "name": "cypermethrin"
+    },
+    {
+      "id": 123,
+      "name": "carfentrazone-ethyl"
+    },
+    {
+      "id": 124,
+      "name": "pymetrozine"
+    },
+    {
+      "id": 125,
+      "name": "potassium bicarbonate"
+    },
+    {
+      "id": 126,
+      "name": "fosetyl-aluminium"
+    },
+    {
+      "id": 127,
+      "name": "pyrethrins"
+    },
+    {
+      "id": 128,
+      "name": "diquat"
+    },
+    {
+      "id": 129,
+      "name": "cyazofamid"
+    },
+    {
+      "id": 130,
+      "name": "iprodione"
+    },
+    {
+      "id": 131,
+      "name": "fatty acids"
+    },
+    {
+      "id": 132,
+      "name": "isopyrazam"
+    },
+    {
+      "id": 133,
+      "name": "metribuzin"
+    },
+    {
+      "id": 134,
+      "name": "bacillus subtilis (strain qst 713)"
+    },
+    {
+      "id": 135,
+      "name": "ferric phosphate"
+    },
+    {
+      "id": 136,
+      "name": "dimethenamid-p"
+    },
+    {
+      "id": 137,
+      "name": "metazachlor"
+    },
+    {
+      "id": 138,
+      "name": "fenpropidin"
+    },
+    {
+      "id": 139,
+      "name": "esfenvalerate"
+    },
+    {
+      "id": 140,
+      "name": "dimoxystrobin"
+    },
+    {
+      "id": 141,
+      "name": "fludioxonil"
+    },
+    {
+      "id": 142,
+      "name": "famoxadone"
+    },
+    {
+      "id": 143,
+      "name": "fenhexamid"
+    },
+    {
+      "id": 144,
+      "name": "flonicamid"
+    },
+    {
+      "id": 145,
+      "name": "rimsulfuron"
+    },
+    {
+      "id": 146,
+      "name": "spinosad"
+    },
+    {
+      "id": 147,
+      "name": "dicamba"
+    },
+    {
+      "id": 148,
+      "name": "benthiavalicarb isopropyl"
+    },
+    {
+      "id": 149,
+      "name": "oxamyl"
+    },
+    {
+      "id": 150,
+      "name": "chlormequat"
+    },
+    {
+      "id": 151,
+      "name": "trinexapac-ethyl"
+    },
+    {
+      "id": 171,
+      "name": "propaquizafop, cyproconazole, trifloxystrobin"
+    },
+    {
+      "id": 179,
+      "name": "epoxiconazole, mancozeb, dimethomorph"
+    },
+    {
+      "id": 182,
+      "name": "2,4-D"
+    },
+    {
+      "id": 184,
+      "name": "iodosulfuron-methyl-sodium, mesosulfuron-methyl, diflufenican"
+    },
+    {
+      "id": 188,
+      "name": "prothioconazole, fluoxastrobin, dimethenamid-p, metazachlor"
+    },
+    {
+      "id": 192,
+      "name": "Penthiopyrad"
+    },
+    {
+      "id": 196,
+      "name": "maleic hydrazide"
+    },
+    {
+      "id": 197,
+      "name": "maltodextrin"
+    },
+    {
+      "id": 198,
+      "name": "tri-allate"
+    },
+    {
+      "id": 199,
+      "name": "other"
+    },
+    {
+      "id": 202,
+      "name": "ammonium sulphate"
+    },
+    {
+      "id": 203,
+      "name": "quinmerac"
+    },
+    {
+      "id": 205,
+      "name": "aminopyralid"
+    },
+    {
+      "id": 209,
+      "name": "potassium"
+    },
+    {
+      "id": 210,
+      "name": "phosphorus"
+    },
+    {
+      "id": 211,
+      "name": "ammonium"
+    },
+    {
+      "id": 212,
+      "name": "bifenox"
+    },
+    {
+      "id": 213,
+      "name": "isoxaben"
+    },
+    {
+      "id": 214,
+      "name": "clodinafop-propargyl"
+    },
+    {
+      "id": 229,
+      "name": "nitrogen"
+    },
+    {
+      "id": 234,
+      "name": "3,6-dioxaeicosylsulphate, sodium salt"
+    },
+    {
+      "id": 235,
+      "name": "3,6-dioxaoctadecylsulphate, sodium salt"
+    },
+    {
+      "id": 236,
+      "name": "alkoxylated tallow amines"
+    },
+    {
+      "id": 237,
+      "name": "alkoxylated sorbitan esters"
+    },
+    {
+      "id": 238,
+      "name": "alkoxylated alcohols"
+    },
+    {
+      "id": 239,
+      "name": "oil (rapeseed fatty acid esters)"
+    },
+    {
+      "id": 240,
+      "name": "oil (tall oil fatty acids)"
+    },
+    {
+      "id": 241,
+      "name": "paraffin wax"
+    },
+    {
+      "id": 242,
+      "name": "oil (terpeneol alcohols)"
+    },
+    {
+      "id": 243,
+      "name": "oil (rapeseed triglycerides)"
+    },
+    {
+      "id": 244,
+      "name": "alkyl polyglycosides"
+    },
+    {
+      "id": 245,
+      "name": "ammonium iron (III) citrate"
+    },
+    {
+      "id": 246,
+      "name": "ethylene oxide-propylene oxide copolymers"
+    },
+    {
+      "id": 247,
+      "name": "oil (petroleum oils)"
+    },
+    {
+      "id": 248,
+      "name": "trisiloxane organosilicone copolymers"
+    },
+    {
+      "id": 249,
+      "name": "polyethylenimine copolymers"
+    },
+    {
+      "id": 250,
+      "name": "polysaccharides"
+    },
+    {
+      "id": 251,
+      "name": "alkoxylated rapeseed triglycerides"
+    },
+    {
+      "id": 252,
+      "name": "alkyl pyrrolidone copolymers"
+    },
+    {
+      "id": 253,
+      "name": "alkyl pyrrolidones"
+    },
+    {
+      "id": 254,
+      "name": "polysiloxane organosilicone copolymers"
+    },
+    {
+      "id": 255,
+      "name": "rapeseed fatty acids"
+    },
+    {
+      "id": 256,
+      "name": "pinene oligomers"
+    },
+    {
+      "id": 257,
+      "name": "styrene-butadiene copolymers"
+    },
+    {
+      "id": 258,
+      "name": "propionic acid"
+    },
+    {
+      "id": 259,
+      "name": "soybean phospholipids"
+    },
+    {
+      "id": 260,
+      "name": "terpenoid alcohol"
+    },
+    {
+      "id": 261,
+      "name": "alkoxylated coconut amines"
+    },
+    {
+      "id": 262,
+      "name": "oil (sunflower fatty acid esters)"
+    },
+    {
+      "id": 263,
+      "name": "polyacrylamide homopolymers"
+    },
+    {
+      "id": 264,
+      "name": "alkoxylated alcohols-phosphate esters"
+    },
+    {
+      "id": 265,
+      "name": "oil (fatty acid esters)"
+    },
+    {
+      "id": 266,
+      "name": "piperonyl butoxide"
+    },
+    {
+      "id": 267,
+      "name": "alkoxylated soybean triglycerides"
+    },
+    {
+      "id": 268,
+      "name": "alkyl polyglycoside carboxylic acid derivative"
+    },
+    {
+      "id": 269,
+      "name": "plant oil (e.g. essential oils)"
+    },
+    {
+      "id": 270,
+      "name": "soybean solids"
+    },
+    {
+      "id": 271,
+      "name": "oil (soybean fatty acid esters)"
+    },
+    {
+      "id": 272,
+      "name": "alkoxylated alkyl polyglycosides"
+    },
+    {
+      "id": 273,
+      "name": "di-2-ethylhexyl sulphosuccinate, sodium salt"
+    },
+    {
+      "id": 274,
+      "name": "paclobutrazol"
+    },
+    {
+      "id": 275,
+      "name": "tefluthrin"
+    },
+    {
+      "id": 276,
+      "name": "sedaxane"
+    },
+    {
+      "id": 277,
+      "name": "clofentezine"
+    },
+    {
+      "id": 278,
+      "name": "thiamethoxam"
+    },
+    {
+      "id": 279,
+      "name": "pirimiphos-methyl"
+    },
+    {
+      "id": 280,
+      "name": "ferrous sulphate"
+    },
+    {
+      "id": 281,
+      "name": "iron sulphate"
+    },
+    {
+      "id": 282,
+      "name": "bacillus thuringiensis aizawai gc-91"
+    },
+    {
+      "id": 283,
+      "name": "thiram"
+    },
+    {
+      "id": 284,
+      "name": "fenbuconazole"
+    },
+    {
+      "id": 285,
+      "name": "methoxyfenozide"
+    },
+    {
+      "id": 286,
+      "name": "captan"
+    },
+    {
+      "id": 287,
+      "name": "bacillus amyloliquefaciens d747"
+    },
+    {
+      "id": 288,
+      "name": "carboxin"
+    },
+    {
+      "id": 289,
+      "name": "zetacypermethrin"
+    },
+    {
+      "id": 290,
+      "name": "aluminium ammonium sulphate"
+    },
+    {
+      "id": 291,
+      "name": "buprofezin"
+    },
+    {
+      "id": 292,
+      "name": "ampelomyces quisqualis strain aq10"
+    },
+    {
+      "id": 293,
+      "name": "folpet"
+    },
+    {
+      "id": 294,
+      "name": "kresoxim-methyl"
+    },
+    {
+      "id": 295,
+      "name": "fluopyram"
+    },
+    {
+      "id": 296,
+      "name": "1-naphthylacetic acid"
+    },
+    {
+      "id": 297,
+      "name": "potassium hydrogen carbonate"
+    },
+    {
+      "id": 298,
+      "name": "propoxycarbazone-sodium"
+    },
+    {
+      "id": 299,
+      "name": "ferric sulphate"
+    },
+    {
+      "id": 300,
+      "name": "ferrous sulphate monohydrate"
+    },
+    {
+      "id": 301,
+      "name": "pepper"
+    },
+    {
+      "id": 302,
+      "name": "daminozide"
+    },
+    {
+      "id": 303,
+      "name": "flurtamone"
+    },
+    {
+      "id": 304,
+      "name": "fluquinconazole"
+    },
+    {
+      "id": 305,
+      "name": "plant oils_citronella oil"
+    },
+    {
+      "id": 306,
+      "name": "dazomet"
+    },
+    {
+      "id": 307,
+      "name": "tolclofos-methyl"
+    },
+    {
+      "id": 308,
+      "name": "mcpb"
+    },
+    {
+      "id": 309,
+      "name": "fatty acids: pelargonic acid"
+    },
+    {
+      "id": 310,
+      "name": "gibberellins"
+    },
+    {
+      "id": 311,
+      "name": "ethylene"
+    },
+    {
+      "id": 312,
+      "name": "acibenzolar-s-methyl"
+    },
+    {
+      "id": 313,
+      "name": "fatty acids c7-c20"
+    },
+    {
+      "id": 314,
+      "name": "spearmint oil"
+    },
+    {
+      "id": 315,
+      "name": "isoproturon"
+    },
+    {
+      "id": 316,
+      "name": "ethephon"
+    },
+    {
+      "id": 317,
+      "name": "spiroxamine"
+    },
+    {
+      "id": 318,
+      "name": "etoxazole"
+    },
+    {
+      "id": 319,
+      "name": "rapeseed oil"
+    },
+    {
+      "id": 320,
+      "name": "beauveria bassiana gha"
+    },
+    {
+      "id": 321,
+      "name": "imazosulfuron"
+    },
+    {
+      "id": 322,
+      "name": "bacillus thuringiensis kurstaki abts-351"
+    },
+    {
+      "id": 323,
+      "name": "plant oils/rapeseed oil"
+    },
+    {
+      "id": 324,
+      "name": "cloquintocet-mexyl"
+    },
+    {
+      "id": 325,
+      "name": "2,4-db"
+    },
+    {
+      "id": 326,
+      "name": "prohexadione calcium"
+    },
+    {
+      "id": 327,
+      "name": "mepiquat (as chloride)"
+    },
+    {
+      "id": 328,
+      "name": "adoxophyes orana gv (swiss isolate (bv-0001))"
+    },
+    {
+      "id": 329,
+      "name": "cydia pomonella granulosis virus"
+    },
+    {
+      "id": 330,
+      "name": "carbendazim"
+    },
+    {
+      "id": 331,
+      "name": "pseudomonas chlororaphis ma 342"
+    },
+    {
+      "id": 332,
+      "name": "benzovindiflupyr"
+    },
+    {
+      "id": 333,
+      "name": "thiophanate-methyl"
+    },
+    {
+      "id": 334,
+      "name": "amidosulfuron"
+    },
+    {
+      "id": 335,
+      "name": "6-benzyladenine"
+    },
+    {
+      "id": 336,
+      "name": "4-indol-3-ylbutyric acid"
+    },
+    {
+      "id": 337,
+      "name": "indolylbutyric acid"
+    },
+    {
+      "id": 338,
+      "name": "tebufenpyrad"
+    },
+    {
+      "id": 339,
+      "name": "dimethachlor"
+    },
+    {
+      "id": 340,
+      "name": "myclobutanil"
+    },
+    {
+      "id": 341,
+      "name": "bupirimate"
+    },
+    {
+      "id": 342,
+      "name": "fenpyrazamine"
+    },
+    {
+      "id": 343,
+      "name": "fenamidone"
+    },
+    {
+      "id": 344,
+      "name": "flutriafol"
+    },
+    {
+      "id": 345,
+      "name": "chlorantraniliprole"
+    },
+    {
+      "id": 346,
+      "name": "cyflufenamid"
+    },
+    {
+      "id": 347,
+      "name": "imidacloprid"
+    },
+    {
+      "id": 348,
+      "name": "chlormequat chloride"
+    },
+    {
+      "id": 349,
+      "name": "mepiquat"
+    },
+    {
+      "id": 350,
+      "name": "aluminium phosphide"
+    },
+    {
+      "id": 351,
+      "name": "magnesium phosphide"
+    },
+    {
+      "id": 352,
+      "name": "dithianon"
+    },
+    {
+      "id": 353,
+      "name": "potassium phosphonates"
+    },
+    {
+      "id": 354,
+      "name": "clothianidin"
+    },
+    {
+      "id": 355,
+      "name": "ametoctradin"
+    },
+    {
+      "id": 356,
+      "name": "diflubenzuron"
+    },
+    {
+      "id": 357,
+      "name": "metam-sodium"
+    },
+    {
+      "id": 358,
+      "name": "pelargonic acid"
+    },
+    {
+      "id": 359,
+      "name": "verticillium alobo-atrum"
+    },
+    {
+      "id": 360,
+      "name": "garlic extract"
+    },
+    {
+      "id": 361,
+      "name": "acetic acid"
+    },
+    {
+      "id": 362,
+      "name": "zoxamide"
+    },
+    {
+      "id": 363,
+      "name": "penflufen"
+    },
+    {
+      "id": 364,
+      "name": "tetraconazole"
+    },
+    {
+      "id": 365,
+      "name": "spirodiclofen"
+    },
+    {
+      "id": 366,
+      "name": "ethanol"
+    },
+    {
+      "id": 367,
+      "name": "1-methylcyclopropene"
+    },
+    {
+      "id": 368,
+      "name": "dichlorprop-p"
+    },
+    {
+      "id": 369,
+      "name": "(e,e)-8,10-dodecadien-1-ol"
+    },
+    {
+      "id": 370,
+      "name": "indoxacarb"
+    },
+    {
+      "id": 371,
+      "name": "ferrous sulphate heptahydrate"
+    },
+    {
+      "id": 372,
+      "name": "bacillus firmus i - 1582"
+    },
+    {
+      "id": 373,
+      "name": "bifenazate"
+    },
+    {
+      "id": 374,
+      "name": "sulfosulfuron"
+    },
+    {
+      "id": 375,
+      "name": "fenoxaprop-p-ethyl"
+    },
+    {
+      "id": 376,
+      "name": "mepanipyrim"
+    },
+    {
+      "id": 377,
+      "name": "imazalil"
+    },
+    {
+      "id": 378,
+      "name": "triticonazole"
+    },
+    {
+      "id": 379,
+      "name": "benalaxyl"
+    },
+    {
+      "id": 380,
+      "name": "beta-cyfluthrin"
+    },
+    {
+      "id": 381,
+      "name": "chlorpyrifos-methyl"
+    },
+    {
+      "id": 382,
+      "name": "halauxifen-methyl"
+    },
+    {
+      "id": 383,
+      "name": "gibberellic acid (ga3)"
+    },
+    {
+      "id": 384,
+      "name": "bacillus thuringiensis subsp. israelensis strain am65-52"
+    },
+    {
+      "id": 385,
+      "name": "pyraflufen-ethyl"
+    },
+    {
+      "id": 386,
+      "name": "metosulam"
+    },
+    {
+      "id": 387,
+      "name": "thiabendazole"
+    },
+    {
+      "id": 388,
+      "name": "metobromuron"
+    },
+    {
+      "id": 389,
+      "name": "fenoxycarb"
+    },
+    {
+      "id": 390,
+      "name": "(e,z)-3,8-tetradecadien-1-yl acetate"
+    },
+    {
+      "id": 391,
+      "name": "(e,z,z)-3,8,11-tetradecatrien-1-yl acetate"
+    },
+    {
+      "id": 392,
+      "name": "potassium salts of fatty acids"
+    },
+    {
+      "id": 393,
+      "name": "meptyldinocap"
+    },
+    {
+      "id": 394,
+      "name": "prohexadione"
+    },
+    {
+      "id": 395,
+      "name": "silthiofam"
+    },
+    {
+      "id": 396,
+      "name": "tembotrione"
+    },
+    {
+      "id": 397,
+      "name": "amisulbrom"
+    },
+    {
+      "id": 398,
+      "name": "quizalofop-p-ethyl"
+    },
+    {
+      "id": 399,
+      "name": "bacillus thuringiensis kurstaki e2348"
+    },
+    {
+      "id": 400,
+      "name": "fenazaquin"
+    },
+    {
+      "id": 401,
+      "name": "benzoic acid"
+    },
+    {
+      "id": 402,
+      "name": "metarhizium anisopliae"
+    },
+    {
+      "id": 403,
+      "name": "imazaquin"
+    },
+    {
+      "id": 404,
+      "name": "ethoprophos"
+    },
+    {
+      "id": 405,
+      "name": "pencycuron"
+    },
+    {
+      "id": 406,
+      "name": "streptomyces griseoviridis strain k61"
+    },
+    {
+      "id": 407,
+      "name": "lecanicillium muscarium"
+    },
+    {
+      "id": 408,
+      "name": "beauveria bassiana atcc-74040"
+    },
+    {
+      "id": 409,
+      "name": "candida oleophila strain 0"
+    },
+    {
+      "id": 410,
+      "name": "flutolanil"
+    },
+    {
+      "id": 411,
+      "name": "spiromesifen"
+    },
+    {
+      "id": 412,
+      "name": "quizalofop-p-tefuryl"
+    },
+    {
+      "id": 413,
+      "name": "pyrimethanil"
+    },
+    {
+      "id": 414,
+      "name": "phlebiopsis gigantea"
+    },
+    {
+      "id": 415,
+      "name": "pepino mosaic virus strain ch2 isolate 1906"
+    },
+    {
+      "id": 416,
+      "name": "pythium oligandrum m1"
+    },
+    {
+      "id": 417,
+      "name": "gliocladium catenulatum"
+    },
+    {
+      "id": 418,
+      "name": "sulfuryl fluoride"
+    },
+    {
+      "id": 419,
+      "name": "pyriofenone"
+    },
+    {
+      "id": 420,
+      "name": "dodine"
+    },
+    {
+      "id": 421,
+      "name": "dodecadienol"
+    },
+    {
+      "id": 422,
+      "name": "tetradecenyl acetate"
+    },
+    {
+      "id": 423,
+      "name": "tetradecylacetate"
+    },
+    {
+      "id": 424,
+      "name": "ipconazole"
+    },
+    {
+      "id": 425,
+      "name": "penconazole"
+    },
+    {
+      "id": 426,
+      "name": "bromuconazole"
+    },
+    {
+      "id": 427,
+      "name": "pethoxamid"
+    },
+    {
+      "id": 428,
+      "name": "trichoderma asperellum, strain t34"
+    },
+    {
+      "id": 429,
+      "name": "hymexazol"
+    },
+    {
+      "id": 430,
+      "name": "chlorotoluron"
+    },
+    {
+      "id": 431,
+      "name": "etofenprox"
+    },
+    {
+      "id": 432,
+      "name": "trichoderma harzianum strain t22"
+    },
+    {
+      "id": 433,
+      "name": "laminarin"
+    },
+    {
+      "id": 434,
+      "name": "cyantraniliprole"
+    },
+    {
+      "id": 455,
+      "name": "amino acids"
+    },
+    {
+      "id": 456,
+      "name": "gibberellin"
+    },
+    {
+      "id": 458,
+      "name": "asulam"
+    },
+    {
+      "id": 459,
+      "name": "pseudomonas sp. (dsmz 13134)"
+    },
+    {
+      "id": 460,
+      "name": "sheep fat"
+    },
+    {
+      "id": 461,
+      "name": "l-isomer amino acids"
+    },
+    {
+      "id": 462,
+      "name": "humic acid"
+    },
+    {
+      "id": 463,
+      "name": "fulvic acid"
+    },
+    {
+      "id": 464,
+      "name": "propane"
+    },
+    {
+      "id": 465,
+      "name": "sodium borates"
+    },
+    {
+      "id": 466,
+      "name": "boric acid"
+    },
+    {
+      "id": 467,
+      "name": "molybdenum"
+    },
+    {
+      "id": 468,
+      "name": "calcium oxide"
+    },
+    {
+      "id": 469,
+      "name": "magnesium oxide"
+    },
+    {
+      "id": 470,
+      "name": "sulphur trioxide"
+    },
+    {
+      "id": 471,
+      "name": "kerosene"
+    },
+    {
+      "id": 472,
+      "name": "organic matter"
+    },
+    {
+      "id": 473,
+      "name": "alkaline detergents"
+    },
+    {
+      "id": 474,
+      "name": "potassium oxide"
+    },
+    {
+      "id": 475,
+      "name": "phosphorus pentoxide"
+    },
+    {
+      "id": 476,
+      "name": "iron"
+    },
+    {
+      "id": 477,
+      "name": "calcium chloride"
+    },
+    {
+      "id": 478,
+      "name": "diesel"
+    },
+    {
+      "id": 479,
+      "name": "sulfur trioxide"
+    },
+    {
+      "id": 480,
+      "name": "arbuscular mycorrhizal fungi"
+    },
+    {
+      "id": 481,
+      "name": "calcium"
+    },
+    {
+      "id": 482,
+      "name": "proprietary surfactant/polymer blend"
+    },
+    {
+      "id": 483,
+      "name": "nitrogen sulphur"
+    },
+    {
+      "id": 484,
+      "name": "phosphoric anhydride"
+    },
+    {
+      "id": 485,
+      "name": "pyrasulfotole"
+    },
+    {
+      "id": 486,
+      "name": "peroxyacetic acid"
+    },
+    {
+      "id": 487,
+      "name": "carboxymethylcellulose sodium salt"
+    },
+    {
+      "id": 488,
+      "name": "silicon"
+    },
+    {
+      "id": 489,
+      "name": "oxathiapiprolin"
+    },
+    {
+      "id": 490,
+      "name": "predatory mites"
+    },
+    {
+      "id": 491,
+      "name": "fer"
+    },
+    {
+      "id": 492,
+      "name": "methylated rapeseed oil"
+    },
+    {
+      "id": 493,
+      "name": "difethialone"
+    },
+    {
+      "id": 494,
+      "name": "dialkyloimethyl ammonium chloride"
+    },
+    {
+      "id": 495,
+      "name": "bromadiolone"
+    },
+    {
+      "id": 496,
+      "name": "difenacoum"
+    },
+    {
+      "id": 497,
+      "name": "brodifacoum"
+    },
+    {
+      "id": 498,
+      "name": "sulfur"
+    },
+    {
+      "id": 499,
+      "name": "sodium"
+    },
+    {
+      "id": 500,
+      "name": "demozole"
+    },
+    {
+      "id": 501,
+      "name": "potassium nitrate"
+    },
+    {
+      "id": 502,
+      "name": "sodium nitrate"
+    },
+    {
+      "id": 503,
+      "name": "nitrapyrin"
+    },
+    {
+      "id": 504,
+      "name": "aclonifen"
+    },
+    {
+      "id": 505,
+      "name": "azadirachtin"
+    },
+    {
+      "id": 506,
+      "name": "k2o"
+    },
+    {
+      "id": 507,
+      "name": "p2o5"
+    },
+    {
+      "id": 508,
+      "name": "so3"
+    },
+    {
+      "id": 509,
+      "name": "sodium silver thiosulphate"
+    },
+    {
+      "id": 510,
+      "name": "flavonoids"
+    },
+    {
+      "id": 511,
+      "name": "bacillus thuringiensis kurstaki SA-11"
+    },
+    {
+      "id": 512,
+      "name": "acrylic copolymer"
+    },
+    {
+      "id": 513,
+      "name": "COS-OGA"
+    },
+    {
+      "id": 514,
+      "name": "bacillus amyloliquefaciens strain MBI600"
+    },
+    {
+      "id": 515,
+      "name": "carboxylated styrene-butabiene copolymer"
+    },
+    {
+      "id": 516,
+      "name": "didecyldimethyl-ammonium chloride"
+    },
+    {
+      "id": 517,
+      "name": "propan 2-ol alcohols"
+    },
+    {
+      "id": 518,
+      "name": "silica"
+    },
+    {
+      "id": 519,
+      "name": "alumina"
+    },
+    {
+      "id": 520,
+      "name": "strontium"
+    },
+    {
+      "id": 521,
+      "name": "barium"
+    },
+    {
+      "id": 522,
+      "name": "seaweed extract"
+    },
+    {
+      "id": 523,
+      "name": "mefentrifluconazole"
+    },
+    {
+      "id": 524,
+      "name": "phototropic non-sulfur bacteria"
+    },
+    {
+      "id": 525,
+      "name": "lactic acid bacteria"
+    },
+    {
+      "id": 526,
+      "name": "cobalt"
+    },
+    {
+      "id": 527,
+      "name": "thermo poly aspartate"
+    },
+    {
+      "id": 528,
+      "name": "sulfoxaflor"
+    },
+    {
+      "id": 529,
+      "name": "hydrocarbyl polyalkylenes"
+    },
+    {
+      "id": 530,
+      "name": "glycol ethers"
+    },
+    {
+      "id": 531,
+      "name": "alkyl ether sulphates"
+    },
+    {
+      "id": 532,
+      "name": "extract of chenopodium ambrosioides"
+    },
+    {
+      "id": 533,
+      "name": "cerevisane"
+    },
+    {
+      "id": 534,
+      "name": "organo-sillicate"
+    },
+    {
+      "id": 535,
+      "name": "bacillus pumilus QST2808"
+    },
+    {
+      "id": 536,
+      "name": "bacillus amyloliquefaciens strain FZB24"
+    },
+    {
+      "id": 537,
+      "name": "mild pepino mosaic virus isolate VC1"
+    },
+    {
+      "id": 538,
+      "name": "urease inhibitor"
+    },
+    {
+      "id": 539,
+      "name": "dicyandiamide"
+    },
+    {
+      "id": 540,
+      "name": "chlorine"
+    },
+    {
+      "id": 541,
+      "name": "pentanoate"
+    },
+    {
+      "id": 542,
+      "name": "benthiavalicarb"
+    },
+    {
+      "id": 543,
+      "name": "flusilazole"
+    },
+    {
+      "id": 544,
+      "name": "2-chloroethylphosphonic acid"
+    },
+    {
+      "id": 545,
+      "name": "Aardvark"
+    },
+    {
+      "id": 546,
+      "name": "Abacus"
+    },
+    {
+      "id": 547,
+      "name": "AberAvon"
+    },
+    {
+      "id": 548,
+      "name": "AberBite"
+    },
+    {
+      "id": 549,
+      "name": "AberChoice"
+    },
+    {
+      "id": 550,
+      "name": "AberClyde"
+    },
+    {
+      "id": 551,
+      "name": "AberDart"
+    },
+    {
+      "id": 1405,
+      "name": "Cox"
+    },
+    {
+      "id": 552,
+      "name": "AberFarrell"
+    },
+    {
+      "id": 553,
+      "name": "AberGain"
+    },
+    {
+      "id": 554,
+      "name": "AberGlyn"
+    },
+    {
+      "id": 555,
+      "name": "AberGreen"
+    },
+    {
+      "id": 556,
+      "name": "AberMagic"
+    },
+    {
+      "id": 557,
+      "name": "AberPlentiful"
+    },
+    {
+      "id": 558,
+      "name": "AberStar"
+    },
+    {
+      "id": 559,
+      "name": "AberTorch"
+    },
+    {
+      "id": 560,
+      "name": "AberWolf"
+    },
+    {
+      "id": 561,
+      "name": "Absalson"
+    },
+    {
+      "id": 562,
+      "name": "Acacia"
+    },
+    {
+      "id": 563,
+      "name": "Acorn"
+    },
+    {
+      "id": 564,
+      "name": "Activate"
+    },
+    {
+      "id": 565,
+      "name": "Advance"
+    },
+    {
+      "id": 566,
+      "name": "Adverdo"
+    },
+    {
+      "id": 567,
+      "name": "Agostino"
+    },
+    {
+      "id": 568,
+      "name": "Agriaxx"
+    },
+    {
+      "id": 569,
+      "name": "Agrovista Black Oat mix"
+    },
+    {
+      "id": 570,
+      "name": "Aikido"
+    },
+    {
+      "id": 571,
+      "name": "Alchemy"
+    },
+    {
+      "id": 572,
+      "name": "Alfastar"
+    },
+    {
+      "id": 573,
+      "name": "Alfonso"
+    },
+    {
+      "id": 574,
+      "name": "Alicia"
+    },
+    {
+      "id": 575,
+      "name": "Alisha KWS"
+    },
+    {
+      "id": 576,
+      "name": "Alizze"
+    },
+    {
+      "id": 577,
+      "name": "Altess"
+    },
+    {
+      "id": 578,
+      "name": "Amagrano"
+    },
+    {
+      "id": 579,
+      "name": "Amalie"
+    },
+    {
+      "id": 580,
+      "name": "Amaverde"
+    },
+    {
+      "id": 581,
+      "name": "Ambition"
+    },
+    {
+      "id": 582,
+      "name": "Ambrosini"
+    },
+    {
+      "id": 583,
+      "name": "Amerango"
+    },
+    {
+      "id": 584,
+      "name": "Anaconda"
+    },
+    {
+      "id": 585,
+      "name": "Anastasia"
+    },
+    {
+      "id": 586,
+      "name": "Angus"
+    },
+    {
+      "id": 587,
+      "name": "Annalise"
+    },
+    {
+      "id": 588,
+      "name": "Aquarius"
+    },
+    {
+      "id": 589,
+      "name": "Aquila"
+    },
+    {
+      "id": 590,
+      "name": "Arantes"
+    },
+    {
+      "id": 591,
+      "name": "Arazzo"
+    },
+    {
+      "id": 592,
+      "name": "Archimedes"
+    },
+    {
+      "id": 593,
+      "name": "Architect"
+    },
+    {
+      "id": 594,
+      "name": "Aries"
+    },
+    {
+      "id": 595,
+      "name": "Arrow"
+    },
+    {
+      "id": 596,
+      "name": "Arthur"
+    },
+    {
+      "id": 597,
+      "name": "Artic"
+    },
+    {
+      "id": 598,
+      "name": "Artoga"
+    },
+    {
+      "id": 599,
+      "name": "Asgaard"
+    },
+    {
+      "id": 600,
+      "name": "Aspect"
+    },
+    {
+      "id": 601,
+      "name": "Aspen"
+    },
+    {
+      "id": 602,
+      "name": "Aspire"
+    },
+    {
+      "id": 603,
+      "name": "Asteroid"
+    },
+    {
+      "id": 604,
+      "name": "AstonAmber"
+    },
+    {
+      "id": 605,
+      "name": "AstonBonus"
+    },
+    {
+      "id": 606,
+      "name": "AstonEnergy"
+    },
+    {
+      "id": 607,
+      "name": "Aston Princess"
+    },
+    {
+      "id": 608,
+      "name": "Atego"
+    },
+    {
+      "id": 609,
+      "name": "Atrium"
+    },
+    {
+      "id": 610,
+      "name": "Aubisque"
+    },
+    {
+      "id": 611,
+      "name": "Augustus"
+    },
+    {
+      "id": 612,
+      "name": "Aurelia"
+    },
+    {
+      "id": 613,
+      "name": "Aurelius"
+    },
+    {
+      "id": 614,
+      "name": "Aurora"
+    },
+    {
+      "id": 615,
+      "name": "Autens"
+    },
+    {
+      "id": 616,
+      "name": "Avitus"
+    },
+    {
+      "id": 617,
+      "name": "Award"
+    },
+    {
+      "id": 618,
+      "name": "Ballard"
+    },
+    {
+      "id": 619,
+      "name": "Bangor"
+    },
+    {
+      "id": 620,
+      "name": "Barbados"
+    },
+    {
+      "id": 621,
+      "name": "Barents Energy Beet"
+    },
+    {
+      "id": 622,
+      "name": "Barkant"
+    },
+    {
+      "id": 623,
+      "name": "Batsman"
+    },
+    {
+      "id": 624,
+      "name": "Bazooka"
+    },
+    {
+      "id": 625,
+      "name": "Beacon"
+    },
+    {
+      "id": 626,
+      "name": "Beethoven"
+    },
+    {
+      "id": 627,
+      "name": "Belepi"
+    },
+    {
+      "id": 628,
+      "name": "Belfry"
+    },
+    {
+      "id": 629,
+      "name": "Belgrade"
+    },
+    {
+      "id": 630,
+      "name": "Belgravia"
+    },
+    {
+      "id": 631,
+      "name": "Belinda"
+    },
+    {
+      "id": 632,
+      "name": "Belmont"
+    },
+    {
+      "id": 633,
+      "name": "Belvoir"
+    },
+    {
+      "id": 634,
+      "name": "Bennington"
+    },
+    {
+      "id": 635,
+      "name": "Beretta"
+    },
+    {
+      "id": 636,
+      "name": "Berseem Clover"
+    },
+    {
+      "id": 637,
+      "name": "Bijou"
+    },
+    {
+      "id": 638,
+      "name": "Bingo"
+    },
+    {
+      "id": 639,
+      "name": "Black Oats"
+    },
+    {
+      "id": 640,
+      "name": "Blaze - Seed"
+    },
+    {
+      "id": 641,
+      "name": "Blizzard"
+    },
+    {
+      "id": 642,
+      "name": "Bluetooth"
+    },
+    {
+      "id": 643,
+      "name": "Bojko"
+    },
+    {
+      "id": 644,
+      "name": "Bonnie"
+    },
+    {
+      "id": 645,
+      "name": "Bowler"
+    },
+    {
+      "id": 646,
+      "name": "Boxer"
+    },
+    {
+      "id": 647,
+      "name": "Boyne"
+    },
+    {
+      "id": 648,
+      "name": "Bradley"
+    },
+    {
+      "id": 649,
+      "name": "Brick"
+    },
+    {
+      "id": 650,
+      "name": "Brighton"
+    },
+    {
+      "id": 651,
+      "name": "Britannia"
+    },
+    {
+      "id": 652,
+      "name": "BTS 260"
+    },
+    {
+      "id": 653,
+      "name": "BTS 340"
+    },
+    {
+      "id": 654,
+      "name": "BTS 470"
+    },
+    {
+      "id": 655,
+      "name": "BTS 860"
+    },
+    {
+      "id": 656,
+      "name": "Builder"
+    },
+    {
+      "id": 657,
+      "name": "Bumble"
+    },
+    {
+      "id": 658,
+      "name": "Cagnotte"
+    },
+    {
+      "id": 659,
+      "name": "Caledon"
+    },
+    {
+      "id": 660,
+      "name": "California"
+    },
+    {
+      "id": 661,
+      "name": "Campus"
+    },
+    {
+      "id": 662,
+      "name": "Cancan"
+    },
+    {
+      "id": 663,
+      "name": "Cantona KWS"
+    },
+    {
+      "id": 664,
+      "name": "Canyon"
+    },
+    {
+      "id": 665,
+      "name": "Carat"
+    },
+    {
+      "id": 666,
+      "name": "Cardeal"
+    },
+    {
+      "id": 667,
+      "name": "Carina"
+    },
+    {
+      "id": 668,
+      "name": "Carriag"
+    },
+    {
+      "id": 669,
+      "name": "Cassata"
+    },
+    {
+      "id": 670,
+      "name": "Catana"
+    },
+    {
+      "id": 671,
+      "name": "Cathy"
+    },
+    {
+      "id": 672,
+      "name": "Cavendish"
+    },
+    {
+      "id": 673,
+      "name": "Cayman"
+    },
+    {
+      "id": 674,
+      "name": "Cerise"
+    },
+    {
+      "id": 675,
+      "name": "ChaCha"
+    },
+    {
+      "id": 676,
+      "name": "Chanson ~"
+    },
+    {
+      "id": 677,
+      "name": "Chapeau"
+    },
+    {
+      "id": 678,
+      "name": "Charger"
+    },
+    {
+      "id": 679,
+      "name": "Chlorofiltre 25"
+    },
+    {
+      "id": 680,
+      "name": "Chlorofiltre 26"
+    },
+    {
+      "id": 681,
+      "name": "Chlorofiltre 31"
+    },
+    {
+      "id": 682,
+      "name": "Chlorofiltre N-Structure"
+    },
+    {
+      "id": 683,
+      "name": "Cindy Kws"
+    },
+    {
+      "id": 684,
+      "name": "Cito"
+    },
+    {
+      "id": 685,
+      "name": "Claire"
+    },
+    {
+      "id": 686,
+      "name": "Clanrye"
+    },
+    {
+      "id": 687,
+      "name": "Cocoon"
+    },
+    {
+      "id": 688,
+      "name": "Colisee"
+    },
+    {
+      "id": 689,
+      "name": "Colossus"
+    },
+    {
+      "id": 690,
+      "name": "Compass"
+    },
+    {
+      "id": 691,
+      "name": "Concerto"
+    },
+    {
+      "id": 692,
+      "name": "Conqueror"
+    },
+    {
+      "id": 693,
+      "name": "Conway"
+    },
+    {
+      "id": 694,
+      "name": "Copeland"
+    },
+    {
+      "id": 695,
+      "name": "Cordiale"
+    },
+    {
+      "id": 696,
+      "name": "Cosmopolitan"
+    },
+    {
+      "id": 697,
+      "name": "Costello"
+    },
+    {
+      "id": 698,
+      "name": "Cover Crop Mix"
+    },
+    {
+      "id": 699,
+      "name": "Cover Crop (oats and mustard)"
+    },
+    {
+      "id": 700,
+      "name": "Crackerjack"
+    },
+    {
+      "id": 701,
+      "name": "Craft"
+    },
+    {
+      "id": 702,
+      "name": "Crescendo"
+    },
+    {
+      "id": 703,
+      "name": "Crusoe"
+    },
+    {
+      "id": 704,
+      "name": "Cumulus"
+    },
+    {
+      "id": 705,
+      "name": "Cyrkon"
+    },
+    {
+      "id": 706,
+      "name": "Dalguise"
+    },
+    {
+      "id": 707,
+      "name": "Dariot"
+    },
+    {
+      "id": 708,
+      "name": "Darnella KWS"
+    },
+    {
+      "id": 709,
+      "name": "Davy"
+    },
+    {
+      "id": 710,
+      "name": "Daytona"
+    },
+    {
+      "id": 711,
+      "name": "Delight"
+    },
+    {
+      "id": 712,
+      "name": "Delilah"
+    },
+    {
+      "id": 713,
+      "name": "Dickens"
+    },
+    {
+      "id": 714,
+      "name": "Dioptric"
+    },
+    {
+      "id": 715,
+      "name": "Django"
+    },
+    {
+      "id": 716,
+      "name": "DK Cabernet"
+    },
+    {
+      "id": 717,
+      "name": "DK Exalte"
+    },
+    {
+      "id": 718,
+      "name": "DK Excellium"
+    },
+    {
+      "id": 719,
+      "name": "DK Exception"
+    },
+    {
+      "id": 720,
+      "name": "DK Exclaim"
+    },
+    {
+      "id": 721,
+      "name": "DK Exentiel"
+    },
+    {
+      "id": 722,
+      "name": "DK Expansion"
+    },
+    {
+      "id": 723,
+      "name": "DK Expedient"
+    },
+    {
+      "id": 724,
+      "name": "DK Explicit"
+    },
+    {
+      "id": 725,
+      "name": "DK ExPower"
+    },
+    {
+      "id": 726,
+      "name": "DK Extrovert"
+    },
+    {
+      "id": 727,
+      "name": "DK Imagis-CL"
+    },
+    {
+      "id": 728,
+      "name": "DK Imperial CL"
+    },
+    {
+      "id": 729,
+      "name": "DK Impressario CL"
+    },
+    {
+      "id": 730,
+      "name": "DK Impression CL"
+    },
+    {
+      "id": 731,
+      "name": "DK Secret"
+    },
+    {
+      "id": 732,
+      "name": "Dodger"
+    },
+    {
+      "id": 733,
+      "name": "Doktrin"
+    },
+    {
+      "id": 734,
+      "name": "Dominator"
+    },
+    {
+      "id": 735,
+      "name": "Dozzen"
+    },
+    {
+      "id": 736,
+      "name": "Drift"
+    },
+    {
+      "id": 737,
+      "name": "Drumbo"
+    },
+    {
+      "id": 738,
+      "name": "Dualto"
+    },
+    {
+      "id": 739,
+      "name": "Duchess"
+    },
+    {
+      "id": 740,
+      "name": "Dukato"
+    },
+    {
+      "id": 741,
+      "name": "Dundrum"
+    },
+    {
+      "id": 742,
+      "name": "Dunluce"
+    },
+    {
+      "id": 743,
+      "name": "Dunston"
+    },
+    {
+      "id": 744,
+      "name": "Durola"
+    },
+    {
+      "id": 745,
+      "name": "Dutop"
+    },
+    {
+      "id": 746,
+      "name": "Dynamo Organic"
+    },
+    {
+      "id": 747,
+      "name": "Edgar"
+    },
+    {
+      "id": 748,
+      "name": "Elation"
+    },
+    {
+      "id": 749,
+      "name": "Electrum"
+    },
+    {
+      "id": 750,
+      "name": "Elevation"
+    },
+    {
+      "id": 751,
+      "name": "Elgar"
+    },
+    {
+      "id": 752,
+      "name": "Elgon"
+    },
+    {
+      "id": 753,
+      "name": "Elicit"
+    },
+    {
+      "id": 754,
+      "name": "Elyria"
+    },
+    {
+      "id": 755,
+      "name": "Emblem"
+    },
+    {
+      "id": 756,
+      "name": "Empress"
+    },
+    {
+      "id": 757,
+      "name": "Enermax"
+    },
+    {
+      "id": 758,
+      "name": "Equity"
+    },
+    {
+      "id": 759,
+      "name": "Eraton"
+    },
+    {
+      "id": 760,
+      "name": "Ergo"
+    },
+    {
+      "id": 761,
+      "name": "Es Algeria"
+    },
+    {
+      "id": 762,
+      "name": "Es Alienor"
+    },
+    {
+      "id": 763,
+      "name": "Es Ardent"
+    },
+    {
+      "id": 764,
+      "name": "Es Astrid"
+    },
+    {
+      "id": 765,
+      "name": "Es Ballade"
+    },
+    {
+      "id": 766,
+      "name": "Es Bodyguard"
+    },
+    {
+      "id": 767,
+      "name": "Es Capris"
+    },
+    {
+      "id": 768,
+      "name": "ES Cluedo"
+    },
+    {
+      "id": 769,
+      "name": "Es Cubic"
+    },
+    {
+      "id": 770,
+      "name": "Es Kira"
+    },
+    {
+      "id": 771,
+      "name": "Es Lovely"
+    },
+    {
+      "id": 772,
+      "name": "Es Mambo"
+    },
+    {
+      "id": 773,
+      "name": "ES Marco"
+    },
+    {
+      "id": 774,
+      "name": "Es Picker"
+    },
+    {
+      "id": 775,
+      "name": "Es Regain"
+    },
+    {
+      "id": 776,
+      "name": "Es Remington"
+    },
+    {
+      "id": 777,
+      "name": "Eurostar"
+    },
+    {
+      "id": 778,
+      "name": "Evolution"
+    },
+    {
+      "id": 779,
+      "name": "Explorer"
+    },
+    {
+      "id": 780,
+      "name": "Exxtens"
+    },
+    {
+      "id": 781,
+      "name": "Fabregas"
+    },
+    {
+      "id": 782,
+      "name": "Fairing"
+    },
+    {
+      "id": 783,
+      "name": "Fanfare"
+    },
+    {
+      "id": 784,
+      "name": "Fashion"
+    },
+    {
+      "id": 785,
+      "name": "Feldherr"
+    },
+    {
+      "id": 786,
+      "name": "Fencer"
+    },
+    {
+      "id": 787,
+      "name": "Festival"
+    },
+    {
+      "id": 788,
+      "name": "Fieldstar"
+    },
+    {
+      "id": 789,
+      "name": "Fintona"
+    },
+    {
+      "id": 790,
+      "name": "Fire\ufffdy"
+    },
+    {
+      "id": 791,
+      "name": "Fire\ufffd\ufffd_y"
+    },
+    {
+      "id": 792,
+      "name": "Firth"
+    },
+    {
+      "id": 793,
+      "name": "Flagon"
+    },
+    {
+      "id": 794,
+      "name": "Flamingo"
+    },
+    {
+      "id": 795,
+      "name": "Fletcher"
+    },
+    {
+      "id": 796,
+      "name": "Flixter"
+    },
+    {
+      "id": 797,
+      "name": "Flower"
+    },
+    {
+      "id": 798,
+      "name": "Forage Rye"
+    },
+    {
+      "id": 799,
+      "name": "Fornido"
+    },
+    {
+      "id": 800,
+      "name": "Foxtrot"
+    },
+    {
+      "id": 801,
+      "name": "Frederico"
+    },
+    {
+      "id": 802,
+      "name": "Freiston"
+    },
+    {
+      "id": 803,
+      "name": "Fuego"
+    },
+    {
+      "id": 804,
+      "name": "Funky"
+    },
+    {
+      "id": 805,
+      "name": "Fury"
+    },
+    {
+      "id": 806,
+      "name": "Fusion"
+    },
+    {
+      "id": 807,
+      "name": "Galaad"
+    },
+    {
+      "id": 808,
+      "name": "Gallant"
+    },
+    {
+      "id": 809,
+      "name": "Galway White Clover"
+    },
+    {
+      "id": 810,
+      "name": "Gatsby"
+    },
+    {
+      "id": 811,
+      "name": "Genesis"
+    },
+    {
+      "id": 812,
+      "name": "Geneva"
+    },
+    {
+      "id": 813,
+      "name": "Genki"
+    },
+    {
+      "id": 814,
+      "name": "Gerald"
+    },
+    {
+      "id": 815,
+      "name": "Gerty Kws"
+    },
+    {
+      "id": 816,
+      "name": "Ginfizz"
+    },
+    {
+      "id": 817,
+      "name": "GK Emma"
+    },
+    {
+      "id": 818,
+      "name": "Gleam"
+    },
+    {
+      "id": 819,
+      "name": "Glenariff"
+    },
+    {
+      "id": 820,
+      "name": "Glenarm"
+    },
+    {
+      "id": 821,
+      "name": "Glenstal"
+    },
+    {
+      "id": 822,
+      "name": "Glenvale"
+    },
+    {
+      "id": 823,
+      "name": "Glory"
+    },
+    {
+      "id": 824,
+      "name": "Grafton"
+    },
+    {
+      "id": 825,
+      "name": "Graham"
+    },
+    {
+      "id": 826,
+      "name": "Green Globe"
+    },
+    {
+      "id": 827,
+      "name": "Greenwood"
+    },
+    {
+      "id": 828,
+      "name": "Gregor"
+    },
+    {
+      "id": 829,
+      "name": "Griffin"
+    },
+    {
+      "id": 830,
+      "name": "Hacker"
+    },
+    {
+      "id": 831,
+      "name": "Hardwicke"
+    },
+    {
+      "id": 832,
+      "name": "Harper"
+    },
+    {
+      "id": 833,
+      "name": "Haydn"
+    },
+    {
+      "id": 834,
+      "name": "Herbal"
+    },
+    {
+      "id": 835,
+      "name": "Heroldo"
+    },
+    {
+      "id": 836,
+      "name": "Hobbit"
+    },
+    {
+      "id": 837,
+      "name": "Hobson"
+    },
+    {
+      "id": 838,
+      "name": "Home saved seeds"
+    },
+    {
+      "id": 839,
+      "name": "Honey"
+    },
+    {
+      "id": 840,
+      "name": "Horatio"
+    },
+    {
+      "id": 841,
+      "name": "Hornet"
+    },
+    {
+      "id": 842,
+      "name": "Hungry Gap"
+    },
+    {
+      "id": 843,
+      "name": "Hurricane"
+    },
+    {
+      "id": 844,
+      "name": "Ideal"
+    },
+    {
+      "id": 845,
+      "name": "Incentive"
+    },
+    {
+      "id": 846,
+      "name": "Indexx"
+    },
+    {
+      "id": 847,
+      "name": "Insentive"
+    },
+    {
+      "id": 848,
+      "name": "Inspector"
+    },
+    {
+      "id": 849,
+      "name": "Interval"
+    },
+    {
+      "id": 850,
+      "name": "InV1035"
+    },
+    {
+      "id": 851,
+      "name": "Invicta"
+    },
+    {
+      "id": 852,
+      "name": "Irondal"
+    },
+    {
+      "id": 853,
+      "name": "Istabraq"
+    },
+    {
+      "id": 854,
+      "name": "Jamon"
+    },
+    {
+      "id": 855,
+      "name": "JB Diego"
+    },
+    {
+      "id": 856,
+      "name": "Juliet"
+    },
+    {
+      "id": 857,
+      "name": "Justina"
+    },
+    {
+      "id": 858,
+      "name": "Kabuki"
+    },
+    {
+      "id": 859,
+      "name": "Kaolin"
+    },
+    {
+      "id": 860,
+      "name": "Kareni"
+    },
+    {
+      "id": 861,
+      "name": "Karpate"
+    },
+    {
+      "id": 862,
+      "name": "Kaspian"
+    },
+    {
+      "id": 863,
+      "name": "Keeper"
+    },
+    {
+      "id": 864,
+      "name": "Keops"
+    },
+    {
+      "id": 865,
+      "name": "Kereon"
+    },
+    {
+      "id": 866,
+      "name": "Kilrea"
+    },
+    {
+      "id": 867,
+      "name": "Kimber"
+    },
+    {
+      "id": 868,
+      "name": "Kingfisher"
+    },
+    {
+      "id": 869,
+      "name": "Kompetens"
+    },
+    {
+      "id": 870,
+      "name": "Konsulixx"
+    },
+    {
+      "id": 871,
+      "name": "Kougar"
+    },
+    {
+      "id": 872,
+      "name": "Kroft"
+    },
+    {
+      "id": 873,
+      "name": "KWS Alderon"
+    },
+    {
+      "id": 874,
+      "name": "KWS Astaire"
+    },
+    {
+      "id": 875,
+      "name": "KWS Barrel"
+    },
+    {
+      "id": 876,
+      "name": "KWS Basset"
+    },
+    {
+      "id": 877,
+      "name": "KWS Bono"
+    },
+    {
+      "id": 878,
+      "name": "KWS Butterfly"
+    },
+    {
+      "id": 879,
+      "name": "KWS Calvini"
+    },
+    {
+      "id": 880,
+      "name": "KWS Cassia"
+    },
+    {
+      "id": 881,
+      "name": "KWS Chilham"
+    },
+    {
+      "id": 882,
+      "name": "KWS Cochise"
+    },
+    {
+      "id": 883,
+      "name": "KWS Creswell"
+    },
+    {
+      "id": 884,
+      "name": "KWS Crispin"
+    },
+    {
+      "id": 885,
+      "name": "KWS Daniello"
+    },
+    {
+      "id": 886,
+      "name": "KWS Exelon"
+    },
+    {
+      "id": 887,
+      "name": "KWS Extase"
+    },
+    {
+      "id": 888,
+      "name": "KWS Fido"
+    },
+    {
+      "id": 889,
+      "name": "KWS Firefly"
+    },
+    {
+      "id": 890,
+      "name": "KWS Gator"
+    },
+    {
+      "id": 891,
+      "name": "KWS Gimlet"
+    },
+    {
+      "id": 892,
+      "name": "KWS Glacier"
+    },
+    {
+      "id": 893,
+      "name": "KWS Grafton"
+    },
+    {
+      "id": 894,
+      "name": "KWS Himmedia CL"
+    },
+    {
+      "id": 895,
+      "name": "KWS Infinity"
+    },
+    {
+      "id": 896,
+      "name": "KWS Irina"
+    },
+    {
+      "id": 897,
+      "name": "KWS Kerrin"
+    },
+    {
+      "id": 898,
+      "name": "KWS Kielder"
+    },
+    {
+      "id": 899,
+      "name": "KWS Kilburn"
+    },
+    {
+      "id": 900,
+      "name": "KWS Kinetic"
+    },
+    {
+      "id": 901,
+      "name": "KWS Lili"
+    },
+    {
+      "id": 902,
+      "name": "KWS Magnifico"
+    },
+    {
+      "id": 903,
+      "name": "KWS Manager"
+    },
+    {
+      "id": 904,
+      "name": "KWS Mankato"
+    },
+    {
+      "id": 905,
+      "name": "KWS Montana"
+    },
+    {
+      "id": 906,
+      "name": "KWS Orwell"
+    },
+    {
+      "id": 907,
+      "name": "KWS Progas"
+    },
+    {
+      "id": 908,
+      "name": "KWS Propower"
+    },
+    {
+      "id": 909,
+      "name": "KWS Santiago"
+    },
+    {
+      "id": 910,
+      "name": "KWS Sassy"
+    },
+    {
+      "id": 911,
+      "name": "KWS Silverstone"
+    },
+    {
+      "id": 912,
+      "name": "KWS Siskin"
+    },
+    {
+      "id": 913,
+      "name": "KWS Solo"
+    },
+    {
+      "id": 1424,
+      "name": "AB9"
+    },
+    {
+      "id": 914,
+      "name": "KWS Tempo"
+    },
+    {
+      "id": 915,
+      "name": "KWS Tower"
+    },
+    {
+      "id": 916,
+      "name": "KWS Trinity"
+    },
+    {
+      "id": 917,
+      "name": "KWS Willow"
+    },
+    {
+      "id": 918,
+      "name": "KWS Zyatt"
+    },
+    {
+      "id": 919,
+      "name": "Laureate"
+    },
+    {
+      "id": 920,
+      "name": "Leeds"
+    },
+    {
+      "id": 921,
+      "name": "Leesha KWS"
+    },
+    {
+      "id": 922,
+      "name": "Lennon"
+    },
+    {
+      "id": 923,
+      "name": "Lennox"
+    },
+    {
+      "id": 924,
+      "name": "LG 30.179"
+    },
+    {
+      "id": 925,
+      "name": "LG 30.209"
+    },
+    {
+      "id": 926,
+      "name": "LG 30.211"
+    },
+    {
+      "id": 927,
+      "name": "LG 30.223"
+    },
+    {
+      "id": 928,
+      "name": "LG 30.240"
+    },
+    {
+      "id": 929,
+      "name": "LG 30.248"
+    },
+    {
+      "id": 930,
+      "name": "LG 31.211"
+    },
+    {
+      "id": 931,
+      "name": "LG 31.218"
+    },
+    {
+      "id": 932,
+      "name": "LG Animal Nutrition"
+    },
+    {
+      "id": 933,
+      "name": "LG Cartouche"
+    },
+    {
+      "id": 934,
+      "name": "LG Diablo"
+    },
+    {
+      "id": 935,
+      "name": "LG Motown"
+    },
+    {
+      "id": 936,
+      "name": "LG Mountain"
+    },
+    {
+      "id": 937,
+      "name": "LG Opera"
+    },
+    {
+      "id": 938,
+      "name": "LG Rafaela"
+    },
+    {
+      "id": 939,
+      "name": "LG Skyscraper"
+    },
+    {
+      "id": 940,
+      "name": "LG Stallion"
+    },
+    {
+      "id": 941,
+      "name": "LG Sundance"
+    },
+    {
+      "id": 942,
+      "name": "LIKEit"
+    },
+    {
+      "id": 943,
+      "name": "Linova Kws"
+    },
+    {
+      "id": 944,
+      "name": "Lunetta"
+    },
+    {
+      "id": 945,
+      "name": "Lynx"
+    },
+    {
+      "id": 946,
+      "name": "Maestro"
+    },
+    {
+      "id": 947,
+      "name": "Magician"
+    },
+    {
+      "id": 948,
+      "name": "Magnum"
+    },
+    {
+      "id": 949,
+      "name": "Makro"
+    },
+    {
+      "id": 950,
+      "name": "Mallory"
+    },
+    {
+      "id": 951,
+      "name": "Malone"
+    },
+    {
+      "id": 952,
+      "name": "Mantara"
+    },
+    {
+      "id": 953,
+      "name": "Maris Bead"
+    },
+    {
+      "id": 954,
+      "name": "Maris Otter"
+    },
+    {
+      "id": 955,
+      "name": "Maro"
+    },
+    {
+      "id": 956,
+      "name": "Marquise"
+    },
+    {
+      "id": 957,
+      "name": "Mascani"
+    },
+    {
+      "id": 958,
+      "name": "Mascara"
+    },
+    {
+      "id": 959,
+      "name": "Massif"
+    },
+    {
+      "id": 960,
+      "name": "Matiz"
+    },
+    {
+      "id": 961,
+      "name": "Meiduno"
+    },
+    {
+      "id": 962,
+      "name": "Mentor"
+    },
+    {
+      "id": 963,
+      "name": "Merveillie"
+    },
+    {
+      "id": 964,
+      "name": "MH001"
+    },
+    {
+      "id": 965,
+      "name": "Mirakel"
+    },
+    {
+      "id": 966,
+      "name": "Moira"
+    },
+    {
+      "id": 967,
+      "name": "Momentium"
+    },
+    {
+      "id": 968,
+      "name": "Montova"
+    },
+    {
+      "id": 969,
+      "name": "Montrose"
+    },
+    {
+      "id": 970,
+      "name": "Moulton"
+    },
+    {
+      "id": 971,
+      "name": "Moyola"
+    },
+    {
+      "id": 972,
+      "name": "Mulika"
+    },
+    {
+      "id": 973,
+      "name": "Myriad"
+    },
+    {
+      "id": 974,
+      "name": "Nifty"
+    },
+    {
+      "id": 975,
+      "name": "Nikita"
+    },
+    {
+      "id": 976,
+      "name": "Nolween"
+    },
+    {
+      "id": 977,
+      "name": "Novello"
+    },
+    {
+      "id": 978,
+      "name": "NuLin50"
+    },
+    {
+      "id": 979,
+      "name": "Null-Lox"
+    },
+    {
+      "id": 980,
+      "name": "Oats"
+    },
+    {
+      "id": 981,
+      "name": "Octal"
+    },
+    {
+      "id": 982,
+      "name": "Octavia"
+    },
+    {
+      "id": 983,
+      "name": "Odyssey"
+    },
+    {
+      "id": 984,
+      "name": "Olympus"
+    },
+    {
+      "id": 985,
+      "name": "Omegalin"
+    },
+    {
+      "id": 986,
+      "name": "Other Product"
+    },
+    {
+      "id": 987,
+      "name": "Ovation"
+    },
+    {
+      "id": 988,
+      "name": "Oxxgood"
+    },
+    {
+      "id": 989,
+      "name": "P7326"
+    },
+    {
+      "id": 990,
+      "name": "P7378"
+    },
+    {
+      "id": 991,
+      "name": "P7524"
+    },
+    {
+      "id": 992,
+      "name": "P7892"
+    },
+    {
+      "id": 993,
+      "name": "P7905"
+    },
+    {
+      "id": 994,
+      "name": "P7923"
+    },
+    {
+      "id": 995,
+      "name": "P8000"
+    },
+    {
+      "id": 996,
+      "name": "P8057"
+    },
+    {
+      "id": 997,
+      "name": "P8200"
+    },
+    {
+      "id": 998,
+      "name": "P8201"
+    },
+    {
+      "id": 999,
+      "name": "Pablo"
+    },
+    {
+      "id": 1000,
+      "name": "Palmedor"
+    },
+    {
+      "id": 1001,
+      "name": "Panacea"
+    },
+    {
+      "id": 1002,
+      "name": "Panorama"
+    },
+    {
+      "id": 1003,
+      "name": "Pasteur"
+    },
+    {
+      "id": 1004,
+      "name": "Pastour"
+    },
+    {
+      "id": 1005,
+      "name": "Peloton"
+    },
+    {
+      "id": 1006,
+      "name": "Pensel"
+    },
+    {
+      "id": 1007,
+      "name": "Perez"
+    },
+    {
+      "id": 1008,
+      "name": "Perinio"
+    },
+    {
+      "id": 1009,
+      "name": "Phacelia"
+    },
+    {
+      "id": 1010,
+      "name": "Phoenix"
+    },
+    {
+      "id": 1011,
+      "name": "Phoenix CL"
+    },
+    {
+      "id": 1012,
+      "name": "Picto"
+    },
+    {
+      "id": 1013,
+      "name": "Pilgrim"
+    },
+    {
+      "id": 1014,
+      "name": "Pinnacle"
+    },
+    {
+      "id": 1015,
+      "name": "Pirro"
+    },
+    {
+      "id": 1016,
+      "name": "Plurax CL"
+    },
+    {
+      "id": 1017,
+      "name": "Poppy for opium production"
+    },
+    {
+      "id": 1018,
+      "name": "Popular"
+    },
+    {
+      "id": 1019,
+      "name": "PR46W21"
+    },
+    {
+      "id": 1020,
+      "name": "Premium"
+    },
+    {
+      "id": 1021,
+      "name": "Prophet"
+    },
+    {
+      "id": 1022,
+      "name": "Propino"
+    },
+    {
+      "id": 1023,
+      "name": "PT200CL"
+    },
+    {
+      "id": 1024,
+      "name": "PT211"
+    },
+    {
+      "id": 1025,
+      "name": "PT228CL"
+    },
+    {
+      "id": 1026,
+      "name": "PT229CL"
+    },
+    {
+      "id": 1027,
+      "name": "PT234"
+    },
+    {
+      "id": 1028,
+      "name": "PT235"
+    },
+    {
+      "id": 1029,
+      "name": "PT240CL"
+    },
+    {
+      "id": 1030,
+      "name": "PT242"
+    },
+    {
+      "id": 1031,
+      "name": "PT256"
+    },
+    {
+      "id": 1032,
+      "name": "PT257"
+    },
+    {
+      "id": 1033,
+      "name": "PT261"
+    },
+    {
+      "id": 1034,
+      "name": "PT279CL"
+    },
+    {
+      "id": 1035,
+      "name": "PX111CL"
+    },
+    {
+      "id": 1036,
+      "name": "PX113"
+    },
+    {
+      "id": 1037,
+      "name": "Quartz"
+    },
+    {
+      "id": 1038,
+      "name": "Ramirez"
+    },
+    {
+      "id": 1039,
+      "name": "Ramore"
+    },
+    {
+      "id": 1040,
+      "name": "Rampart"
+    },
+    {
+      "id": 1041,
+      "name": "Ramses"
+    },
+    {
+      "id": 1042,
+      "name": "Reason"
+    },
+    {
+      "id": 1043,
+      "name": "Reflection"
+    },
+    {
+      "id": 1044,
+      "name": "Relay"
+    },
+    {
+      "id": 1045,
+      "name": "Revelation"
+    },
+    {
+      "id": 1046,
+      "name": "RGT Arazzo"
+    },
+    {
+      "id": 1047,
+      "name": "RGT Blackmillion"
+    },
+    {
+      "id": 1048,
+      "name": "RGT Conversion"
+    },
+    {
+      "id": 1049,
+      "name": "RGT Duxxbury"
+    },
+    {
+      "id": 1050,
+      "name": "RGT Gravity"
+    },
+    {
+      "id": 1051,
+      "name": "RGT Illustrious"
+    },
+    {
+      "id": 1052,
+      "name": "RGT Lantern"
+    },
+    {
+      "id": 1053,
+      "name": "RGT Lineout"
+    },
+    {
+      "id": 1054,
+      "name": "RGT Planet"
+    },
+    {
+      "id": 1055,
+      "name": "RGT Victorious"
+    },
+    {
+      "id": 1056,
+      "name": "Ribondo"
+    },
+    {
+      "id": 1057,
+      "name": "Ricardinio"
+    },
+    {
+      "id": 1058,
+      "name": "Rivendel"
+    },
+    {
+      "id": 1059,
+      "name": "Robbos"
+    },
+    {
+      "id": 1060,
+      "name": "Rocca"
+    },
+    {
+      "id": 1061,
+      "name": "Rodrigo"
+    },
+    {
+      "id": 1062,
+      "name": "Rodriguez"
+    },
+    {
+      "id": 1063,
+      "name": "Romark"
+    },
+    {
+      "id": 1064,
+      "name": "Romesa"
+    },
+    {
+      "id": 1065,
+      "name": "Rondo"
+    },
+    {
+      "id": 1066,
+      "name": "Rose"
+    },
+    {
+      "id": 1067,
+      "name": "Rozmar"
+    },
+    {
+      "id": 1068,
+      "name": "Rubiera"
+    },
+    {
+      "id": 1069,
+      "name": "Rubinesse"
+    },
+    {
+      "id": 1070,
+      "name": "Rye"
+    },
+    {
+      "id": 1071,
+      "name": "Sabatina KWS"
+    },
+    {
+      "id": 1072,
+      "name": "Sakuro"
+    },
+    {
+      "id": 1073,
+      "name": "Salamanca"
+    },
+    {
+      "id": 1074,
+      "name": "Salamanca KWS"
+    },
+    {
+      "id": 1075,
+      "name": "Samson"
+    },
+    {
+      "id": 1076,
+      "name": "Sandra KWS"
+    },
+    {
+      "id": 1077,
+      "name": "Savello"
+    },
+    {
+      "id": 1078,
+      "name": "Scholar"
+    },
+    {
+      "id": 1079,
+      "name": "Scout"
+    },
+    {
+      "id": 1080,
+      "name": "Seagoe"
+    },
+    {
+      "id": 1081,
+      "name": "Securo"
+    },
+    {
+      "id": 1082,
+      "name": "Sergio"
+    },
+    {
+      "id": 1083,
+      "name": "Serpent"
+    },
+    {
+      "id": 1084,
+      "name": "Severus"
+    },
+    {
+      "id": 1085,
+      "name": "Shabras"
+    },
+    {
+      "id": 1086,
+      "name": "Sienna"
+    },
+    {
+      "id": 1087,
+      "name": "Simba"
+    },
+    {
+      "id": 1088,
+      "name": "Siverka"
+    },
+    {
+      "id": 1089,
+      "name": "Skyfall"
+    },
+    {
+      "id": 1090,
+      "name": "Solace"
+    },
+    {
+      "id": 1091,
+      "name": "Solas"
+    },
+    {
+      "id": 1092,
+      "name": "Solomon"
+    },
+    {
+      "id": 1093,
+      "name": "Solstice"
+    },
+    {
+      "id": 1094,
+      "name": "Splendide"
+    },
+    {
+      "id": 1095,
+      "name": "Springbok"
+    },
+    {
+      "id": 1096,
+      "name": "Spyder"
+    },
+    {
+      "id": 1097,
+      "name": "SU Cossani"
+    },
+    {
+      "id": 1098,
+      "name": "SU Drive"
+    },
+    {
+      "id": 1099,
+      "name": "Sugar Beet"
+    },
+    {
+      "id": 1100,
+      "name": "SU Mephisto"
+    },
+    {
+      "id": 1101,
+      "name": "SU Nasri"
+    },
+    {
+      "id": 1102,
+      "name": "Sunder"
+    },
+    {
+      "id": 1103,
+      "name": "Sunlite"
+    },
+    {
+      "id": 1104,
+      "name": "Sunningdale"
+    },
+    {
+      "id": 1105,
+      "name": "SU Performer"
+    },
+    {
+      "id": 1106,
+      "name": "SU Phoenix"
+    },
+    {
+      "id": 1107,
+      "name": "Surge"
+    },
+    {
+      "id": 1108,
+      "name": "SU Santini"
+    },
+    {
+      "id": 1109,
+      "name": "SY Bamboo"
+    },
+    {
+      "id": 1110,
+      "name": "SY Harnas"
+    },
+    {
+      "id": 1111,
+      "name": "SY Kingsbarn"
+    },
+    {
+      "id": 1112,
+      "name": "SY Muse"
+    },
+    {
+      "id": 1113,
+      "name": "SY Venture"
+    },
+    {
+      "id": 1114,
+      "name": "Tadorne"
+    },
+    {
+      "id": 1115,
+      "name": "Talisman"
+    },
+    {
+      "id": 1116,
+      "name": "Tamarin"
+    },
+    {
+      "id": 1117,
+      "name": "Tarine"
+    },
+    {
+      "id": 1118,
+      "name": "Taxxoa"
+    },
+    {
+      "id": 1119,
+      "name": "TerraLife BioMax DT"
+    },
+    {
+      "id": 1120,
+      "name": "Thor"
+    },
+    {
+      "id": 1121,
+      "name": "Tiberio"
+    },
+    {
+      "id": 1122,
+      "name": "Timing"
+    },
+    {
+      "id": 1123,
+      "name": "Tipple"
+    },
+    {
+      "id": 1124,
+      "name": "Toddington"
+    },
+    {
+      "id": 1125,
+      "name": "Tradiro"
+    },
+    {
+      "id": 1126,
+      "name": "Tribeca"
+    },
+    {
+      "id": 1127,
+      "name": "Trinity"
+    },
+    {
+      "id": 1128,
+      "name": "Trintella"
+    },
+    {
+      "id": 1129,
+      "name": "Troy"
+    },
+    {
+      "id": 1130,
+      "name": "Truxx"
+    },
+    {
+      "id": 1131,
+      "name": "Tundra"
+    },
+    {
+      "id": 1132,
+      "name": "Tur"
+    },
+    {
+      "id": 1133,
+      "name": "Twymax"
+    },
+    {
+      "id": 1134,
+      "name": "Tybalt"
+    },
+    {
+      "id": 1135,
+      "name": "Tyfon (Hybrid)"
+    },
+    {
+      "id": 1136,
+      "name": "Tyrella"
+    },
+    {
+      "id": 1137,
+      "name": "V295OL"
+    },
+    {
+      "id": 1138,
+      "name": "V316-OL"
+    },
+    {
+      "id": 1139,
+      "name": "V-324-OL"
+    },
+    {
+      "id": 1140,
+      "name": "Veritas CL"
+    },
+    {
+      "id": 1141,
+      "name": "Vertigo"
+    },
+    {
+      "id": 1142,
+      "name": "Vertix"
+    },
+    {
+      "id": 1143,
+      "name": "Vespa"
+    },
+    {
+      "id": 1144,
+      "name": "Vetch"
+    },
+    {
+      "id": 1145,
+      "name": "Vining Pea"
+    },
+    {
+      "id": 1146,
+      "name": "Viscount"
+    },
+    {
+      "id": 1147,
+      "name": "Vollenda (Tetraploid)"
+    },
+    {
+      "id": 1148,
+      "name": "Volume"
+    },
+    {
+      "id": 1149,
+      "name": "Wembley"
+    },
+    {
+      "id": 1150,
+      "name": "White Mustard"
+    },
+    {
+      "id": 1151,
+      "name": "Wifaxx"
+    },
+    {
+      "id": 1152,
+      "name": "Windozz"
+    },
+    {
+      "id": 1153,
+      "name": "Wizard"
+    },
+    {
+      "id": 1154,
+      "name": "WPB Elyann"
+    },
+    {
+      "id": 1155,
+      "name": "WPB Isabel"
+    },
+    {
+      "id": 1156,
+      "name": "Xenon"
+    },
+    {
+      "id": 1157,
+      "name": "Yeti"
+    },
+    {
+      "id": 1158,
+      "name": "Youpi"
+    },
+    {
+      "id": 1159,
+      "name": "Yukon"
+    },
+    {
+      "id": 1160,
+      "name": "Zulu"
+    },
+    {
+      "id": 1161,
+      "name": "ES Alienor"
+    },
+    {
+      "id": 1162,
+      "name": "DK Camelot"
+    },
+    {
+      "id": 1163,
+      "name": "LG Jigsaw"
+    },
+    {
+      "id": 1164,
+      "name": "Tiffany"
+    },
+    {
+      "id": 1165,
+      "name": "Expedia"
+    },
+    {
+      "id": 1166,
+      "name": "Helltop"
+    },
+    {
+      "id": 1167,
+      "name": "Konsensus"
+    },
+    {
+      "id": 1168,
+      "name": "Dualis"
+    },
+    {
+      "id": 1169,
+      "name": "KWS Eterno"
+    },
+    {
+      "id": 1170,
+      "name": "Husky"
+    },
+    {
+      "id": 1171,
+      "name": "KWS Serafino"
+    },
+    {
+      "id": 1172,
+      "name": "KWS Parkin"
+    },
+    {
+      "id": 1173,
+      "name": "V365OL"
+    },
+    {
+      "id": 1174,
+      "name": "V353OL"
+    },
+    {
+      "id": 1175,
+      "name": "Choice"
+    },
+    {
+      "id": 1176,
+      "name": "Maximus Cover Crop"
+    },
+    {
+      "id": 1177,
+      "name": "Alpaga"
+    },
+    {
+      "id": 1178,
+      "name": "KWS Ballad"
+    },
+    {
+      "id": 1179,
+      "name": "Bowmont Grass"
+    },
+    {
+      "id": 1180,
+      "name": "KWS Amistar"
+    },
+    {
+      "id": 1181,
+      "name": "cover crop (oats)"
+    },
+    {
+      "id": 1182,
+      "name": "cover crop (rye)"
+    },
+    {
+      "id": 1183,
+      "name": "Oliver"
+    },
+    {
+      "id": 1184,
+      "name": "DK Importer CL"
+    },
+    {
+      "id": 1185,
+      "name": "oilseed rape"
+    },
+    {
+      "id": 1186,
+      "name": "cover crop (mustard)"
+    },
+    {
+      "id": 1187,
+      "name": "Cover Crop (mustard)"
+    },
+    {
+      "id": 1188,
+      "name": "MV Fredericia"
+    },
+    {
+      "id": 1189,
+      "name": "Servus"
+    },
+    {
+      "id": 1190,
+      "name": "cover crop (barley)"
+    },
+    {
+      "id": 1191,
+      "name": "barley"
+    },
+    {
+      "id": 1192,
+      "name": "Vision"
+    },
+    {
+      "id": 1193,
+      "name": "Trinita"
+    },
+    {
+      "id": 1194,
+      "name": "Solara"
+    },
+    {
+      "id": 1195,
+      "name": "Smoothi CS"
+    },
+    {
+      "id": 1196,
+      "name": "Spyci CS"
+    },
+    {
+      "id": 1197,
+      "name": "Boston"
+    },
+    {
+      "id": 1198,
+      "name": "SY Nordicstar"
+    },
+    {
+      "id": 1199,
+      "name": "V280OL"
+    },
+    {
+      "id": 1200,
+      "name": "Cranberri CS"
+    },
+    {
+      "id": 1201,
+      "name": "Malawi"
+    },
+    {
+      "id": 1202,
+      "name": "Selwyn"
+    },
+    {
+      "id": 1203,
+      "name": "Sartorial"
+    },
+    {
+      "id": 1204,
+      "name": "KWS Jackal"
+    },
+    {
+      "id": 1205,
+      "name": "Sherwood"
+    },
+    {
+      "id": 1206,
+      "name": "Macho"
+    },
+    {
+      "id": 1207,
+      "name": "Abelina"
+    },
+    {
+      "id": 1208,
+      "name": "Vilshanka"
+    },
+    {
+      "id": 1209,
+      "name": "KWS Meridian"
+    },
+    {
+      "id": 1210,
+      "name": "Bordeaux"
+    },
+    {
+      "id": 1211,
+      "name": "V324-OL"
+    },
+    {
+      "id": 1212,
+      "name": "Lift N Fix"
+    },
+    {
+      "id": 1213,
+      "name": "LG Spotlight"
+    },
+    {
+      "id": 1214,
+      "name": "Consort"
+    },
+    {
+      "id": 1215,
+      "name": "Sakura"
+    },
+    {
+      "id": 1216,
+      "name": "Liroyal"
+    },
+    {
+      "id": 1217,
+      "name": "Himmedia CL"
+    },
+    {
+      "id": 1218,
+      "name": "ziram"
+    },
+    {
+      "id": 1219,
+      "name": "RGT Norwixx"
+    },
+    {
+      "id": 1220,
+      "name": "cover crop (rye"
+    },
+    {
+      "id": 1221,
+      "name": "Kimberley"
+    },
+    {
+      "id": 1222,
+      "name": "cover crop (oats"
+    },
+    {
+      "id": 1223,
+      "name": "radish"
+    },
+    {
+      "id": 1224,
+      "name": "Hyperion"
+    },
+    {
+      "id": 1225,
+      "name": "Earlibird"
+    },
+    {
+      "id": 1226,
+      "name": "3880"
+    },
+    {
+      "id": 1227,
+      "name": "Northern Extra Sweet"
+    },
+    {
+      "id": 1228,
+      "name": "Garrison"
+    },
+    {
+      "id": 1229,
+      "name": "3778"
+    },
+    {
+      "id": 1230,
+      "name": "7403"
+    },
+    {
+      "id": 1231,
+      "name": "GSS21170-R"
+    },
+    {
+      "id": 1232,
+      "name": "3590"
+    },
+    {
+      "id": 1233,
+      "name": "GSS13951"
+    },
+    {
+      "id": 1234,
+      "name": "3511R"
+    },
+    {
+      "id": 1235,
+      "name": "SS3778"
+    },
+    {
+      "id": 1236,
+      "name": "SS3590"
+    },
+    {
+      "id": 1237,
+      "name": "SS3880"
+    },
+    {
+      "id": 1238,
+      "name": "SS7403"
+    },
+    {
+      "id": 1239,
+      "name": "organic carbon"
+    },
+    {
+      "id": 1240,
+      "name": "TerraLife Rigol DT"
+    },
+    {
+      "id": 1241,
+      "name": "polyalkylene glycol"
+    },
+    {
+      "id": 1242,
+      "name": "dimethylpolysiloxane"
+    },
+    {
+      "id": 1243,
+      "name": "Markies"
+    },
+    {
+      "id": 1244,
+      "name": "Agria"
+    },
+    {
+      "id": 1245,
+      "name": "Melody"
+    },
+    {
+      "id": 1246,
+      "name": "Nectar"
+    },
+    {
+      "id": 1247,
+      "name": "Sagitta"
+    },
+    {
+      "id": 1248,
+      "name": "Maris Piper"
+    },
+    {
+      "id": 1249,
+      "name": "Desiree"
+    },
+    {
+      "id": 1250,
+      "name": "Marfona"
+    },
+    {
+      "id": 1251,
+      "name": "Estima "
+    },
+    {
+      "id": 1252,
+      "name": "estima"
+    },
+    {
+      "id": 1253,
+      "name": "Chopin "
+    },
+    {
+      "id": 1254,
+      "name": "chopin"
+    },
+    {
+      "id": 1255,
+      "name": "Ghengis"
+    },
+    {
+      "id": 1256,
+      "name": "Crimson Clover"
+    },
+    {
+      "id": 1257,
+      "name": "Scuba"
+    },
+    {
+      "id": 1258,
+      "name": "Eurostar Potato"
+    },
+    {
+      "id": 1259,
+      "name": "Chopin"
+    },
+    {
+      "id": 1260,
+      "name": "water"
+    },
+    {
+      "id": 1261,
+      "name": "Ambassador"
+    },
+    {
+      "id": 1262,
+      "name": "DK Exsteel"
+    },
+    {
+      "id": 1263,
+      "name": "DK Exstar"
+    },
+    {
+      "id": 1264,
+      "name": "Maris Peer"
+    },
+    {
+      "id": 1265,
+      "name": "Cultra"
+    },
+    {
+      "id": 1266,
+      "name": "Gemson"
+    },
+    {
+      "id": 1267,
+      "name": "Saxon"
+    },
+    {
+      "id": 1268,
+      "name": "Manhattan"
+    },
+    {
+      "id": 1269,
+      "name": "King Edward"
+    },
+    {
+      "id": 1270,
+      "name": "Estima"
+    },
+    {
+      "id": 1271,
+      "name": "Fumore 7L"
+    },
+    {
+      "id": 1272,
+      "name": "Fumore 9"
+    },
+    {
+      "id": 1273,
+      "name": "Red Clover"
+    },
+    {
+      "id": 1274,
+      "name": "Sylvana"
+    },
+    {
+      "id": 1275,
+      "name": "Darling"
+    },
+    {
+      "id": 1276,
+      "name": "Chico"
+    },
+    {
+      "id": 1277,
+      "name": "Fasto "
+    },
+    {
+      "id": 1278,
+      "name": "fasto"
+    },
+    {
+      "id": 1279,
+      "name": "Hazera 37-222"
+    },
+    {
+      "id": 1280,
+      "name": "Hybound"
+    },
+    {
+      "id": 1281,
+      "name": "Hypark"
+    },
+    {
+      "id": 1282,
+      "name": "Hysky"
+    },
+    {
+      "id": 1283,
+      "name": "Packito"
+    },
+    {
+      "id": 1284,
+      "name": "Red Garnet"
+    },
+    {
+      "id": 1285,
+      "name": "Vision Onion"
+    },
+    {
+      "id": 1286,
+      "name": "Red Herald"
+    },
+    {
+      "id": 1287,
+      "name": "Red Light"
+    },
+    {
+      "id": 1288,
+      "name": "Red Tide"
+    },
+    {
+      "id": 1289,
+      "name": "Rosanna"
+    },
+    {
+      "id": 1290,
+      "name": "Ruby Star"
+    },
+    {
+      "id": 1291,
+      "name": "Setton"
+    },
+    {
+      "id": 1292,
+      "name": "Vulcan"
+    },
+    {
+      "id": 1293,
+      "name": "Fasto"
+    },
+    {
+      "id": 1294,
+      "name": "Jagro"
+    },
+    {
+      "id": 1295,
+      "name": "Shakespear"
+    },
+    {
+      "id": 1296,
+      "name": "Alpha "
+    },
+    {
+      "id": 1297,
+      "name": "alpha"
+    },
+    {
+      "id": 1298,
+      "name": "Red Garnet Set"
+    },
+    {
+      "id": 1299,
+      "name": "Red Light set"
+    },
+    {
+      "id": 1300,
+      "name": "Rosanna Set"
+    },
+    {
+      "id": 1301,
+      "name": "Rumba"
+    },
+    {
+      "id": 1302,
+      "name": "Setton Set"
+    },
+    {
+      "id": 1303,
+      "name": "SV3557"
+    },
+    {
+      "id": 1304,
+      "name": "Vulcan Set"
+    },
+    {
+      "id": 1305,
+      "name": "Alpha"
+    },
+    {
+      "id": 1306,
+      "name": "Shakespeare"
+    },
+    {
+      "id": 1307,
+      "name": "Maryna"
+    },
+    {
+      "id": 1308,
+      "name": "Mozart"
+    },
+    {
+      "id": 1309,
+      "name": "Orchestra"
+    },
+    {
+      "id": 1310,
+      "name": "Brooke"
+    },
+    {
+      "id": 1311,
+      "name": "Jelly "
+    },
+    {
+      "id": 1312,
+      "name": "jelly"
+    },
+    {
+      "id": 1313,
+      "name": "Antonia"
+    },
+    {
+      "id": 1314,
+      "name": "La Ratte"
+    },
+    {
+      "id": 1315,
+      "name": "Jacky"
+    },
+    {
+      "id": 1316,
+      "name": "Lucera"
+    },
+    {
+      "id": 1317,
+      "name": "Glorietta"
+    },
+    {
+      "id": 1318,
+      "name": "Charlotte"
+    },
+    {
+      "id": 1319,
+      "name": "Camel"
+    },
+    {
+      "id": 1320,
+      "name": "Ramos"
+    },
+    {
+      "id": 1321,
+      "name": "Vivaldi"
+    },
+    {
+      "id": 1322,
+      "name": "vivialdi"
+    },
+    {
+      "id": 1323,
+      "name": "Pirol"
+    },
+    {
+      "id": 1324,
+      "name": "Belana"
+    },
+    {
+      "id": 1325,
+      "name": "Venezia"
+    },
+    {
+      "id": 1326,
+      "name": "Laura"
+    },
+    {
+      "id": 1327,
+      "name": "Georgina"
+    },
+    {
+      "id": 1328,
+      "name": "Madrid"
+    },
+    {
+      "id": 1329,
+      "name": "Lanorma"
+    },
+    {
+      "id": 1330,
+      "name": "Gerona"
+    },
+    {
+      "id": 1331,
+      "name": "Baby Lou"
+    },
+    {
+      "id": 1332,
+      "name": "Alexandra"
+    },
+    {
+      "id": 1333,
+      "name": "Leontine"
+    },
+    {
+      "id": 1334,
+      "name": "Opal"
+    },
+    {
+      "id": 1335,
+      "name": "Verdi"
+    },
+    {
+      "id": 1336,
+      "name": "Celandine"
+    },
+    {
+      "id": 1337,
+      "name": "Anya"
+    },
+    {
+      "id": 1338,
+      "name": "Annabelle"
+    },
+    {
+      "id": 1339,
+      "name": "Bambino"
+    },
+    {
+      "id": 1340,
+      "name": "Taurus"
+    },
+    {
+      "id": 1341,
+      "name": "Tresdale"
+    },
+    {
+      "id": 1342,
+      "name": "Lady Rosetta"
+    },
+    {
+      "id": 1343,
+      "name": "IPM Infinity"
+    },
+    {
+      "id": 1344,
+      "name": "VR808"
+    },
+    {
+      "id": 1345,
+      "name": "Siena"
+    },
+    {
+      "id": 1346,
+      "name": "Smiths Comet"
+    },
+    {
+      "id": 1347,
+      "name": "Mariola"
+    },
+    {
+      "id": 1348,
+      "name": "paraffin"
+    },
+    {
+      "id": 1349,
+      "name": "Jazzy"
+    },
+    {
+      "id": 1350,
+      "name": "Maxi InterCrop"
+    },
+    {
+      "id": 1351,
+      "name": "linseed"
+    },
+    {
+      "id": 1844,
+      "name": "YQ"
+    },
+    {
+      "id": 1353,
+      "name": "japaneese reed millet"
+    },
+    {
+      "id": 1354,
+      "name": "aureobasidium pullulans strain dsm 14940"
+    },
+    {
+      "id": 1355,
+      "name": "aureobasidium pullulans strain dsm 14941"
+    },
+    {
+      "id": 1356,
+      "name": "Swallow"
+    },
+    {
+      "id": 1357,
+      "name": "EFA Mix"
+    },
+    {
+      "id": 1358,
+      "name": "paraffin base petroleum oil"
+    },
+    {
+      "id": 1359,
+      "name": "polyethoxylated derivatives"
+    },
+    {
+      "id": 1360,
+      "name": "polyol fatty acid esters"
+    },
+    {
+      "id": 1361,
+      "name": "potash"
+    },
+    {
+      "id": 1362,
+      "name": "Royal"
+    },
+    {
+      "id": 1363,
+      "name": "Soraya"
+    },
+    {
+      "id": 1364,
+      "name": "Jelly"
+    },
+    {
+      "id": 1365,
+      "name": "Kings Defender Oil Raddish"
+    },
+    {
+      "id": 1366,
+      "name": "oil raddish"
+    },
+    {
+      "id": 1367,
+      "name": "Kepower 3 EFA Economy Power 3 "
+    },
+    {
+      "id": 1368,
+      "name": "siletina oil raddish"
+    },
+    {
+      "id": 1369,
+      "name": "winter oats"
+    },
+    {
+      "id": 1370,
+      "name": "RGT Saki"
+    },
+    {
+      "id": 1371,
+      "name": "Kings Defender Oil Radish"
+    },
+    {
+      "id": 1372,
+      "name": "phospate"
+    },
+    {
+      "id": 1373,
+      "name": "Buckwheat"
+    },
+    {
+      "id": 1374,
+      "name": "Innovator"
+    },
+    {
+      "id": 1375,
+      "name": "Ivory Russet"
+    },
+    {
+      "id": 1376,
+      "name": "Challenger"
+    },
+    {
+      "id": 1377,
+      "name": "Degas"
+    },
+    {
+      "id": 1378,
+      "name": "PT275"
+    },
+    {
+      "id": 1379,
+      "name": "BTS 3325"
+    },
+    {
+      "id": 1380,
+      "name": "Rosalinda"
+    },
+    {
+      "id": 1381,
+      "name": "FireFly"
+    },
+    {
+      "id": 1382,
+      "name": "Daphna"
+    },
+    {
+      "id": 1383,
+      "name": "BTS 1140"
+    },
+    {
+      "id": 1384,
+      "name": "KWS Advena"
+    },
+    {
+      "id": 1385,
+      "name": "Gaugain"
+    },
+    {
+      "id": 1386,
+      "name": "Lightning"
+    },
+    {
+      "id": 1387,
+      "name": "Landon"
+    },
+    {
+      "id": 1388,
+      "name": "Senda KWS"
+    },
+    {
+      "id": 1389,
+      "name": "Kortessa KWS"
+    },
+    {
+      "id": 1390,
+      "name": "BTS 4100"
+    },
+    {
+      "id": 1391,
+      "name": "Senada KWS"
+    },
+    {
+      "id": 1392,
+      "name": "Bloodhound"
+    },
+    {
+      "id": 1393,
+      "name": "Gauguin"
+    },
+    {
+      "id": 1394,
+      "name": "Turnip Cover Crop"
+    },
+    {
+      "id": 1395,
+      "name": "Marston"
+    },
+    {
+      "id": 1396,
+      "name": "LG Skyskraper"
+    },
+    {
+      "id": 1397,
+      "name": "Nelson"
+    },
+    {
+      "id": 1398,
+      "name": "pyriproxifen"
+    },
+    {
+      "id": 1399,
+      "name": "Flamenco"
+    },
+    {
+      "id": 1400,
+      "name": "salicylic acid"
+    },
+    {
+      "id": 1401,
+      "name": "Braeburn"
+    },
+    {
+      "id": 1402,
+      "name": "Bramley"
+    },
+    {
+      "id": 1403,
+      "name": "Cherish"
+    },
+    {
+      "id": 1404,
+      "name": "Conference"
+    },
+    {
+      "id": 1406,
+      "name": "Early Windsor"
+    },
+    {
+      "id": 1407,
+      "name": "Gala"
+    },
+    {
+      "id": 1408,
+      "name": "acequinocyl"
+    },
+    {
+      "id": 1409,
+      "name": "Red Baron"
+    },
+    {
+      "id": 1410,
+      "name": "Sturon"
+    },
+    {
+      "id": 1411,
+      "name": "VCS 6005"
+    },
+    {
+      "id": 1412,
+      "name": "Bennito"
+    },
+    {
+      "id": 1413,
+      "name": "Centro"
+    },
+    {
+      "id": 1414,
+      "name": "Corrado"
+    },
+    {
+      "id": 1415,
+      "name": "Cupido"
+    },
+    {
+      "id": 1416,
+      "name": "Red Spark"
+    },
+    {
+      "id": 1417,
+      "name": "Retano"
+    },
+    {
+      "id": 1418,
+      "name": "Senshyu"
+    },
+    {
+      "id": 1419,
+      "name": "Tough Ball"
+    },
+    {
+      "id": 1420,
+      "name": "Troy Onion"
+    },
+    {
+      "id": 1421,
+      "name": "Stuttgarter"
+    },
+    {
+      "id": 1422,
+      "name": "Romaso Radish"
+    },
+    {
+      "id": 1423,
+      "name": "Contra Radish"
+    },
+    {
+      "id": 1425,
+      "name": "AB1"
+    },
+    {
+      "id": 1426,
+      "name": "Catch Crop"
+    },
+    {
+      "id": 1427,
+      "name": "Crome"
+    },
+    {
+      "id": 1428,
+      "name": "Janninka KWS"
+    },
+    {
+      "id": 1429,
+      "name": "Neutrino"
+    },
+    {
+      "id": 1430,
+      "name": "SU Arvid"
+    },
+    {
+      "id": 1431,
+      "name": "Fontane"
+    },
+    {
+      "id": 1432,
+      "name": "Lipizzan"
+    },
+    {
+      "id": 1433,
+      "name": "Shelford"
+    },
+    {
+      "id": 1434,
+      "name": "Kings Nemaflex Oil Raddish"
+    },
+    {
+      "id": 1435,
+      "name": "Red Baron Set"
+    },
+    {
+      "id": 1436,
+      "name": "Puffin"
+    },
+    {
+      "id": 1437,
+      "name": "Realm"
+    },
+    {
+      "id": 1438,
+      "name": "Oasis"
+    },
+    {
+      "id": 1439,
+      "name": "Ibis"
+    },
+    {
+      "id": 1440,
+      "name": "Boogie"
+    },
+    {
+      "id": 1441,
+      "name": "Anubis"
+    },
+    {
+      "id": 1442,
+      "name": "Tomahawk"
+    },
+    {
+      "id": 1443,
+      "name": "Dakato"
+    },
+    {
+      "id": 1444,
+      "name": "Charlie"
+    },
+    {
+      "id": 1445,
+      "name": "Fashion Pea"
+    },
+    {
+      "id": 1446,
+      "name": "Newton"
+    },
+    {
+      "id": 1447,
+      "name": "Kings Summer Biofum Mix"
+    },
+    {
+      "id": 1448,
+      "name": "SU Bendix"
+    },
+    {
+      "id": 1449,
+      "name": "KWS Autens"
+    },
+    {
+      "id": 1450,
+      "name": "Movanna"
+    },
+    {
+      "id": 1451,
+      "name": "Conger"
+    },
+    {
+      "id": 1452,
+      "name": "Jura"
+    },
+    {
+      "id": 1453,
+      "name": "Hyteck"
+    },
+    {
+      "id": 1454,
+      "name": "ES Legolas"
+    },
+    {
+      "id": 1455,
+      "name": "Kilomeris"
+    },
+    {
+      "id": 1456,
+      "name": "MAS 11F"
+    },
+    {
+      "id": 1457,
+      "name": "Amaroc"
+    },
+    {
+      "id": 1458,
+      "name": "Everest"
+    },
+    {
+      "id": 1459,
+      "name": "P7948"
+    },
+    {
+      "id": 1460,
+      "name": "ES Metronom"
+    },
+    {
+      "id": 1461,
+      "name": "Hybing"
+    },
+    {
+      "id": 1462,
+      "name": "DKC 3333"
+    },
+    {
+      "id": 1463,
+      "name": "Hawai"
+    },
+    {
+      "id": 1464,
+      "name": "urea"
+    },
+    {
+      "id": 1465,
+      "name": "di ammonium phosphate"
+    },
+    {
+      "id": 1466,
+      "name": "krypton"
+    },
+    {
+      "id": 1467,
+      "name": "ammonium nitrate"
+    },
+    {
+      "id": 1468,
+      "name": "urea ammonium nitrate"
+    },
+    {
+      "id": 1469,
+      "name": "Garner"
+    },
+    {
+      "id": 1470,
+      "name": "water soluable manganese"
+    },
+    {
+      "id": 1471,
+      "name": "Crocodile CR"
+    },
+    {
+      "id": 1472,
+      "name": "Alasco"
+    },
+    {
+      "id": 1473,
+      "name": "Conference pear"
+    },
+    {
+      "id": 1474,
+      "name": "Junami"
+    },
+    {
+      "id": 1475,
+      "name": "Opal apple"
+    },
+    {
+      "id": 1476,
+      "name": "ES Watson"
+    },
+    {
+      "id": 1477,
+      "name": "foliq potash"
+    },
+    {
+      "id": 1478,
+      "name": "Smitten"
+    },
+    {
+      "id": 1479,
+      "name": "Robijn"
+    },
+    {
+      "id": 1480,
+      "name": "robjin"
+    },
+    {
+      "id": 1481,
+      "name": "Marabel"
+    },
+    {
+      "id": 1482,
+      "name": "Rooster"
+    },
+    {
+      "id": 1483,
+      "name": "Sensation"
+    },
+    {
+      "id": 1484,
+      "name": "Vales Sovereign"
+    },
+    {
+      "id": 1485,
+      "name": "Aurum"
+    },
+    {
+      "id": 1486,
+      "name": "Acoustic"
+    },
+    {
+      "id": 1487,
+      "name": "Shepody"
+    },
+    {
+      "id": 1488,
+      "name": "Russet Burbank"
+    },
+    {
+      "id": 1489,
+      "name": "Juliette"
+    },
+    {
+      "id": 1490,
+      "name": "Angelique"
+    },
+    {
+      "id": 1491,
+      "name": "RGT Southwark"
+    },
+    {
+      "id": 1492,
+      "name": "Savannah"
+    },
+    {
+      "id": 1493,
+      "name": "Bingo Pea"
+    },
+    {
+      "id": 1494,
+      "name": "sodium oxide"
+    },
+    {
+      "id": 1495,
+      "name": "Red Fantasy"
+    },
+    {
+      "id": 1496,
+      "name": "Iodea"
+    },
+    {
+      "id": 1497,
+      "name": "KWS Edmondo"
+    },
+    {
+      "id": 1498,
+      "name": "Nairobi"
+    },
+    {
+      "id": 1499,
+      "name": "Melodio"
+    },
+    {
+      "id": 1500,
+      "name": "Norfolk"
+    },
+    {
+      "id": 1501,
+      "name": "Norwich"
+    },
+    {
+      "id": 1502,
+      "name": "Bastia"
+    },
+    {
+      "id": 1503,
+      "name": "Eskimo"
+    },
+    {
+      "id": 1504,
+      "name": "Volcano"
+    },
+    {
+      "id": 1505,
+      "name": "Polydor"
+    },
+    {
+      "id": 1506,
+      "name": "Octavo"
+    },
+    {
+      "id": 1507,
+      "name": "Volcano Carrot"
+    },
+    {
+      "id": 1508,
+      "name": "Florida"
+    },
+    {
+      "id": 1509,
+      "name": "Yellowstone"
+    },
+    {
+      "id": 1510,
+      "name": "Priam"
+    },
+    {
+      "id": 1511,
+      "name": "Warrior"
+    },
+    {
+      "id": 1512,
+      "name": "Palace"
+    },
+    {
+      "id": 1513,
+      "name": "Javelin"
+    },
+    {
+      "id": 1514,
+      "name": "Panorama Parsnip"
+    },
+    {
+      "id": 1515,
+      "name": "Warrior Parsnip"
+    },
+    {
+      "id": 1516,
+      "name": "Victor"
+    },
+    {
+      "id": 1517,
+      "name": "Pearl"
+    },
+    {
+      "id": 1518,
+      "name": "XT1502"
+    },
+    {
+      "id": 1519,
+      "name": "XT1504"
+    },
+    {
+      "id": 1520,
+      "name": "Red Radiant Set"
+    },
+    {
+      "id": 1521,
+      "name": "Armstrong"
+    },
+    {
+      "id": 1522,
+      "name": "Motion"
+    },
+    {
+      "id": 1523,
+      "name": "Numbito"
+    },
+    {
+      "id": 1524,
+      "name": "Contado"
+    },
+    {
+      "id": 1525,
+      "name": "Red Ray Set"
+    },
+    {
+      "id": 1526,
+      "name": "Rainbow"
+    },
+    {
+      "id": 1527,
+      "name": "Viper"
+    },
+    {
+      "id": 1528,
+      "name": "Pearl Parsnip"
+    },
+    {
+      "id": 1529,
+      "name": "Harry"
+    },
+    {
+      "id": 1530,
+      "name": "Vanilla"
+    },
+    {
+      "id": 1531,
+      "name": "DK Extremus"
+    },
+    {
+      "id": 1532,
+      "name": "LG Flynn"
+    },
+    {
+      "id": 1533,
+      "name": "SY Incitor"
+    },
+    {
+      "id": 1534,
+      "name": "Catriona KWS"
+    },
+    {
+      "id": 1784,
+      "name": "Basic Two Year Ryegrass Legume Mix"
+    },
+    {
+      "id": 1786,
+      "name": "LG Illuminate"
+    },
+    {
+      "id": 1787,
+      "name": "alkyl aryl sulfonic acid"
+    },
+    {
+      "id": 1788,
+      "name": "fluroxypyr 1-methylheptyl ester"
+    },
+    {
+      "id": 1789,
+      "name": "hydrocarbons, c9, aromatics"
+    },
+    {
+      "id": 1791,
+      "name": "white clover"
+    },
+    {
+      "id": 1792,
+      "name": "phosphorus oxide"
+    },
+    {
+      "id": 1793,
+      "name": "Cardeal Exilis"
+    },
+    {
+      "id": 1794,
+      "name": "nitrate"
+    },
+    {
+      "id": 1795,
+      "name": "maneb (manganese ethylenebisdithiocarbamate)"
+    },
+    {
+      "id": 1799,
+      "name": "hydrogen"
+    },
+    {
+      "id": 1800,
+      "name": "oxygen"
+    },
+    {
+      "id": 1801,
+      "name": "DK Imprint CL"
+    },
+    {
+      "id": 1804,
+      "name": "calcium carbonate"
+    },
+    {
+      "id": 1806,
+      "name": "ammonia"
+    },
+    {
+      "id": 1807,
+      "name": "c9-11 alcohol ethoxylate 6-8 moles eo"
+    },
+    {
+      "id": 1811,
+      "name": "trehalose-6-phosphate "
+    },
+    {
+      "id": 1813,
+      "name": "modified triglycerides and alkoxylated esters"
+    },
+    {
+      "id": 1815,
+      "name": "l-amino acids"
+    },
+    {
+      "id": 1818,
+      "name": "Matrix CL"
+    },
+    {
+      "id": 1822,
+      "name": " zinc"
+    },
+    {
+      "id": 1823,
+      "name": " copper"
+    },
+    {
+      "id": 1828,
+      "name": "c10 (2-propylheptyl)"
+    },
+    {
+      "id": 1831,
+      "name": "water soluble polyacrylamide"
+    },
+    {
+      "id": 1832,
+      "name": "humectants"
+    },
+    {
+      "id": 1833,
+      "name": "surfactants"
+    },
+    {
+      "id": 1834,
+      "name": "penetrants"
+    },
+    {
+      "id": 1836,
+      "name": "Lacewing"
+    },
+    {
+      "id": 1838,
+      "name": "RGT Knightsbridge"
+    },
+    {
+      "id": 1840,
+      "name": "Bravour"
+    },
+    {
+      "id": 1841,
+      "name": "DK Imagine CL"
+    },
+    {
+      "id": 1843,
+      "name": "Skyway"
+    },
+    {
+      "id": 1845,
+      "name": "Dazzler"
+    },
+    {
+      "id": 1846,
+      "name": "HFO Mixture"
+    },
+    {
+      "id": 1847,
+      "name": "Jack Russell Wild Bird Mixture"
+    },
+    {
+      "id": 1848,
+      "name": "oilseed radish"
+    },
+    {
+      "id": 1849,
+      "name": "millet blend"
+    },
+    {
+      "id": 1850,
+      "name": "spring triticale"
+    },
+    {
+      "id": 1851,
+      "name": "grain sorghum"
+    },
+    {
+      "id": 1852,
+      "name": "sunflower"
+    },
+    {
+      "id": 1854,
+      "name": "KW Extase"
+    },
+    {
+      "id": 1855,
+      "name": "Trooper"
+    },
+    {
+      "id": 1856,
+      "name": "Atlas"
+    },
+    {
+      "id": 1857,
+      "name": "Duchess Quinoa"
+    },
+    {
+      "id": 1860,
+      "name": "Shielder - Oilseed Rape Companion Crop"
+    },
+    {
+      "id": 1862,
+      "name": "Sandoval Quinoa K41"
+    },
+    {
+      "id": 1863,
+      "name": "Rapid Fire Maize"
+    },
+    {
+      "id": 1864,
+      "name": "Champion"
+    },
+    {
+      "id": 1865,
+      "name": "PHILINA KWS"
+    },
+    {
+      "id": 1866,
+      "name": "Memento"
+    },
+    {
+      "id": 1867,
+      "name": "SY Armadillo"
+    },
+    {
+      "id": 1868,
+      "name": "nitrate nitrogen"
+    },
+    {
+      "id": 1869,
+      "name": "ammonium nitrogen"
+    },
+    {
+      "id": 1870,
+      "name": "LG Aviron"
+    },
+    {
+      "id": 1871,
+      "name": "RGT Nizza CL"
+    },
+    {
+      "id": 1873,
+      "name": "AB15 MIX"
+    },
+    {
+      "id": 1874,
+      "name": "Victus"
+    },
+    {
+      "id": 1875,
+      "name": "NK Grandia"
+    },
+    {
+      "id": 1876,
+      "name": "Ovation (OSR)"
+    },
+    {
+      "id": 1877,
+      "name": "Maris Bard"
+    },
+    {
+      "id": 1879,
+      "name": "Kactus"
+    },
+    {
+      "id": 1880,
+      "name": "Take-Off Mix"
+    },
+    {
+      "id": 1882,
+      "name": "Dublet"
+    },
+    {
+      "id": 1884,
+      "name": "BTS 5770"
+    },
+    {
+      "id": 1886,
+      "name": "Dancer"
+    },
+    {
+      "id": 1888,
+      "name": "Ida"
+    },
+    {
+      "id": 1890,
+      "name": "Mikka"
+    },
+    {
+      "id": 1892,
+      "name": "HZ222"
+    },
+    {
+      "id": 1894,
+      "name": "Parsley Leaf"
+    },
+    {
+      "id": 1896,
+      "name": "LG Raptor"
+    },
+    {
+      "id": 1901,
+      "name": "Smart Rixta KWS"
+    },
+    {
+      "id": 1535,
+      "name": "Ace"
+    },
+    {
+      "id": 1536,
+      "name": "thiencarbazone-methyl"
+    },
+    {
+      "id": 1537,
+      "name": "V292OL"
+    },
+    {
+      "id": 1538,
+      "name": "Legume Pro"
+    },
+    {
+      "id": 1539,
+      "name": "Daikon Radish"
+    },
+    {
+      "id": 1540,
+      "name": "KWS Hawking"
+    },
+    {
+      "id": 1541,
+      "name": "Conrad CL"
+    },
+    {
+      "id": 1542,
+      "name": "Wizard maize"
+    },
+    {
+      "id": 1543,
+      "name": "1,2-benzisothiazolin-3-one"
+    },
+    {
+      "id": 1544,
+      "name": "Maruscha KWS"
+    },
+    {
+      "id": 1545,
+      "name": "Carissima"
+    },
+    {
+      "id": 1546,
+      "name": "Click CL"
+    },
+    {
+      "id": 1547,
+      "name": "Sunrise"
+    },
+    {
+      "id": 1548,
+      "name": "Campus Pea"
+    },
+    {
+      "id": 1549,
+      "name": "Agrovista Tillage Mix"
+    },
+    {
+      "id": 1550,
+      "name": "Codex"
+    },
+    {
+      "id": 1551,
+      "name": "KWS Cranium"
+    },
+    {
+      "id": 1552,
+      "name": "Es Aquarel CL"
+    },
+    {
+      "id": 1553,
+      "name": "Cadeal"
+    },
+    {
+      "id": 1554,
+      "name": "pablo + metalaxyl-m"
+    },
+    {
+      "id": 1555,
+      "name": "Cardeal Apron XL/Maxim"
+    },
+    {
+      "id": 1556,
+      "name": "Cardeal Exilis/Apron XL Maxim"
+    },
+    {
+      "id": 1557,
+      "name": "Cardeal Thiram Steep & Wakil"
+    },
+    {
+      "id": 1558,
+      "name": "Cardeal Thiram Steep/Apron XL"
+    },
+    {
+      "id": 1559,
+      "name": "Cardeal Thiram Steep/Apron XL/Maxim"
+    },
+    {
+      "id": 1560,
+      "name": "Rhonda"
+    },
+    {
+      "id": 1561,
+      "name": "Baldor Apron"
+    },
+    {
+      "id": 1562,
+      "name": "Manolo"
+    },
+    {
+      "id": 1563,
+      "name": "Betty"
+    },
+    {
+      "id": 1564,
+      "name": "Boldor Apron"
+    },
+    {
+      "id": 1565,
+      "name": "Sanette (Syngenta)"
+    },
+    {
+      "id": 1566,
+      "name": "sanette"
+    },
+    {
+      "id": 1567,
+      "name": "Sanette"
+    },
+    {
+      "id": 1568,
+      "name": "Pirate"
+    },
+    {
+      "id": 1569,
+      "name": "Lady Claire"
+    },
+    {
+      "id": 1570,
+      "name": "Bluetime"
+    },
+    {
+      "id": 1571,
+      "name": "Vivant"
+    },
+    {
+      "id": 1572,
+      "name": "Ingot"
+    },
+    {
+      "id": 1573,
+      "name": "Witkiem"
+    },
+    {
+      "id": 1574,
+      "name": "Kings Baracuda Oil Radish"
+    },
+    {
+      "id": 1575,
+      "name": "Kings Flower Rich Grass Mix"
+    },
+    {
+      "id": 1576,
+      "name": "Cougar"
+    },
+    {
+      "id": 1577,
+      "name": "purple vetch"
+    },
+    {
+      "id": 1578,
+      "name": "Cover Crop Radish"
+    },
+    {
+      "id": 1579,
+      "name": "Hyguardo"
+    },
+    {
+      "id": 1580,
+      "name": "Broadway"
+    },
+    {
+      "id": 1581,
+      "name": "Broadway OSR"
+    },
+    {
+      "id": 1582,
+      "name": "Planet"
+    },
+    {
+      "id": 1583,
+      "name": "V367OL"
+    },
+    {
+      "id": 1584,
+      "name": "DK Excited"
+    },
+    {
+      "id": 1585,
+      "name": "Tyson"
+    },
+    {
+      "id": 1586,
+      "name": "Sesame"
+    },
+    {
+      "id": 1587,
+      "name": "ES Palladium"
+    },
+    {
+      "id": 1588,
+      "name": "VCS 6004"
+    },
+    {
+      "id": 1589,
+      "name": "Braco White Mustard"
+    },
+    {
+      "id": 1590,
+      "name": "Vitasso"
+    },
+    {
+      "id": 1591,
+      "name": "Amelia Vetch"
+    },
+    {
+      "id": 1592,
+      "name": "Roxane Black Oat"
+    },
+    {
+      "id": 1593,
+      "name": "Frodo"
+    },
+    {
+      "id": 1594,
+      "name": "Companion crop"
+    },
+    {
+      "id": 1595,
+      "name": "Pedders Legumix"
+    },
+    {
+      "id": 1596,
+      "name": "Resolute"
+    },
+    {
+      "id": 1597,
+      "name": "NK Molten"
+    },
+    {
+      "id": 1598,
+      "name": "Cadence"
+    },
+    {
+      "id": 1599,
+      "name": "Evalotta KWS"
+    },
+    {
+      "id": 1600,
+      "name": "BTS 1915"
+    },
+    {
+      "id": 1601,
+      "name": "SY Kingston"
+    },
+    {
+      "id": 1602,
+      "name": "KWS Tayo"
+    },
+    {
+      "id": 1603,
+      "name": "King Russet"
+    },
+    {
+      "id": 1604,
+      "name": "selenium"
+    },
+    {
+      "id": 1605,
+      "name": "Buckwheat, Fodder Radish, Phacelia, Millet, Daikon & Berseem"
+    },
+    {
+      "id": 1606,
+      "name": "Cover Crop (mustard"
+    },
+    {
+      "id": 1607,
+      "name": "Forage Brassica Mix"
+    },
+    {
+      "id": 1608,
+      "name": "Fodder Radish, Phacelia, Millet, Daikon & Berseem"
+    },
+    {
+      "id": 1609,
+      "name": "Wild Bird Mix"
+    },
+    {
+      "id": 1610,
+      "name": "InV1030"
+    },
+    {
+      "id": 1611,
+      "name": "Galation"
+    },
+    {
+      "id": 1612,
+      "name": "InV1155"
+    },
+    {
+      "id": 1613,
+      "name": "Ahiflower"
+    },
+    {
+      "id": 1614,
+      "name": "SY Thunderbolt"
+    },
+    {
+      "id": 1615,
+      "name": "KWS Colosseum"
+    },
+    {
+      "id": 1616,
+      "name": "Waverex"
+    },
+    {
+      "id": 1617,
+      "name": "Maxi Rooter"
+    },
+    {
+      "id": 1618,
+      "name": "brown mustard"
+    },
+    {
+      "id": 1619,
+      "name": "fodder radish"
+    },
+    {
+      "id": 1620,
+      "name": "Artemis"
+    },
+    {
+      "id": 1621,
+      "name": "RGT Wolverine"
+    },
+    {
+      "id": 1622,
+      "name": "Temptation"
+    },
+    {
+      "id": 1623,
+      "name": "Artemis OSR"
+    },
+    {
+      "id": 1624,
+      "name": "Sensation Barley"
+    },
+    {
+      "id": 1625,
+      "name": "Rancador"
+    },
+    {
+      "id": 1626,
+      "name": "ES Constance"
+    },
+    {
+      "id": 1627,
+      "name": "Kings Adagio Oil Radish"
+    },
+    {
+      "id": 1628,
+      "name": "Heraclea"
+    },
+    {
+      "id": 1629,
+      "name": "Crosbey"
+    },
+    {
+      "id": 1630,
+      "name": "SY Insistor"
+    },
+    {
+      "id": 1631,
+      "name": "Duke"
+    },
+    {
+      "id": 1632,
+      "name": "Kestral"
+    },
+    {
+      "id": 1633,
+      "name": "bentonite"
+    },
+    {
+      "id": 1634,
+      "name": "fluorides"
+    },
+    {
+      "id": 1635,
+      "name": "LG Detroit"
+    },
+    {
+      "id": 1636,
+      "name": "fenpicoxamid"
+    },
+    {
+      "id": 1637,
+      "name": "Vandiamond"
+    },
+    {
+      "id": 1638,
+      "name": "Smart KWS"
+    },
+    {
+      "id": 1639,
+      "name": "Cruseo"
+    },
+    {
+      "id": 1640,
+      "name": "Tatran"
+    },
+    {
+      "id": 1641,
+      "name": "Compana"
+    },
+    {
+      "id": 1642,
+      "name": "Isole"
+    },
+    {
+      "id": 1643,
+      "name": "Libra"
+    },
+    {
+      "id": 1644,
+      "name": "heterorhabditis bacteriophora "
+    },
+    {
+      "id": 1645,
+      "name": "flucarbazone-sodium"
+    },
+    {
+      "id": 1646,
+      "name": "Marco Polo"
+    },
+    {
+      "id": 1647,
+      "name": "Pioneer (Forage Maize)"
+    },
+    {
+      "id": 1648,
+      "name": "pioneer"
+    },
+    {
+      "id": 1649,
+      "name": "bacillus amyloquefaciens"
+    },
+    {
+      "id": 1650,
+      "name": "Nectar Rich Gold"
+    },
+    {
+      "id": 1651,
+      "name": "musk mallow"
+    },
+    {
+      "id": 1652,
+      "name": "yarrow"
+    },
+    {
+      "id": 1653,
+      "name": "lucerne"
+    },
+    {
+      "id": 1654,
+      "name": "sainfoin"
+    },
+    {
+      "id": 1655,
+      "name": "birdsfoot trefoil"
+    },
+    {
+      "id": 1656,
+      "name": "winter vetch"
+    },
+    {
+      "id": 1657,
+      "name": "alsike clover"
+    },
+    {
+      "id": 1658,
+      "name": "WBA 2 (AB16)"
+    },
+    {
+      "id": 1659,
+      "name": "WBA 1"
+    },
+    {
+      "id": 1660,
+      "name": "TECHNISWARD MULTI PURPOSE LANDSCAPER"
+    },
+    {
+      "id": 1661,
+      "name": "late perennial ryegrass"
+    },
+    {
+      "id": 1662,
+      "name": "creeping red fescue"
+    },
+    {
+      "id": 1663,
+      "name": "TECHNISWARD LONG TERM"
+    },
+    {
+      "id": 1664,
+      "name": "P7938"
+    },
+    {
+      "id": 1665,
+      "name": "Hexham"
+    },
+    {
+      "id": 1666,
+      "name": "Borage"
+    },
+    {
+      "id": 1667,
+      "name": "matalaxyl-m"
+    },
+    {
+      "id": 1668,
+      "name": "DK Platinum"
+    },
+    {
+      "id": 1669,
+      "name": "Lumen"
+    },
+    {
+      "id": 1670,
+      "name": "Vitaro"
+    },
+    {
+      "id": 1671,
+      "name": "Technisward Catch Crop"
+    },
+    {
+      "id": 1672,
+      "name": "italian ryegrass"
+    },
+    {
+      "id": 1673,
+      "name": "tetraploid italian ryegrass"
+    },
+    {
+      "id": 1674,
+      "name": "Bee Mixture"
+    },
+    {
+      "id": 1675,
+      "name": "KWS Funky"
+    },
+    {
+      "id": 1676,
+      "name": "Valerie"
+    },
+    {
+      "id": 1677,
+      "name": "Butterfly and Bumblebee Mix KBB1"
+    },
+    {
+      "id": 1678,
+      "name": "Maxi Catch"
+    },
+    {
+      "id": 1679,
+      "name": "SY Splendor"
+    },
+    {
+      "id": 1680,
+      "name": "Marmalade"
+    },
+    {
+      "id": 1681,
+      "name": "pottas"
+    },
+    {
+      "id": 1682,
+      "name": "calcium phosphite"
+    },
+    {
+      "id": 1683,
+      "name": "Clear Choice"
+    },
+    {
+      "id": 1684,
+      "name": "Selune"
+    },
+    {
+      "id": 1685,
+      "name": "Daniel"
+    },
+    {
+      "id": 1686,
+      "name": "Quadra"
+    },
+    {
+      "id": 1687,
+      "name": "Brioni"
+    },
+    {
+      "id": 1688,
+      "name": "Denman"
+    },
+    {
+      "id": 1689,
+      "name": "Tuxedo"
+    },
+    {
+      "id": 1690,
+      "name": "sulphate"
+    },
+    {
+      "id": 1691,
+      "name": "dimethylpolys iloxane"
+    },
+    {
+      "id": 1692,
+      "name": "Amalfi"
+    },
+    {
+      "id": 1693,
+      "name": "Trophee"
+    },
+    {
+      "id": 1694,
+      "name": "trinexapac ethyl"
+    },
+    {
+      "id": 1695,
+      "name": "Kings Poacher"
+    },
+    {
+      "id": 1696,
+      "name": "Oakbank Summer Fallow"
+    },
+    {
+      "id": 1697,
+      "name": "Oakbank GM313"
+    },
+    {
+      "id": 1698,
+      "name": "anhydrous ferric phosphate"
+    },
+    {
+      "id": 1699,
+      "name": "Bees'n'Seeds"
+    },
+    {
+      "id": 1700,
+      "name": "kale rape"
+    },
+    {
+      "id": 1701,
+      "name": "gold of pleasure"
+    },
+    {
+      "id": 1702,
+      "name": "kale"
+    },
+    {
+      "id": 1703,
+      "name": "winter wheat"
+    },
+    {
+      "id": 1704,
+      "name": "placelia"
+    },
+    {
+      "id": 1705,
+      "name": "winter barley"
+    },
+    {
+      "id": 1706,
+      "name": "winter triticale"
+    },
+    {
+      "id": 1707,
+      "name": "SY Tungsten"
+    },
+    {
+      "id": 1708,
+      "name": "Kings Summer Legume Mix"
+    },
+    {
+      "id": 1709,
+      "name": "LG Astronomer"
+    },
+    {
+      "id": 1710,
+      "name": "Skye"
+    },
+    {
+      "id": 1711,
+      "name": "Sprinter-Pro"
+    },
+    {
+      "id": 1712,
+      "name": "Karioka"
+    },
+    {
+      "id": 1713,
+      "name": "SY Insitor"
+    },
+    {
+      "id": 1714,
+      "name": "phosphite"
+    },
+    {
+      "id": 1715,
+      "name": "seaweed concentrate"
+    },
+    {
+      "id": 1716,
+      "name": "bioactive agents"
+    },
+    {
+      "id": 1717,
+      "name": "Kepower 3 EFA Economy Power 3"
+    },
+    {
+      "id": 1718,
+      "name": "ascophyllum nodosum concentrate"
+    },
+    {
+      "id": 1719,
+      "name": "free l amino acids"
+    },
+    {
+      "id": 1720,
+      "name": "KWS Edmondo (Stafford Farm) pack (12 millon seeds)"
+    },
+    {
+      "id": 1721,
+      "name": ""
+    },
+    {
+      "id": 1722,
+      "name": "KWS Tardis"
+    },
+    {
+      "id": 1723,
+      "name": "KWS Dawsum"
+    },
+    {
+      "id": 1724,
+      "name": "Canary Seed"
+    },
+    {
+      "id": 1725,
+      "name": "Blazen"
+    },
+    {
+      "id": 1726,
+      "name": "alcohol ethoxylate"
+    },
+    {
+      "id": 1727,
+      "name": "amide nitrogen"
+    },
+    {
+      "id": 1728,
+      "name": "fermented molasses"
+    },
+    {
+      "id": 1729,
+      "name": "InV1266 CL"
+    },
+    {
+      "id": 1730,
+      "name": "Libra - DELETE"
+    },
+    {
+      "id": 1731,
+      "name": "SY Canyon"
+    },
+    {
+      "id": 1732,
+      "name": "Cover Crop (Linseed)"
+    },
+    {
+      "id": 1733,
+      "name": "Patrik"
+    },
+    {
+      "id": 1734,
+      "name": "chlorides"
+    },
+    {
+      "id": 1735,
+      "name": "fuvlic acid"
+    },
+    {
+      "id": 1736,
+      "name": "common vetch"
+    },
+    {
+      "id": 1737,
+      "name": "KWS Ernesto"
+    },
+    {
+      "id": 1738,
+      "name": "KWS Feliciano"
+    },
+    {
+      "id": 1739,
+      "name": "organic nitrogen"
+    },
+    {
+      "id": 1740,
+      "name": "japanese reed millet"
+    },
+    {
+      "id": 1741,
+      "name": "giant sorghum"
+    },
+    {
+      "id": 1742,
+      "name": "Poseidon"
+    },
+    {
+      "id": 1743,
+      "name": "Flower Rich Margin"
+    },
+    {
+      "id": 1744,
+      "name": "grasses"
+    },
+    {
+      "id": 1745,
+      "name": "wildflowers"
+    },
+    {
+      "id": 1746,
+      "name": "Protector"
+    },
+    {
+      "id": 1747,
+      "name": "Amarone"
+    },
+    {
+      "id": 1748,
+      "name": "Anneli"
+    },
+    {
+      "id": 1749,
+      "name": "RGT Silversurfer"
+    },
+    {
+      "id": 1750,
+      "name": "Fenugreek"
+    },
+    {
+      "id": 1751,
+      "name": "Sprinter Max"
+    },
+    {
+      "id": 1752,
+      "name": "Rocket"
+    },
+    {
+      "id": 1753,
+      "name": "Barley Max"
+    },
+    {
+      "id": 1754,
+      "name": "polyethylene oxide mono-c12-15-alkyl ether "
+    },
+    {
+      "id": 1755,
+      "name": "ethanolamine"
+    },
+    {
+      "id": 1756,
+      "name": "potassium pyrophosphate (k4p2o7) "
+    },
+    {
+      "id": 1757,
+      "name": "ethane-1,2-diol"
+    },
+    {
+      "id": 1758,
+      "name": "orthophosphoric acid"
+    },
+    {
+      "id": 1759,
+      "name": "ammonia nitrogen (n)"
+    },
+    {
+      "id": 1760,
+      "name": "sulfur trioxide (so3)"
+    },
+    {
+      "id": 1761,
+      "name": "ammonium sulphate (s 18.5)"
+    },
+    {
+      "id": 1762,
+      "name": "2-aminoethanol"
+    },
+    {
+      "id": 1763,
+      "name": "amines, tallow alkyl, ethoxylated"
+    },
+    {
+      "id": 1764,
+      "name": "butan-1-ol"
+    },
+    {
+      "id": 1765,
+      "name": "ethoxylated alcohol"
+    },
+    {
+      "id": 1766,
+      "name": "monocarbamide dihydrogen sulphate"
+    },
+    {
+      "id": 1767,
+      "name": "dichlormid (antidote)"
+    },
+    {
+      "id": 1768,
+      "name": "acetochlor (chloroacetanilide)"
+    },
+    {
+      "id": 1769,
+      "name": "ethyl and methyl esters of fatty acids"
+    },
+    {
+      "id": 1770,
+      "name": "oleic acid, ethyl ester"
+    },
+    {
+      "id": 1771,
+      "name": "tetrapotassium (1-hydroxyethylidene) bisphosphonate"
+    },
+    {
+      "id": 1772,
+      "name": "4-(cyclopropyl-a-hydroxymethylene)-3,5- dioxo-cyclohexanecarboxylic acid ethylester"
+    },
+    {
+      "id": 1773,
+      "name": "tetrahydrofurfuryl alcohol "
+    },
+    {
+      "id": 1774,
+      "name": "pendimethalin "
+    },
+    {
+      "id": 1775,
+      "name": "3-butoxypropan-2-ol"
+    },
+    {
+      "id": 1776,
+      "name": "potassium hydroxide"
+    },
+    {
+      "id": 1777,
+      "name": "polyoxyethylene monolaurate"
+    },
+    {
+      "id": 1778,
+      "name": "urea sulfate"
+    },
+    {
+      "id": 1779,
+      "name": "KWS Brium"
+    },
+    {
+      "id": 1780,
+      "name": "LG Prince"
+    },
+    {
+      "id": 1781,
+      "name": "KWS Guium"
+    },
+    {
+      "id": 1782,
+      "name": "Mayflower"
+    },
+    {
+      "id": 1783,
+      "name": "Ambrisse"
+    },
+    {
+      "id": 1785,
+      "name": "chlorimuron-ethyl"
+    },
+    {
+      "id": 1790,
+      "name": "Emerald Forage Rape"
+    },
+    {
+      "id": 1796,
+      "name": "alcohols"
+    },
+    {
+      "id": 1797,
+      "name": "c9-c11"
+    },
+    {
+      "id": 1798,
+      "name": "ethoxylate"
+    },
+    {
+      "id": 1802,
+      "name": "amino acid proteins"
+    },
+    {
+      "id": 1803,
+      "name": "carbohydrate"
+    },
+    {
+      "id": 1805,
+      "name": "temephos"
+    },
+    {
+      "id": 1808,
+      "name": "formaldehyde"
+    },
+    {
+      "id": 1809,
+      "name": "1,2-benzisothiazoline-3-one "
+    },
+    {
+      "id": 1810,
+      "name": "propylene glycol"
+    },
+    {
+      "id": 1812,
+      "name": "ethylenebisdithiocarbamate ion"
+    },
+    {
+      "id": 1814,
+      "name": "nitrosyl tetrafluoroborate"
+    },
+    {
+      "id": 1816,
+      "name": "surfactant cocanime"
+    },
+    {
+      "id": 1817,
+      "name": "accetic acid"
+    },
+    {
+      "id": 1819,
+      "name": "2,2'-oxybisethanol "
+    },
+    {
+      "id": 1820,
+      "name": "decanoic acid"
+    },
+    {
+      "id": 1821,
+      "name": "ethanediol"
+    },
+    {
+      "id": 1824,
+      "name": "n-propylphosphorothioic triamide"
+    },
+    {
+      "id": 1825,
+      "name": "polyethyleneimine"
+    },
+    {
+      "id": 1826,
+      "name": " benzylalcohol"
+    },
+    {
+      "id": 1827,
+      "name": "n-butyl-phosphorothioic triamide"
+    },
+    {
+      "id": 1829,
+      "name": "bioactive amino acids "
+    },
+    {
+      "id": 1830,
+      "name": "l-pga (pidolic acid)"
+    },
+    {
+      "id": 1835,
+      "name": "titanium"
+    },
+    {
+      "id": 1837,
+      "name": "LG Antigua"
+    },
+    {
+      "id": 1839,
+      "name": "Moss Curled"
+    },
+    {
+      "id": 1842,
+      "name": "Maris Widgeon"
+    },
+    {
+      "id": 1853,
+      "name": "Ovid"
+    },
+    {
+      "id": 1858,
+      "name": "Fix and Protect"
+    },
+    {
+      "id": 1859,
+      "name": "lifago buckwheat"
+    },
+    {
+      "id": 1861,
+      "name": "Fix and Block"
+    },
+    {
+      "id": 1872,
+      "name": "Vixen"
+    },
+    {
+      "id": 1878,
+      "name": "kactus"
+    },
+    {
+      "id": 1881,
+      "name": "Short Summer Mix"
+    },
+    {
+      "id": 1883,
+      "name": "DKC2684"
+    },
+    {
+      "id": 1885,
+      "name": "Contigo"
+    },
+    {
+      "id": 1887,
+      "name": "Somme"
+    },
+    {
+      "id": 1889,
+      "name": "Attila"
+    },
+    {
+      "id": 1891,
+      "name": "Polyphemus"
+    },
+    {
+      "id": 1893,
+      "name": "LG Cayman"
+    },
+    {
+      "id": 1895,
+      "name": "Shelton"
+    },
+    {
+      "id": 1897,
+      "name": "Santini"
+    },
+    {
+      "id": 1898,
+      "name": "Wintalin"
+    },
+    {
+      "id": 1899,
+      "name": "Flamingo Pea"
+    },
+    {
+      "id": 1900,
+      "name": "BTS 3020"
+    },
+    {
+      "id": 1902,
+      "name": "SY Vessel"
+    }
+  ]
+}

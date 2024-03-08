@@ -1,0 +1,95 @@
+{
+  "contracts": [
+    {
+      "groupId": 3,
+      "budgetDeliveredPrice": "185.00",
+      "date": "2022-11-10",
+      "cropId": 300,
+      "purchaseCompany": "Agriculture Ltd",
+      "id": "7f13dd67-d8d6-4ebc-bb39-52d1dcddb4bf",
+      "totalPrice": "55500.00",
+      "contractNumber": "PO-4589137",
+      "year": 2023,
+      "contractQuantity": "300.00",
+      "varietyId": null
+    },
+    {
+      "groupId": 3,
+      "budgetDeliveredPrice": "172.00",
+      "date": "2022-12-01",
+      "cropId": 300,
+      "purchaseCompany": "Agriculture Ltd",
+      "id": "cad214ff-20ac-4972-aa5f-21c439b86d1b",
+      "totalPrice": "70520.00",
+      "contractNumber": "PO-4589138",
+      "year": 2023,
+      "contractQuantity": "410.00",
+      "varietyId": null
+    },
+    {
+      "groupId": 3,
+      "budgetDeliveredPrice": "425.00",
+      "date": "2022-10-10",
+      "cropId": 303,
+      "purchaseCompany": "Agriculture Ltd",
+      "id": "587e5fe1-1297-490c-8f3b-bef50cf39de7",
+      "totalPrice": "63750.00",
+      "contractNumber": "PO-4589139",
+      "year": 2023,
+      "contractQuantity": "150.00",
+      "varietyId": null
+    },
+    {
+      "groupId": 3,
+      "budgetDeliveredPrice": "435.00",
+      "date": "2022-12-01",
+      "cropId": 303,
+      "purchaseCompany": "Agriculture Ltd",
+      "id": "04558390-ed70-4a84-babf-0119dd40f7b4",
+      "totalPrice": "47850.00",
+      "contractNumber": "PO-4589140",
+      "year": 2023,
+      "contractQuantity": "110.00",
+      "varietyId": null
+    },
+    {
+      "groupId": 3,
+      "budgetDeliveredPrice": "180.00",
+      "date": "2022-04-20",
+      "cropId": 300,
+      "purchaseCompany": "Agriculture Ltd",
+      "id": "5bd9b473-27e7-49fb-adcc-c28d597a770c",
+      "totalPrice": "55800.00",
+      "contractNumber": "PO-4589123",
+      "year": 2022,
+      "contractQuantity": "310.00",
+      "varietyId": null
+    },
+    {
+      "groupId": 3,
+      "varietyId": null,
+      "totalPrice": "74800.00",
+      "contractQuantity": "170.00",
+      "date": "2022-01-01",
+      "id": "de551e03-d7f8-42e2-81b3-402a92837e36",
+      "contractNumber": "PO-4589126",
+      "cropId": 303,
+      "purchaseCompany": "Agriculture Ltd",
+      "year": 2022,
+      "budgetDeliveredPrice": "440.00"
+    },
+    {
+      "groupId": 3,
+      "varietyId": null,
+      "totalPrice": "31500.00",
+      "contractQuantity": "70.00",
+      "date": "2022-03-16",
+      "id": "ce40262c-4bfd-450a-9b66-1fa6b902c5a3",
+      "contractNumber": "PO-4589127",
+      "cropId": 303,
+      "purchaseCompany": "Agriculture Ltd",
+      "year": 2022,
+      "budgetDeliveredPrice": "450.00"
+    }
+  ]
+}

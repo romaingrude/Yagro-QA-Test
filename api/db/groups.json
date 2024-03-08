@@ -1,0 +1,13 @@
+{
+  "groups": [
+    {
+      "id": 8,
+      "name": "QA",
+      "uuid": "3ea5526c-bee8-483c-a616-cbc67c35b0b8",
+      "users": ["qa"],
+      "virtualGroups": [],
+      "mainContact": "Engineering",
+      "partnerId": "qa"
+    }
+  ]
+}

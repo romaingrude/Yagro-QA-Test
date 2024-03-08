@@ -1,0 +1,54 @@
+{
+  "priceCheckData": [
+    {
+      "groupId": 1,
+      "seasonId": 706,
+      "buyingScore": 6.1
+    },
+    {
+      "groupId": 2,
+      "seasonId": 706,
+      "buyingScore": 7.5
+    },
+    {
+      "groupId": 1,
+      "seasonId": 704,
+      "buyingScore": 7.6
+    },
+    {
+      "groupId": 2,
+      "seasonId": 706,
+      "buyingScore": 8.9
+    },
+    {
+      "groupId": 1,
+      "seasonId": 705,
+      "buyingScore": 3.1
+    },
+    {
+      "groupId": 1,
+      "seasonId": 707,
+      "buyingScore": 2.5
+    },
+    {
+      "groupId": 3,
+      "seasonId": 705,
+      "buyingScore": 6.7
+    },
+    {
+      "groupId": 3,
+      "seasonId": 706,
+      "buyingScore": 7.2
+    },
+    {
+      "groupId": 3,
+      "seasonId": 707,
+      "buyingScore": 8.7
+    },
+    {
+      "groupId": 3,
+      "seasonId": 708,
+      "buyingScore": 5.5
+    }
+  ]
+}

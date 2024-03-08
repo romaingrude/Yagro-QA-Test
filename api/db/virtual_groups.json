@@ -1,0 +1,12 @@
+{
+  "virtualGroups": [
+    {
+      "id": 1,
+      "name": "My Farming Group"
+    },
+    {
+      "id": 2,
+      "name": "My Local Network of Farms"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+/*
+-------------------------------------------------------------------------------
+Prime Vue Overrides
+-------------------------------------------------------------------------------
+Description
+Some modifications to Prime Vue components to make them look more in keeping.
+-------------------------------------------------------------------------------
+*/
+
+.p-component {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.p-dialog {
+  .p-dialog-header {
+    color: var(--color-white);
+    padding: 1rem 1.5rem;
+    background-color: var(--primary-colour);
+
+    .p-dialog__title {
+      font-size: 1.25rem;
+      margin: 0;
+    }
+
+    .p-dialog-header-icon {
+      color: var(--color-white);
+    }
+  }
+
+  .p-dialog-content {
+    padding: 2rem 1.5rem 1.5rem;
+  }
+
+  .p-dialog-footer {
+    button {
+      margin-right: 0;
+    }
+  }
+}

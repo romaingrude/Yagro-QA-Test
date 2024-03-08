@@ -1,0 +1,33 @@
+/*
+-------------------------------------------------------------------------------
+Breakpoints
+-------------------------------------------------------------------------------
+Description
+Custom media breakpoints
+-------------------------------------------------------------------------------
+Usage
+.thing {
+  display: block;
+  @media(--sm) {
+    display: none;
+  }
+}
+-------------------------------------------------------------------------------
+Reference
+https://github.com/postcss/postcss-mixins
+-------------------------------------------------------------------------------
+*/
+
+@custom-media --xxs (min-width: 321px);
+
+@custom-media --xs (min-width: 450px);
+
+@custom-media --sm (min-width: 768px);
+
+@custom-media --md (min-width: 900px);
+
+@custom-media --lg (min-width: 1200px);
+
+@custom-media --xlg (min-width: 1441px);
+
+@custom-media --xxlg (min-width: 1675px);

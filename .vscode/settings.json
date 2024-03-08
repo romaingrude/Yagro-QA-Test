@@ -1,0 +1,50 @@
+{
+  "search.exclude": {
+    "**/.nuxt": true,
+    "**/node_modules": true,
+    "**/public": true
+  },
+  "files.exclude": {
+    "**/.nuxt": true,
+    "**/.output": true,
+    "**/.netlify": true,
+    "**/node_modules": true,
+    "**/.gitignore": true,
+    "**/.git": true,
+    "**/.npmrc": true,
+    "**/.nvmrc": true,
+    "**/tsconfig.json": true,
+    "**/package-lock.json": true,
+    "**/eslint.config.js": true
+  },
+  "eslint.experimental.useFlatConfig": true,
+  "prettier.enable": false,
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "never"
+  },
+  "eslint.rules.customizations": [
+    { "rule": "style/*", "severity": "off" },
+    { "rule": "*-indent", "severity": "off" },
+    { "rule": "*-spacing", "severity": "off" },
+    { "rule": "*-spaces", "severity": "off" },
+    { "rule": "*-order", "severity": "off" },
+    { "rule": "*-dangle", "severity": "off" },
+    { "rule": "*-newline", "severity": "off" },
+    { "rule": "*quotes", "severity": "off" },
+    { "rule": "*semi", "severity": "off" }
+  ],
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "vue",
+    "html",
+    "markdown",
+    "json",
+    "jsonc",
+    "yaml"
+  ]
+}

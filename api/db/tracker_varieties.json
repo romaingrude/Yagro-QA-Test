@@ -1,0 +1,1092 @@
+{
+  "trackerVarieties": [
+    {
+      "groupId": 3,
+      "varietyId": 421,
+      "year": 2023,
+      "fieldArea": 94.5,
+      "subcategories": [
+        {
+          "name": "seed",
+          "costPerHa": 80.61
+        },
+        {
+          "name": "fertiliser",
+          "costPerHa": 170.61
+        },
+        {
+          "name": "adjuvant",
+          "costPerHa": 3.57
+        },
+        {
+          "name": "trace element",
+          "costPerHa": 19.65
+        },
+        {
+          "name": "fungicide",
+          "costPerHa": 50.34
+        },
+        {
+          "name": "herbicide",
+          "costPerHa": 120.97
+        },
+        {
+          "name": "molluscicide",
+          "costPerHa": 4.92
+        },
+        {
+          "name": "insecticide",
+          "costPerHa": 4.03
+        },
+        {
+          "name": "anti-foam",
+          "costPerHa": 0.06
+        },
+        {
+          "name": "plant growth regulator",
+          "costPerHa": 12.86
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "varietyId": 461,
+      "year": 2023,
+      "fieldArea": 84.5,
+      "subcategories": [
+        {
+          "name": "seed",
+          "costPerHa": 75.0
+        },
+        {
+          "name": "fertiliser",
+          "costPerHa": 181.02
+        },
+        {
+          "name": "adjuvant",
+          "costPerHa": 9.54
+        },
+        {
+          "name": "trace element",
+          "costPerHa": 19.22
+        },
+        {
+          "name": "fungicide",
+          "costPerHa": 52.67
+        },
+        {
+          "name": "herbicide",
+          "costPerHa": 91.52
+        },
+        {
+          "name": "molluscicide",
+          "costPerHa": 6.49
+        },
+        {
+          "name": "insecticide",
+          "costPerHa": 0
+        },
+        {
+          "name": "anti-foam",
+          "costPerHa": 0.19
+        },
+        {
+          "name": "plant growth regulator",
+          "costPerHa": 10.98
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "varietyId": 467,
+      "year": 2023,
+      "fieldArea": 58.5,
+      "subcategories": [
+        {
+          "name": "seed",
+          "costPerHa": 106.85
+        },
+        {
+          "name": "fertiliser",
+          "costPerHa": 195.9
+        },
+        {
+          "name": "adjuvant",
+          "costPerHa": 4.74
+        },
+        {
+          "name": "trace element",
+          "costPerHa": 8.19
+        },
+        {
+          "name": "fungicide",
+          "costPerHa": 19.77
+        },
+        {
+          "name": "herbicide",
+          "costPerHa": 101.87
+        },
+        {
+          "name": "molluscicide",
+          "costPerHa": 4.96
+        },
+        {
+          "name": "insecticide",
+          "costPerHa": 0.75
+        },
+        {
+          "name": "anti-foam",
+          "costPerHa": 0.17
+        },
+        {
+          "name": "plant growth regulator",
+          "costPerHa": 6.63
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "varietyId": 286,
+      "year": 2023,
+      "fieldArea": 51.9,
+      "subcategories": [
+        {
+          "name": "seed",
+          "costPerHa": 29.78
+        },
+        {
+          "name": "fertiliser",
+          "costPerHa": 269.34
+        },
+        {
+          "name": "adjuvant",
+          "costPerHa": 0.76
+        },
+        {
+          "name": "trace element",
+          "costPerHa": 14.19
+        },
+        {
+          "name": "fungicide",
+          "costPerHa": 30.45
+        },
+        {
+          "name": "herbicide",
+          "costPerHa": 76.34
+        },
+        {
+          "name": "foliar fertiliser",
+          "costPerHa": 0.66
+        },
+        {
+          "name": "molluscicide",
+          "costPerHa": 9.6
+        },
+        {
+          "name": "insecticide",
+          "costPerHa": 4.66
+        },
+        {
+          "name": "anti-foam",
+          "costPerHa": 0.17
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "varietyId": 385,
+      "year": 2023,
+      "fieldArea": 84.5,
+      "subcategories": [
+        {
+          "name": "seed",
+          "costPerHa": 78.56
+        },
+        {
+          "name": "fertiliser",
+          "costPerHa": 363.83
+        },
+        {
+          "name": "trace element",
+          "costPerHa": 14.05
+        },
+        {
+          "name": "herbicide",
+          "costPerHa": 105.99
+        },
+        {
+          "name": "foliar fertiliser",
+          "costPerHa": 0
+        },
+        {
+          "name": "molluscicide",
+          "costPerHa": 13.78
+        },
+        {
+          "name": "insecticide",
+          "costPerHa": 7.14
+        },
+        {
+          "name": "fungicide",
+          "costPerHa": 44.96
+        },
+        {
+          "name": "adjuvant",
+          "costPerHa": 4.69
+        },
+        {
+          "name": "anti-foam",
+          "costPerHa": 0.11
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "varietyId": 396,
+      "year": 2023,
+      "fieldArea": 37.2,
+      "subcategories": [
+        {
+          "name": "seed",
+          "costPerHa": 23.7
+        },
+        {
+          "name": "fertiliser",
+          "costPerHa": 301.1
+        },
+        {
+          "name": "trace element",
+          "costPerHa": 17.65
+        },
+        {
+          "name": "herbicide",
+          "costPerHa": 65.36
+        },
+        {
+          "name": "foliar fertiliser",
+          "costPerHa": 0
+        },
+        {
+          "name": "molluscicide",
+          "costPerHa": 0
+        },
+        {
+          "name": "insecticide",
+          "costPerHa": 4.66
+        },
+        {
+          "name": "fungicide",
+          "costPerHa": 30.81
+        },
+        {
+          "name": "adjuvant",
+          "costPerHa": 0.74
+        },
+        {
+          "name": "anti-foam",
+          "costPerHa": 0.16
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "varietyId": 396,
+      "year": 2022,
+      "fieldArea": 51.9,
+      "subcategories": [
+        {
+          "name": "seed",
+          "costPerHa": 29.78
+        },
+        {
+          "name": "fertiliser",
+          "costPerHa": 239.04
+        },
+        {
+          "name": "trace element",
+          "costPerHa": 14.17
+        },
+        {
+          "name": "herbicide",
+          "costPerHa": 102.71
+        },
+        {
+          "name": "foliar fertiliser",
+          "costPerHa": 0.66
+        },
+        {
+          "name": "molluscicide",
+          "costPerHa": 9.6
+        },
+        {
+          "name": "insecticide",
+          "costPerHa": 4.66
+        },
+        {
+          "name": "fungicide",
+          "costPerHa": 30.46
+        },
+        {
+          "name": "pod sealant",
+          "costPerHa": 10.87
+        },
+        {
+          "name": "adjuvant",
+          "costPerHa": 1.59
+        },
+        {
+          "name": "anti-foam",
+          "costPerHa": 0.34
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "varietyId": 385,
+      "year": 2022,
+      "fieldArea": 84.5,
+      "subcategories": [
+        {
+          "name": "seed",
+          "costPerHa": 78.56
+        },
+        {
+          "name": "fertiliser",
+          "costPerHa": 255.09
+        },
+        {
+          "name": "trace element",
+          "costPerHa": 16.11
+        },
+        {
+          "name": "herbicide",
+          "costPerHa": 114.79
+        },
+        {
+          "name": "foliar fertiliser",
+          "costPerHa": 0
+        },
+        {
+          "name": "molluscicide",
+          "costPerHa": 13.78
+        },
+        {
+          "name": "insecticide",
+          "costPerHa": 7.14
+        },
+        {
+          "name": "fungicide",
+          "costPerHa": 76.02
+        },
+        {
+          "name": "pod sealant",
+          "costPerHa": 11.25
+        },
+        {
+          "name": "adjuvant",
+          "costPerHa": 8.2
+        },
+        {
+          "name": "anti-foam",
+          "costPerHa": 0.28
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "varietyId": 396,
+      "year": 2022,
+      "fieldArea": 37.2,
+      "subcategories": [
+        {
+          "name": "seed",
+          "costPerHa": 23.7
+        },
+        {
+          "name": "fertiliser",
+          "costPerHa": 246.17
+        },
+        {
+          "name": "trace element",
+          "costPerHa": 17.67
+        },
+        {
+          "name": "herbicide",
+          "costPerHa": 95.5
+        },
+        {
+          "name": "foliar fertiliser",
+          "costPerHa": 0
+        },
+        {
+          "name": "molluscicide",
+          "costPerHa": 0
+        },
+        {
+          "name": "insecticide",
+          "costPerHa": 4.66
+        },
+        {
+          "name": "fungicide",
+          "costPerHa": 31.39
+        },
+        {
+          "name": "pod sealant",
+          "costPerHa": 0.18
+        },
+        {
+          "name": "adjuvant",
+          "costPerHa": 0.8
+        },
+        {
+          "name": "anti-foam",
+          "costPerHa": 0.17
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "varietyId": 421,
+      "year": 2022,
+      "fieldArea": 94.5,
+      "subcategories": [
+        {
+          "name": "seed",
+          "costPerHa": 80.61
+        },
+        {
+          "name": "fertiliser",
+          "costPerHa": 198.41
+        },
+        {
+          "name": "adjuvant",
+          "costPerHa": 7.39
+        },
+        {
+          "name": "trace element",
+          "costPerHa": 26.55
+        },
+        {
+          "name": "fungicide",
+          "costPerHa": 128.18
+        },
+        {
+          "name": "herbicide",
+          "costPerHa": 155.45
+        },
+        {
+          "name": "molluscicide",
+          "costPerHa": 4.92
+        },
+        {
+          "name": "insecticide",
+          "costPerHa": 4.03
+        },
+        {
+          "name": "anti-foam",
+          "costPerHa": 0.07
+        },
+        {
+          "name": "plant growth regulator",
+          "costPerHa": 12.85
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "varietyId": 461,
+      "year": 2022,
+      "fieldArea": 84.5,
+      "subcategories": [
+        {
+          "name": "seed",
+          "costPerHa": 75
+        },
+        {
+          "name": "fertiliser",
+          "costPerHa": 213.46
+        },
+        {
+          "name": "adjuvant",
+          "costPerHa": 13.16
+        },
+        {
+          "name": "trace element",
+          "costPerHa": 27.32
+        },
+        {
+          "name": "fungicide",
+          "costPerHa": 133.07
+        },
+        {
+          "name": "herbicide",
+          "costPerHa": 143.24
+        },
+        {
+          "name": "molluscicide",
+          "costPerHa": 6.49
+        },
+        {
+          "name": "insecticide",
+          "costPerHa": 0
+        },
+        {
+          "name": "anti-foam",
+          "costPerHa": 0.19
+        },
+        {
+          "name": "plant growth regulator",
+          "costPerHa": 12.05
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "varietyId": 467,
+      "year": 2022,
+      "fieldArea": 58.5,
+      "subcategories": [
+        {
+          "name": "seed",
+          "costPerHa": 106.85
+        },
+        {
+          "name": "fertiliser",
+          "costPerHa": 206.39
+        },
+        {
+          "name": "adjuvant",
+          "costPerHa": 8.46
+        },
+        {
+          "name": "trace element",
+          "costPerHa": 19.38
+        },
+        {
+          "name": "fungicide",
+          "costPerHa": 89.39
+        },
+        {
+          "name": "herbicide",
+          "costPerHa": 129.25
+        },
+        {
+          "name": "molluscicide",
+          "costPerHa": 4.96
+        },
+        {
+          "name": "insecticide",
+          "costPerHa": 0.75
+        },
+        {
+          "name": "anti-foam",
+          "costPerHa": 0.17
+        },
+        {
+          "name": "plant growth regulator",
+          "costPerHa": 11.75
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "varietyId": 421,
+      "year": 2021,
+      "fieldArea": 31.2,
+      "subcategories": [
+        {
+          "name": "seed",
+          "costPerHa": 87.5
+        },
+        {
+          "name": "fertiliser",
+          "costPerHa": 270.7
+        },
+        {
+          "name": "adjuvant",
+          "costPerHa": 4.01
+        },
+        {
+          "name": "trace element",
+          "costPerHa": 8.32
+        },
+        {
+          "name": "fungicide",
+          "costPerHa": 85.79
+        },
+        {
+          "name": "herbicide",
+          "costPerHa": 66.94
+        },
+        {
+          "name": "molluscicide",
+          "costPerHa": 0
+        },
+        {
+          "name": "plant growth regulator",
+          "costPerHa": 8.41
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "varietyId": 466,
+      "year": 2021,
+      "fieldArea": 55.9,
+      "subcategories": [
+        {
+          "name": "seed",
+          "costPerHa": 70
+        },
+        {
+          "name": "fertiliser",
+          "costPerHa": 275.7
+        },
+        {
+          "name": "adjuvant",
+          "costPerHa": 4.01
+        },
+        {
+          "name": "trace element",
+          "costPerHa": 21.74
+        },
+        {
+          "name": "fungicide",
+          "costPerHa": 44.33
+        },
+        {
+          "name": "herbicide",
+          "costPerHa": 51.33
+        },
+        {
+          "name": "molluscicide",
+          "costPerHa": 15.39
+        },
+        {
+          "name": "plant growth regulator",
+          "costPerHa": 8.15
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "varietyId": 266,
+      "year": 2021,
+      "fieldArea": 9.7,
+      "subcategories": [
+        {
+          "name": "seed",
+          "costPerHa": 30.38
+        },
+        {
+          "name": "fertiliser",
+          "costPerHa": 220.29
+        },
+        {
+          "name": "trace element",
+          "costPerHa": 14.59
+        },
+        {
+          "name": "herbicide",
+          "costPerHa": 109.81
+        },
+        {
+          "name": "foliar fertiliser",
+          "costPerHa": 0
+        },
+        {
+          "name": "molluscicide",
+          "costPerHa": 6.84
+        },
+        {
+          "name": "insecticide",
+          "costPerHa": 9.38
+        },
+        {
+          "name": "fungicide",
+          "costPerHa": 72.78
+        },
+        {
+          "name": "pod sealant",
+          "costPerHa": 10.8
+        },
+        {
+          "name": "adjuvant",
+          "costPerHa": 3.55
+        },
+        {
+          "name": "anti-foam",
+          "costPerHa": 0.17
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "varietyId": 385,
+      "year": 2021,
+      "fieldArea": 30.1,
+      "subcategories": [
+        {
+          "name": "seed",
+          "costPerHa": 28.71
+        },
+        {
+          "name": "fertiliser",
+          "costPerHa": 220.29
+        },
+        {
+          "name": "trace element",
+          "costPerHa": 10.05
+        },
+        {
+          "name": "herbicide",
+          "costPerHa": 67.8
+        },
+        {
+          "name": "foliar fertiliser",
+          "costPerHa": 0
+        },
+        {
+          "name": "molluscicide",
+          "costPerHa": 2.95
+        },
+        {
+          "name": "insecticide",
+          "costPerHa": 4.05
+        },
+        {
+          "name": "fungicide",
+          "costPerHa": 42.74
+        },
+        {
+          "name": "pod sealant",
+          "costPerHa": 4.66
+        },
+        {
+          "name": "adjuvant",
+          "costPerHa": 2.27
+        },
+        {
+          "name": "anti-foam",
+          "costPerHa": 0.17
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "varietyId": 396,
+      "year": 2021,
+      "fieldArea": 83.2,
+      "subcategories": [
+        {
+          "name": "seed",
+          "costPerHa": 26.55
+        },
+        {
+          "name": "fertiliser",
+          "costPerHa": 220.29
+        },
+        {
+          "name": "trace element",
+          "costPerHa": 6.78
+        },
+        {
+          "name": "herbicide",
+          "costPerHa": 36.21
+        },
+        {
+          "name": "foliar fertiliser",
+          "costPerHa": 0
+        },
+        {
+          "name": "molluscicide",
+          "costPerHa": 1.44
+        },
+        {
+          "name": "insecticide",
+          "costPerHa": 0
+        },
+        {
+          "name": "fungicide",
+          "costPerHa": 29.91
+        },
+        {
+          "name": "pod sealant",
+          "costPerHa": 0
+        },
+        {
+          "name": "adjuvant",
+          "costPerHa": 3.19
+        },
+        {
+          "name": "anti-foam",
+          "costPerHa": 0.17
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "varietyId": 260,
+      "year": 2020,
+      "fieldArea": 46.4,
+      "subcategories": [
+        {
+          "name": "seed",
+          "costPerHa": 71.18
+        },
+        {
+          "name": "fertiliser",
+          "costPerHa": 219.18
+        },
+        {
+          "name": "biostimulant",
+          "costPerHa": 0
+        },
+        {
+          "name": "trace element",
+          "costPerHa": 12.62
+        },
+        {
+          "name": "herbicide",
+          "costPerHa": 77.02
+        },
+        {
+          "name": "foliar fertiliser",
+          "costPerHa": 1.16
+        },
+        {
+          "name": "molluscicide",
+          "costPerHa": 12.66
+        },
+        {
+          "name": "insecticide",
+          "costPerHa": 4.69
+        },
+        {
+          "name": "fungicide",
+          "costPerHa": 51.38
+        },
+        {
+          "name": "pod sealant",
+          "costPerHa": 11.51
+        },
+        {
+          "name": "adjuvant",
+          "costPerHa": 7.5
+        },
+        {
+          "name": "anti-foam",
+          "costPerHa": 0.17
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "varietyId": 348,
+      "year": 2020,
+      "fieldArea": 85.9,
+      "subcategories": [
+        {
+          "name": "seed",
+          "costPerHa": 8.06
+        },
+        {
+          "name": "fertiliser",
+          "costPerHa": 219.54
+        },
+        {
+          "name": "biostimulant",
+          "costPerHa": 12.25
+        },
+        {
+          "name": "trace element",
+          "costPerHa": 50.12
+        },
+        {
+          "name": "herbicide",
+          "costPerHa": 103.86
+        },
+        {
+          "name": "foliar fertiliser",
+          "costPerHa": 0
+        },
+        {
+          "name": "molluscicide",
+          "costPerHa": 5.13
+        },
+        {
+          "name": "insecticide",
+          "costPerHa": 11.29
+        },
+        {
+          "name": "fungicide",
+          "costPerHa": 94.88
+        },
+        {
+          "name": "pod sealant",
+          "costPerHa": 11.5
+        },
+        {
+          "name": "adjuvant",
+          "costPerHa": 0.95
+        },
+        {
+          "name": "anti-foam",
+          "costPerHa": 0.17
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "varietyId": 396,
+      "year": 2020,
+      "fieldArea": 55.9,
+      "subcategories": [
+        {
+          "name": "seed",
+          "costPerHa": 20.56
+        },
+        {
+          "name": "fertiliser",
+          "costPerHa": 180.67
+        },
+        {
+          "name": "biostimulant",
+          "costPerHa": 0
+        },
+        {
+          "name": "trace element",
+          "costPerHa": 9.52
+        },
+        {
+          "name": "herbicide",
+          "costPerHa": 62.64
+        },
+        {
+          "name": "foliar fertiliser",
+          "costPerHa": 0
+        },
+        {
+          "name": "molluscicide",
+          "costPerHa": 0
+        },
+        {
+          "name": "insecticide",
+          "costPerHa": 2.64
+        },
+        {
+          "name": "fungicide",
+          "costPerHa": 91.87
+        },
+        {
+          "name": "pod sealant",
+          "costPerHa": 11.5
+        },
+        {
+          "name": "adjuvant",
+          "costPerHa": 6.43
+        },
+        {
+          "name": "anti-foam",
+          "costPerHa": 0.17
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "varietyId": 421,
+      "year": 2020,
+      "fieldArea": 39.9,
+      "subcategories": [
+        {
+          "name": "seed",
+          "costPerHa": 64.13
+        },
+        {
+          "name": "fertiliser",
+          "costPerHa": 143.95
+        },
+        {
+          "name": "adjuvant",
+          "costPerHa": 9.9
+        },
+        {
+          "name": "trace element",
+          "costPerHa": 12.48
+        },
+        {
+          "name": "fungicide",
+          "costPerHa": 117.52
+        },
+        {
+          "name": "herbicide",
+          "costPerHa": 104.23
+        },
+        {
+          "name": "molluscicide",
+          "costPerHa": 6.49
+        },
+        {
+          "name": "insecticide",
+          "costPerHa": 1.78
+        },
+        {
+          "name": "foliar fertiliser",
+          "costPerHa": 0.12
+        },
+        {
+          "name": "plant growth regulator",
+          "costPerHa": 18.5
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "varietyId": 466,
+      "year": 2020,
+      "fieldArea": 106,
+      "subcategories": [
+        {
+          "name": "seed",
+          "costPerHa": 58.1
+        },
+        {
+          "name": "fertiliser",
+          "costPerHa": 252.36
+        },
+        {
+          "name": "adjuvant",
+          "costPerHa": 8.51
+        },
+        {
+          "name": "trace element",
+          "costPerHa": 40.87
+        },
+        {
+          "name": "fungicide",
+          "costPerHa": 171.83
+        },
+        {
+          "name": "herbicide",
+          "costPerHa": 125.84
+        },
+        {
+          "name": "molluscicide",
+          "costPerHa": 0
+        },
+        {
+          "name": "insecticide",
+          "costPerHa": 6.42
+        },
+        {
+          "name": "foliar fertiliser",
+          "costPerHa": 0.1
+        },
+        {
+          "name": "plant growth regulator",
+          "costPerHa": 27.29
+        }
+      ]
+    }
+  ]
+}

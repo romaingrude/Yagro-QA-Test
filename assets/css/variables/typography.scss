@@ -1,0 +1,50 @@
+/*
+-------------------------------------------------------------------------------
+Typography
+-------------------------------------------------------------------------------
+Description
+Store variables here to assist with typography.
+-------------------------------------------------------------------------------
+*/
+
+:root {
+  /* Typefaces */
+  --font-primary: 'Montserrat', sans-serif;
+  --font-secondary: 'Montserrat', sans-serif;
+
+  /* Font - Weights
+    We have the choice of using either the 'number', or 'named' weight.
+    We should prioritize the 'named' weights (--font-bold) as they are
+    easier to read. Use the number based variables if needed.
+  */
+
+  --font-100: 100;
+  --font-200: 200;
+  --font-300: 300;
+  --font-400: 400;
+  --font-500: 500;
+  --font-600: 600;
+  --font-700: 700;
+  --font-800: 800;
+  --font-900: 900;
+  --font-950: 950;
+
+  --font-thin: var(--font-100);
+  --font-extra-light: var(--font-200);
+  --font-light: var(--font-300);
+  --font-normal: var(--font-400);
+  --font-medium: var(--font-500);
+  --font-semi-bold: var(--font-600);
+  --font-bold: var(--font-700);
+  --font-extra-bold: var(--font-800);
+  --font-black: var(--font-900);
+  --font-extra-black: var(--font-950);
+
+  /* Fonts - line heights */
+
+  --line-height-tightest: 1;
+  --line-height-tight: 1.1;
+  --line-height: 1.5;
+  --line-height-loose: 1.75;
+  --line-height-loosest: 2;
+}

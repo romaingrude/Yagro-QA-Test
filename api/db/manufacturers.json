@@ -1,0 +1,740 @@
+{
+  "manufacturers": [
+    {
+      "id": 500,
+      "name": "Manufacturer"
+    },
+    {
+      "id": 501,
+      "name": "A Manufacturer"
+    },
+    {
+      "id": 502,
+      "name": "UK Manufacturer"
+    },
+    {
+      "id": 17,
+      "name": "Adama Agricultural Solutions UK Ltd"
+    },
+    {
+      "id": 158,
+      "name": "Bayer CropScience Ltd"
+    },
+    {
+      "id": 9,
+      "name": "Syngenta UK Ltd"
+    },
+    {
+      "id": 134,
+      "name": "BASF plc"
+    },
+    {
+      "id": 280,
+      "name": "United Agri Products Ltd"
+    },
+    {
+      "id": 116,
+      "name": "De Sangosse Limited"
+    },
+    {
+      "id": 223,
+      "name": "Gowan Crop Protection Ltd"
+    },
+    {
+      "id": 156,
+      "name": "Nufarm UK Ltd"
+    },
+    {
+      "id": 113,
+      "name": "Yara UK Limited"
+    },
+    {
+      "id": 79,
+      "name": "Interagro (UK) Limited"
+    },
+    {
+      "id": 177,
+      "name": "Arysta LifeScience Limited"
+    },
+    {
+      "id": 219,
+      "name": "Interfarm UK Ltd"
+    },
+    {
+      "id": 231,
+      "name": "Albaugh UK Ltd"
+    },
+    {
+      "id": 632,
+      "name": "K+S KALI GmbH"
+    },
+    {
+      "id": 94,
+      "name": "KWS UK"
+    },
+    {
+      "id": 218,
+      "name": "Gemini Agriculture Ltd"
+    },
+    {
+      "id": 204,
+      "name": "Barclay Chemicals Manufacturing Ltd"
+    },
+    {
+      "id": 167,
+      "name": "Headland Agrochemicals Ltd"
+    },
+    {
+      "id": 353,
+      "name": "Sinon EU GmbH"
+    },
+    {
+      "id": 194,
+      "name": "Life Scientific Ltd"
+    },
+    {
+      "id": 295,
+      "name": "Societe Financiere de Pontarlier (S.F.P.)"
+    },
+    {
+      "id": 96,
+      "name": "Elsoms Seeds"
+    },
+    {
+      "id": 123,
+      "name": "Intracrop"
+    },
+    {
+      "id": 657,
+      "name": "FMC Agro Ltd"
+    },
+    {
+      "id": 131,
+      "name": "SDP"
+    },
+    {
+      "id": 700,
+      "name": "Nutrel Products Ltd"
+    },
+    {
+      "id": 252,
+      "name": "SFP Europe SA"
+    },
+    {
+      "id": 280,
+      "name": "United Agri Products Ltd"
+    },
+    {
+      "id": 87,
+      "name": "LS Plant Breeding Limited"
+    },
+    {
+      "id": 9,
+      "name": "Syngenta UK Ltd"
+    },
+    {
+      "id": 167,
+      "name": "Headland Agrochemicals Ltd"
+    },
+    {
+      "id": 158,
+      "name": "Bayer CropScience Ltd"
+    },
+    {
+      "id": 116,
+      "name": "De Sangosse Limited"
+    },
+    {
+      "id": 17,
+      "name": "Adama Agricultural Solutions UK Ltd"
+    },
+    {
+      "id": 113,
+      "name": "Yara UK Limited"
+    },
+    {
+      "id": 202,
+      "name": "Dow AgroSciences Ltd"
+    },
+    {
+      "id": 177,
+      "name": "Arysta LifeScience Limited"
+    },
+    {
+      "id": 194,
+      "name": "Life Scientific Ltd"
+    },
+    {
+      "id": 79,
+      "name": "Interagro (UK) Limited"
+    },
+    {
+      "id": 94,
+      "name": "KWS UK"
+    },
+    {
+      "id": 123,
+      "name": "Intracrop"
+    },
+    {
+      "id": 276,
+      "name": "Clayton Plant Protection (UK) Ltd"
+    },
+    {
+      "id": 386,
+      "name": "Nissan Chemical Europe S.A.R.L."
+    },
+    {
+      "id": 676,
+      "name": "Agrii, a trading name of Masstock Arable (UK) Ltd"
+    },
+    {
+      "id": 204,
+      "name": "Barclay Chemicals Manufacturing Ltd"
+    },
+    {
+      "id": 131,
+      "name": "SDP"
+    },
+    {
+      "id": 96,
+      "name": "Elsoms Seeds"
+    },
+    {
+      "id": 134,
+      "name": "BASF plc"
+    },
+    {
+      "id": 200,
+      "name": "Chem-Wise Ltd"
+    },
+    {
+      "id": 9,
+      "name": "Syngenta UK Ltd"
+    },
+    {
+      "id": 79,
+      "name": "Interagro (UK) Limited"
+    },
+    {
+      "id": 625,
+      "name": "Verdesian Life Sciences"
+    },
+    {
+      "id": 96,
+      "name": "Elsoms Seeds"
+    },
+    {
+      "id": 113,
+      "name": "Yara UK Limited"
+    },
+    {
+      "id": 280,
+      "name": "United Agri Products Ltd"
+    },
+    {
+      "id": 116,
+      "name": "De Sangosse Limited"
+    },
+    {
+      "id": 158,
+      "name": "Bayer CropScience Ltd"
+    },
+    {
+      "id": 99,
+      "name": "Monsanto UK Ltd"
+    },
+    {
+      "id": 353,
+      "name": "Sinon EU GmbH"
+    },
+    {
+      "id": 223,
+      "name": "Gowan Crop Protection Ltd"
+    },
+    {
+      "id": 94,
+      "name": "KWS UK"
+    },
+    {
+      "id": 219,
+      "name": "Interfarm UK Ltd"
+    },
+    {
+      "id": 113,
+      "name": "Yara UK Limited"
+    },
+    {
+      "id": 134,
+      "name": "BASF plc"
+    },
+    {
+      "id": 223,
+      "name": "Gowan Crop Protection Ltd"
+    },
+    {
+      "id": 79,
+      "name": "Interagro (UK) Limited"
+    },
+    {
+      "id": 280,
+      "name": "United Agri Products Ltd"
+    },
+    {
+      "id": 213,
+      "name": "TerreChem Ltd"
+    },
+    {
+      "id": 204,
+      "name": "Barclay Chemicals Manufacturing Ltd"
+    },
+    {
+      "id": 700,
+      "name": "Nutrel Products Ltd"
+    },
+    {
+      "id": 9,
+      "name": "Syngenta UK Ltd"
+    },
+    {
+      "id": 313,
+      "name": "JT Agro Ltd"
+    },
+    {
+      "id": 17,
+      "name": "Adama Agricultural Solutions UK Ltd"
+    },
+    {
+      "id": 156,
+      "name": "Nufarm UK Ltd"
+    },
+    {
+      "id": 202,
+      "name": "Dow AgroSciences Ltd"
+    },
+    {
+      "id": 219,
+      "name": "Interfarm UK Ltd"
+    },
+    {
+      "id": 167,
+      "name": "Headland Agrochemicals Ltd"
+    },
+    {
+      "id": 99,
+      "name": "Monsanto UK Ltd"
+    },
+    {
+      "id": 94,
+      "name": "KWS UK"
+    },
+    {
+      "id": 163,
+      "name": "Du Pont (UK) Ltd"
+    },
+    {
+      "id": 164,
+      "name": "UPL Europe Ltd"
+    },
+    {
+      "id": 158,
+      "name": "Bayer CropScience Ltd"
+    },
+    {
+      "id": 40,
+      "name": "Omex Agriculture Ltd"
+    },
+    {
+      "id": 14,
+      "name": "Certis"
+    },
+    {
+      "id": 475,
+      "name": "Goemar SA"
+    },
+    {
+      "id": 280,
+      "name": "United Agri Products Ltd"
+    },
+    {
+      "id": 87,
+      "name": "LS Plant Breeding Limited"
+    },
+    {
+      "id": 9,
+      "name": "Syngenta UK Ltd"
+    },
+    {
+      "id": 167,
+      "name": "Headland Agrochemicals Ltd"
+    },
+    {
+      "id": 158,
+      "name": "Bayer CropScience Ltd"
+    },
+    {
+      "id": 116,
+      "name": "De Sangosse Limited"
+    },
+    {
+      "id": 17,
+      "name": "Adama Agricultural Solutions UK Ltd"
+    },
+    {
+      "id": 113,
+      "name": "Yara UK Limited"
+    },
+    {
+      "id": 202,
+      "name": "Dow AgroSciences Ltd"
+    },
+    {
+      "id": 177,
+      "name": "Arysta LifeScience Limited"
+    },
+    {
+      "id": 194,
+      "name": "Life Scientific Ltd"
+    },
+    {
+      "id": 79,
+      "name": "Interagro (UK) Limited"
+    },
+    {
+      "id": 94,
+      "name": "KWS UK"
+    },
+    {
+      "id": 123,
+      "name": "Intracrop"
+    },
+    {
+      "id": 276,
+      "name": "Clayton Plant Protection (UK) Ltd"
+    },
+    {
+      "id": 386,
+      "name": "Nissan Chemical Europe S.A.R.L."
+    },
+    {
+      "id": 676,
+      "name": "Agrii, a trading name of Masstock Arable (UK) Ltd"
+    },
+    {
+      "id": 204,
+      "name": "Barclay Chemicals Manufacturing Ltd"
+    },
+    {
+      "id": 131,
+      "name": "SDP"
+    },
+    {
+      "id": 96,
+      "name": "Elsoms Seeds"
+    },
+    {
+      "id": 134,
+      "name": "BASF plc"
+    },
+    {
+      "id": 200,
+      "name": "Chem-Wise Ltd"
+    },
+    {
+      "id": 79,
+      "name": "Interagro (UK) Limited"
+    },
+    {
+      "id": 88,
+      "name": "Limagrain (UK) Ltd"
+    },
+    {
+      "id": 676,
+      "name": "Agrii, a trading name of Masstock Arable (UK) Ltd"
+    },
+    {
+      "id": 202,
+      "name": "Dow AgroSciences Ltd"
+    },
+    {
+      "id": 113,
+      "name": "Yara UK Limited"
+    },
+    {
+      "id": 280,
+      "name": "United Agri Products Ltd"
+    },
+    {
+      "id": 158,
+      "name": "Bayer CropScience Ltd"
+    },
+    {
+      "id": 204,
+      "name": "Barclay Chemicals Manufacturing Ltd"
+    },
+    {
+      "id": 99,
+      "name": "Monsanto UK Ltd"
+    },
+    {
+      "id": 134,
+      "name": "BASF plc"
+    },
+    {
+      "id": 116,
+      "name": "De Sangosse Limited"
+    },
+    {
+      "id": 167,
+      "name": "Headland Agrochemicals Ltd"
+    },
+    {
+      "id": 17,
+      "name": "Adama Agricultural Solutions UK Ltd"
+    },
+    {
+      "id": 386,
+      "name": "Nissan Chemical Europe S.A.R.L."
+    },
+    {
+      "id": 9,
+      "name": "Syngenta UK Ltd"
+    },
+    {
+      "id": 87,
+      "name": "LS Plant Breeding Limited"
+    },
+    {
+      "id": 280,
+      "name": "United Agri Products Ltd"
+    },
+    {
+      "id": 113,
+      "name": "Yara UK Limited"
+    },
+    {
+      "id": 88,
+      "name": "Limagrain (UK) Ltd"
+    },
+    {
+      "id": 17,
+      "name": "Adama Agricultural Solutions UK Ltd"
+    },
+    {
+      "id": 158,
+      "name": "Bayer CropScience Ltd"
+    },
+    {
+      "id": 386,
+      "name": "Nissan Chemical Europe S.A.R.L."
+    },
+    {
+      "id": 40,
+      "name": "Omex Agriculture Ltd"
+    },
+    {
+      "id": 676,
+      "name": "Agrii, a trading name of Masstock Arable (UK) Ltd"
+    },
+    {
+      "id": 79,
+      "name": "Interagro (UK) Limited"
+    },
+    {
+      "id": 202,
+      "name": "Dow AgroSciences Ltd"
+    },
+    {
+      "id": 313,
+      "name": "JT Agro Ltd"
+    },
+    {
+      "id": 99,
+      "name": "Monsanto UK Ltd"
+    },
+    {
+      "id": 204,
+      "name": "Barclay Chemicals Manufacturing Ltd"
+    },
+    {
+      "id": 131,
+      "name": "SDP"
+    },
+    {
+      "id": 87,
+      "name": "LS Plant Breeding Limited"
+    },
+    {
+      "id": 134,
+      "name": "BASF plc"
+    },
+    {
+      "id": 194,
+      "name": "Life Scientific Ltd"
+    },
+    {
+      "id": 116,
+      "name": "De Sangosse Limited"
+    },
+    {
+      "id": 17,
+      "name": "Adama Agricultural Solutions UK Ltd"
+    },
+    {
+      "id": 113,
+      "name": "Yara UK Limited"
+    },
+    {
+      "id": 280,
+      "name": "United Agri Products Ltd"
+    },
+    {
+      "id": 167,
+      "name": "Headland Agrochemicals Ltd"
+    },
+    {
+      "id": 156,
+      "name": "Nufarm UK Ltd"
+    },
+    {
+      "id": 94,
+      "name": "KWS UK"
+    },
+    {
+      "id": 79,
+      "name": "Interagro (UK) Limited"
+    },
+    {
+      "id": 223,
+      "name": "Gowan Crop Protection Ltd"
+    },
+    {
+      "id": 9,
+      "name": "Syngenta UK Ltd"
+    },
+    {
+      "id": 134,
+      "name": "BASF plc"
+    },
+    {
+      "id": 219,
+      "name": "Interfarm UK Ltd"
+    },
+    {
+      "id": 202,
+      "name": "Dow AgroSciences Ltd"
+    },
+    {
+      "id": 700,
+      "name": "Nutrel Products Ltd"
+    },
+    {
+      "id": 213,
+      "name": "TerreChem Ltd"
+    },
+    {
+      "id": 650,
+      "name": "Cropthetics Ltd"
+    },
+    {
+      "id": 204,
+      "name": "Barclay Chemicals Manufacturing Ltd"
+    },
+    {
+      "id": 99,
+      "name": "Monsanto UK Ltd"
+    },
+    {
+      "id": 164,
+      "name": "UPL Europe Ltd"
+    },
+    {
+      "id": 40,
+      "name": "Omex Agriculture Ltd"
+    },
+    {
+      "id": 313,
+      "name": "JT Agro Ltd"
+    },
+    {
+      "id": 158,
+      "name": "Bayer CropScience Ltd"
+    },
+    {
+      "id": 14,
+      "name": "Certis"
+    },
+    {
+      "id": 475,
+      "name": "Goemar SA"
+    },
+    {
+      "id": 88,
+      "name": "Limagrain (UK) Ltd"
+    },
+    {
+      "id": 676,
+      "name": "Agrii, a trading name of Masstock Arable (UK) Ltd"
+    },
+    {
+      "id": 17,
+      "name": "Adama Agricultural Solutions UK Ltd"
+    },
+    {
+      "id": 131,
+      "name": "SDP"
+    },
+    {
+      "id": 158,
+      "name": "Bayer CropScience Ltd"
+    },
+    {
+      "id": 113,
+      "name": "Yara UK Limited"
+    },
+    {
+      "id": 280,
+      "name": "United Agri Products Ltd"
+    },
+    {
+      "id": 386,
+      "name": "Nissan Chemical Europe S.A.R.L."
+    },
+    {
+      "id": 202,
+      "name": "Dow AgroSciences Ltd"
+    },
+    {
+      "id": 204,
+      "name": "Barclay Chemicals Manufacturing Ltd"
+    },
+    {
+      "id": 313,
+      "name": "JT Agro Ltd"
+    },
+    {
+      "id": 99,
+      "name": "Monsanto UK Ltd"
+    },
+    {
+      "id": 79,
+      "name": "Interagro (UK) Limited"
+    },
+    {
+      "id": 40,
+      "name": "Omex Agriculture Ltd"
+    },
+    {
+      "id": 87,
+      "name": "LS Plant Breeding Limited"
+    },
+    {
+      "id": 194,
+      "name": "Life Scientific Ltd"
+    },
+    {
+      "id": 134,
+      "name": "BASF plc"
+    }
+  ]
+}

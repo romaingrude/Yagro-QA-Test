@@ -1,0 +1,24 @@
+{
+  "distributors": [
+    {
+      "id": 901,
+      "name": "North Distributor"
+    },
+    {
+      "id": 902,
+      "name": "South Distributor"
+    },
+    {
+      "id": 903,
+      "name": "East Distributor"
+    },
+    {
+      "id": 904,
+      "name": "West Distributor"
+    },
+    {
+      "id": 905,
+      "name": "Central Distributor"
+    }
+  ]
+}

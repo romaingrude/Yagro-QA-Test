@@ -1,0 +1,19 @@
+/*
+-------------------------------------------------------------------------------
+Transitions and animations
+-------------------------------------------------------------------------------
+Description
+Store variables here that you want to use in your transitions and
+animations.
+-------------------------------------------------------------------------------
+*/
+
+:root {
+  --transition-fastest: 0.25s ease-in-out;
+  --transition-faster: 0.5s ease-in-out;
+  --transition-fast: 0.75s ease-in-out;
+  --transition: 1s ease-in-out;
+  --transition-slow: 1.25s ease-in-out;
+  --transition-slower: 1.5s ease-in-out;
+  --transition-slowest: 1.75s ease-in-out;
+}

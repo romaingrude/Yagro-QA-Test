@@ -1,0 +1,1994 @@
+{
+  "cropMonthlyCosts": [
+    {
+      "groupId": 3,
+      "year": 2023,
+      "area": 237.5,
+      "cropId": 300,
+      "cropYield": 8.1,
+      "currentYear": [
+        {
+          "categories": [
+            {
+              "costPerHa": 0,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 0,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 0,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2022-08"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 1.93,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 18.66,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 32.07,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2022-09"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 78.43,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 72.27,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 1.93,
+              "category": "fertiliser"
+            }
+          ],
+          "yearMonth": "2022-10"
+        }
+      ],
+      "marketCurrentYear": [
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 58.23
+            }
+          ],
+          "yearMonth": "2022-09"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 104.44
+            }
+          ],
+          "yearMonth": "2022-10"
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "year": 2022,
+      "area": 237.5,
+      "cropId": 300,
+      "cropYield": 7.63,
+      "currentYear": [
+        {
+          "categories": [
+            {
+              "costPerHa": 0,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 0,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 0,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2021-08"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 18.66,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 32.07,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2021-09"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 78.45,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 72.27,
+              "category": "chemical"
+            }
+          ],
+          "yearMonth": "2021-10"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 103.99,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 85.09,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 14.22,
+              "category": "fertiliser"
+            }
+          ],
+          "yearMonth": "2021-11"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 106.92,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 85.09,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 14.22,
+              "category": "fertiliser"
+            }
+          ],
+          "yearMonth": "2021-12"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 106.92,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 85.09,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 49.7,
+              "category": "fertiliser"
+            }
+          ],
+          "yearMonth": "2022-02"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 139.11,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 85.09,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 121.82,
+              "category": "fertiliser"
+            }
+          ],
+          "yearMonth": "2022-03"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 191.14,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 85.09,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 178.85,
+              "category": "fertiliser"
+            }
+          ],
+          "yearMonth": "2022-04"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 221.24,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 85.09,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 205.73,
+              "category": "fertiliser"
+            }
+          ],
+          "yearMonth": "2022-05"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 319.06,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 85.09,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 205.73,
+              "category": "fertiliser"
+            }
+          ],
+          "yearMonth": "2022-06"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 319.49,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 85.09,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 205.73,
+              "category": "fertiliser"
+            }
+          ],
+          "yearMonth": "2022-07"
+        }
+      ],
+      "marketCurrentYear": [
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 14.47
+            }
+          ],
+          "yearMonth": "2021-09"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 51.11
+            }
+          ],
+          "yearMonth": "2021-10"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 64.53
+            }
+          ],
+          "yearMonth": "2021-11"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 73.68
+            }
+          ],
+          "yearMonth": "2021-12"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 79.47
+            }
+          ],
+          "yearMonth": "2022-01"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 93.47
+            }
+          ],
+          "yearMonth": "2022-02"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 182.37
+            }
+          ],
+          "yearMonth": "2022-03"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 258.87
+            }
+          ],
+          "yearMonth": "2022-04"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 328.37
+            }
+          ],
+          "yearMonth": "2022-05"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 349.33
+            }
+          ],
+          "yearMonth": "2022-06"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 351.65
+            }
+          ],
+          "yearMonth": "2022-07"
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "year": 2021,
+      "area": 87.1,
+      "cropId": 300,
+      "cropYield": 5.57,
+      "currentYear": [
+        {
+          "categories": [
+            {
+              "costPerHa": 0,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 0,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 0,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2020-08"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 35.78,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 76.27,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2020-10"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 65.33,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 76.27,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2020-11"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 76.27,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 70.81,
+              "category": "chemical"
+            }
+          ],
+          "yearMonth": "2021-01"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 189.45,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 76.27,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 70.81,
+              "category": "chemical"
+            }
+          ],
+          "yearMonth": "2021-03"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 244.26,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 76.27,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 93.76,
+              "category": "chemical"
+            }
+          ],
+          "yearMonth": "2021-04"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 273.91,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 76.27,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 153.49,
+              "category": "chemical"
+            }
+          ],
+          "yearMonth": "2021-05"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 273.91,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 76.27,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 155.17,
+              "category": "chemical"
+            }
+          ],
+          "yearMonth": "2021-06"
+        }
+      ],
+      "marketCurrentYear": [
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 5.05
+            }
+          ],
+          "yearMonth": "2020-08"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 26.55
+            }
+          ],
+          "yearMonth": "2020-09"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 100.64
+            }
+          ],
+          "yearMonth": "2020-10"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 125.32
+            }
+          ],
+          "yearMonth": "2020-11"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 126.95
+            }
+          ],
+          "yearMonth": "2020-12"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 126.95
+            }
+          ],
+          "yearMonth": "2021-01"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 162.38
+            }
+          ],
+          "yearMonth": "2021-02"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 212.6
+            }
+          ],
+          "yearMonth": "2021-03"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 301.28
+            }
+          ],
+          "yearMonth": "2021-04"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 371.12
+            }
+          ],
+          "yearMonth": "2021-05"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 393.09
+            }
+          ],
+          "yearMonth": "2021-06"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 394.73
+            }
+          ],
+          "yearMonth": "2021-07"
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "year": 2020,
+      "area": 145.9,
+      "cropId": 300,
+      "cropYield": 11.52,
+      "currentYear": [
+        {
+          "categories": [
+            {
+              "costPerHa": 0,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 0,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 0,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2019-08"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 19.28,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 15.48,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2019-09"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 55.61,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 100.36,
+              "category": "chemical"
+            }
+          ],
+          "yearMonth": "2019-10"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 128.0,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 59.75,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2019-11"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 8.44,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 59.75,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 130.32,
+              "category": "chemical"
+            }
+          ],
+          "yearMonth": "2020-02"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 96.72,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 59.75,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 170.35,
+              "category": "chemical"
+            }
+          ],
+          "yearMonth": "2020-03"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 187.88,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 59.75,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 239.4,
+              "category": "chemical"
+            }
+          ],
+          "yearMonth": "2020-04"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 205.23,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 59.75,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 309.88,
+              "category": "chemical"
+            }
+          ],
+          "yearMonth": "2020-05"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 222.72,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 59.75,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 350.82,
+              "category": "chemical"
+            }
+          ],
+          "yearMonth": "2020-06"
+        }
+      ],
+      "marketCurrentYear": [
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 0.28
+            }
+          ],
+          "yearMonth": "2019-08"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 22.97
+            }
+          ],
+          "yearMonth": "2019-09"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 108.45
+            }
+          ],
+          "yearMonth": "2019-10"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 116.56
+            }
+          ],
+          "yearMonth": "2019-11"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 118.22
+            }
+          ],
+          "yearMonth": "2019-12"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 118.28
+            }
+          ],
+          "yearMonth": "2020-01"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 121
+            }
+          ],
+          "yearMonth": "2020-02"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 164.25
+            }
+          ],
+          "yearMonth": "2020-03"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 245.39
+            }
+          ],
+          "yearMonth": "2020-04"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 343.76
+            }
+          ],
+          "yearMonth": "2020-05"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 371.18
+            }
+          ],
+          "yearMonth": "2020-06"
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "year": 2023,
+      "area": 173.6,
+      "cropId": 303,
+      "cropYield": 3.5,
+      "currentYear": [
+        {
+          "categories": [
+            {
+              "costPerHa": 0,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 0,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 0,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2022-06"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 14.05,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 4.62,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2022-07"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 53.63,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 2.3,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 24.71,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2022-08"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 79.02,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 21.65,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 52.22,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2022-09"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 79.02,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 53.46,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 52.22,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2022-10"
+        }
+      ],
+      "marketCurrentYear": [
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 58.36
+            }
+          ],
+          "yearMonth": "2022-08"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 104.26
+            }
+          ],
+          "yearMonth": "2022-09"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 106.86
+            }
+          ],
+          "yearMonth": "2022-10"
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "year": 2022,
+      "area": 173.6,
+      "cropId": 303,
+      "cropYield": 3.17,
+      "currentYear": [
+        {
+          "categories": [
+            {
+              "costPerHa": 0,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 0,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 0,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2021-06"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 4.62,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2021-07"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 39.58,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 2.3,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 24.71,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2021-08"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 64.98,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 21.65,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 52.22,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2021-09"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 64.98,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 53.46,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 52.22,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2021-10"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 64.98,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 85.3,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 52.22,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2021-11"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 66.21,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 130.24,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 52.22,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2021-12"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 66.21,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 130.48,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 52.22,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2022-01"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 100.35,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 135.13,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 52.22,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2022-02"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 196.35,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 170.99,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 52.22,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2022-03"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 236.95,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 170.99,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 52.22,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2022-04"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 236.95,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 188.56,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 52.22,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2022-05"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 248.38,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 188.56,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 52.22,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2022-06"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 248.38,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 205.06,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 52.22,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2022-07"
+        }
+      ],
+      "marketCurrentYear": [
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 77.72
+            }
+          ],
+          "yearMonth": "2021-08"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 95.88
+            }
+          ],
+          "yearMonth": "2021-09"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 110.67
+            }
+          ],
+          "yearMonth": "2021-10"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 131.7
+            }
+          ],
+          "yearMonth": "2021-11"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 157.7
+            }
+          ],
+          "yearMonth": "2021-12"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 157.7
+            }
+          ],
+          "yearMonth": "2022-01"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 203.92
+            }
+          ],
+          "yearMonth": "2022-02"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 302.42
+            }
+          ],
+          "yearMonth": "2022-03"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 322.58
+            }
+          ],
+          "yearMonth": "2022-04"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 336.14
+            }
+          ],
+          "yearMonth": "2022-05"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 338.46
+            }
+          ],
+          "yearMonth": "2022-06"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 352.12
+            }
+          ],
+          "yearMonth": "2022-07"
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "year": 2021,
+      "area": 123,
+      "cropId": 303,
+      "cropYield": 3.27,
+      "currentYear": [
+        {
+          "categories": [
+            {
+              "costPerHa": 0,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 0,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 0,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2020-07"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 25.37,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 52.89,
+              "category": "fertiliser"
+            }
+          ],
+          "yearMonth": "2020-08"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 52.89,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 5.33,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 27.38,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2020-09"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 52.89,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 19.72,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 27.38,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2020-10"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 52.89,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 20.2,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 27.38,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2020-11"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 52.89,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 65.91,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 27.38,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2020-12"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 65.94,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 65.91,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 27.38,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2021-02"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 121.89,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 75.46,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 27.38,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2021-03"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 197.79,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 91.43,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 27.38,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2021-04"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 220.29,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 91.43,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 27.38,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2021-05"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 220.29,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 93.42,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 27.38,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2021-06"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 220.29,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 103.5,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 27.38,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2021-07"
+        }
+      ],
+      "marketCurrentYear": [
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 66.82
+            }
+          ],
+          "yearMonth": "2020-08"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 90.33
+            }
+          ],
+          "yearMonth": "2020-09"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 94.68
+            }
+          ],
+          "yearMonth": "2020-10"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 123.76
+            }
+          ],
+          "yearMonth": "2020-11"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 135.19
+            }
+          ],
+          "yearMonth": "2020-12"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 135.32
+            }
+          ],
+          "yearMonth": "2021-01"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 197.49
+            }
+          ],
+          "yearMonth": "2021-02"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 278.9
+            }
+          ],
+          "yearMonth": "2021-03"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 300.19
+            }
+          ],
+          "yearMonth": "2021-04"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 300.89
+            }
+          ],
+          "yearMonth": "2021-05"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 303.27
+            }
+          ],
+          "yearMonth": "2021-06"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 307.64
+            }
+          ],
+          "yearMonth": "2021-07"
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "year": 2020,
+      "area": 188.2,
+      "cropId": 303,
+      "cropYield": 3.27,
+      "currentYear": [
+        {
+          "categories": [
+            {
+              "costPerHa": 0,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 0,
+              "category": "chemical"
+            },
+            {
+              "costPerHa": 0,
+              "category": "seed"
+            }
+          ],
+          "yearMonth": "2019-07"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 7.55,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 6.56,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 0.92,
+              "category": "chemical"
+            }
+          ],
+          "yearMonth": "2019-08"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 27.33,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 32.98,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 34.6,
+              "category": "chemical"
+            }
+          ],
+          "yearMonth": "2019-09"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 27.33,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 32.98,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 55.1,
+              "category": "chemical"
+            }
+          ],
+          "yearMonth": "2019-10"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 27.33,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 32.98,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 63.71,
+              "category": "chemical"
+            }
+          ],
+          "yearMonth": "2019-11"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 27.33,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 32.98,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 71.83,
+              "category": "chemical"
+            }
+          ],
+          "yearMonth": "2019-12"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 27.33,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 32.98,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 107.72,
+              "category": "chemical"
+            }
+          ],
+          "yearMonth": "2020-01"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 27.33,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 107.73,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 120.55,
+              "category": "chemical"
+            }
+          ],
+          "yearMonth": "2020-02"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 27.33,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 168.9,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 147.54,
+              "category": "chemical"
+            }
+          ],
+          "yearMonth": "2020-03"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 27.33,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 184.91,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 189.93,
+              "category": "chemical"
+            }
+          ],
+          "yearMonth": "2020-04"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 27.33,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 207.91,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 210.23,
+              "category": "chemical"
+            }
+          ],
+          "yearMonth": "2020-05"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 27.33,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 207.91,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 221.74,
+              "category": "chemical"
+            }
+          ],
+          "yearMonth": "2020-06"
+        },
+        {
+          "categories": [
+            {
+              "costPerHa": 27.33,
+              "category": "seed"
+            },
+            {
+              "costPerHa": 207.91,
+              "category": "fertiliser"
+            },
+            {
+              "costPerHa": 231.21,
+              "category": "chemical"
+            }
+          ],
+          "yearMonth": "2020-07"
+        }
+      ],
+      "marketCurrentYear": [
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 60.9
+            }
+          ],
+          "yearMonth": "2019-08"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 96.28
+            }
+          ],
+          "yearMonth": "2019-09"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 116.85
+            }
+          ],
+          "yearMonth": "2019-10"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 129.47
+            }
+          ],
+          "yearMonth": "2019-11"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 146.08
+            }
+          ],
+          "yearMonth": "2019-12"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 148.3
+            }
+          ],
+          "yearMonth": "2020-01"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 166.1
+            }
+          ],
+          "yearMonth": "2020-02"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 218.36
+            }
+          ],
+          "yearMonth": "2020-03"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 288.27
+            }
+          ],
+          "yearMonth": "2020-04"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 314.91
+            }
+          ],
+          "yearMonth": "2020-05"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 326.95
+            }
+          ],
+          "yearMonth": "2020-06"
+        },
+        {
+          "categories": [
+            {
+              "category": "total",
+              "costPerHa": 337.3
+            }
+          ],
+          "yearMonth": "2020-06"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------------------
+Hover
+-------------------------------------------------------------------------------
+Description
+This mixin makes hover styling only work on devices that can hover.
+This avoids uneccessary hover states on touch / focus.
+-------------------------------------------------------------------------------
+Usage
+@mixin hover {};
+-------------------------------------------------------------------------------
+Reference
+https://github.com/postcss/postcss-mixins
+-------------------------------------------------------------------------------
+*/
+
+@define-mixin hover {
+  @media (hover: hover) {
+    &:hover {
+      @mixin-content;
+    }
+  }
+}

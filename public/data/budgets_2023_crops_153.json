@@ -1,0 +1,1 @@
+{ "area": { "dimension": "ha", "magnitude": "401.86" }, "cost": { "chemical": "96731.72", "fertiliser": "82264.76", "seed": "33133.36", "total": "212129.84" }, "crop": 153, "harvest_year": 2023, "id": "27118ce8-6926-47fc-b402-4bc979f3355d", "price": "197.43", "yield": { "dimension": "t/ha", "magnitude": "11.00" } }

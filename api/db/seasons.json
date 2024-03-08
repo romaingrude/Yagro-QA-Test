@@ -1,0 +1,52 @@
+{
+  "seasons": [
+    {
+      "id": 701,
+      "name": "Spring 2019",
+      "year": 2020,
+      "season": "Spring"
+    },
+    {
+      "id": 702,
+      "name": "Autumn 2019",
+      "year": 2020,
+      "season": "Autumn"
+    },
+    {
+      "id": 703,
+      "name": "Spring 2020",
+      "year": 2021,
+      "season": "Spring"
+    },
+    {
+      "id": 704,
+      "name": "Autumn 2020",
+      "year": 2021,
+      "season": "Autumn"
+    },
+    {
+      "id": 705,
+      "name": "Spring 2021",
+      "year": 2022,
+      "season": "Spring"
+    },
+    {
+      "id": 706,
+      "name": "Autumn 2021",
+      "year": 2022,
+      "season": "Autumn"
+    },
+    {
+      "id": 707,
+      "name": "Spring 2022",
+      "year": 2023,
+      "season": "Spring"
+    },
+    {
+      "id": 708,
+      "name": "Autumn 2022",
+      "year": 2023,
+      "season": "Autumn"
+    }
+  ]
+}

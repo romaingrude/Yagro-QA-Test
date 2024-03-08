@@ -1,0 +1,1 @@
+{ "summary": { "sales_total": "21905.000", "sold_amount": "32.000", "contracted_amount": "7.000", "contracted_value": "3780.000", "contracted_sold": 0, "remaining_amount": "-25.000", "overall_avg_price": "684.53125", "overall_min_price": "540", "overall_max_price": "725" }, "varieties": [{ "id": 350, "name": "Brighton", "area": "13.8300" }] }

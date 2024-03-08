@@ -1,0 +1,32 @@
+{
+  "crops": [
+    {
+      "id": 300,
+      "name": "Winter Wheat"
+    },
+    {
+      "id": 301,
+      "name": "Winter Barley"
+    },
+    {
+      "id": 302,
+      "name": "Beans"
+    },
+    {
+      "id": 303,
+      "name": "Oilseed Rape (Winter)"
+    },
+    {
+      "id": 304,
+      "name": "Oats (Spring)"
+    },
+    {
+      "id": 305,
+      "name": "Field Bean (Spring)"
+    },
+    {
+      "id": 306,
+      "name": "Linseed"
+    }
+  ]
+}

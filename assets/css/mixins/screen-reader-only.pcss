@@ -1,0 +1,22 @@
+/*
+-------------------------------------------------------------------------------
+Screen reader text
+-------------------------------------------------------------------------------
+Description
+This mixin assists in making text accessible to screen readers.
+-------------------------------------------------------------------------------
+Usage
+@mixin screen-reader-only;
+-------------------------------------------------------------------------------
+Reference
+https://github.com/postcss/postcss-mixins
+-------------------------------------------------------------------------------
+*/
+
+@define-mixin screen-reader-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(1px, 1px, 1px, 1px);
+}

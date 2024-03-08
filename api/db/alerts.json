@@ -1,0 +1,9 @@
+{
+  "alerts": [
+    {
+      "groupId": 1,
+      "commodityProductTicker": "MLU22",
+      "criteria": "Drops below £160 per tonne"
+    }
+  ]
+}

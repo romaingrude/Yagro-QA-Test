@@ -1,0 +1,37 @@
+{
+  "insights": [
+    {
+      "businessGroupId": 3,
+      "content": "<p>Winter Wheat: Your fertiliser rates are comparable between 2021 and 2022, however you achieved a significant yield increase in 2022 <em>(2021 av. = 6.0t/ha, 2022 av. = 7.4t/ha)</em></p>",
+      "id": "5a8fa117-7927-4606-8e64-60a230fed2f3",
+      "updated": "2023-02-21T14:41:13.580448Z",
+      "created": "2023-02-08T11:26:27.155216Z",
+      "emailedAt": "2023-02-08T11:26:27.155216Z",
+      "url": "analytics/explorer/crop/300",
+      "year": 2022,
+      "queuedForEmail": true
+    },
+    {
+      "businessGroupId": 3,
+      "content": "<p>Winter Wheat yields are higher on average in fields drilled in October <em>(av. 8t/ha)</em>, in comparison to fields drilled in either September <em>(7.2t/ha)</em> or November <em>(6.9t/ha)</em></p>",
+      "id": "6427e5b8-8f49-489b-9cc3-de1276590c43",
+      "updated": "2023-02-08T11:26:27.155216Z",
+      "created": "2023-02-08T11:26:27.155216Z",
+      "emailedAt": "2023-02-08T11:26:27.155216Z",
+      "url": "analytics/field-by-field",
+      "year": 2022,
+      "queuedForEmail": true
+    },
+    {
+      "businessGroupId": 3,
+      "content": "<p>Oilseed Rape: Your fungicide spend was considerably higher in 2022 vs 2021 <em>(av. £53.70/ha vs av. £35.10/ha)</em></p>",
+      "id": "74df6f80-1b5f-45c0-b122-07c48aeb8a5d",
+      "updated": "2023-02-08T11:06:15.556556Z",
+      "created": "2023-02-08T11:26:27.155216Z",
+      "emailedAt": "2023-02-08T11:26:27.155216Z",
+      "url": null,
+      "year": 2022,
+      "queuedForEmail": true
+    }
+  ]
+}

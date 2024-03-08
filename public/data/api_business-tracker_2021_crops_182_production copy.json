@@ -1,0 +1,1 @@
+{ "summary": { "sales_total": "198345.500", "sold_amount": "841.000", "contracted_amount": "992.000", "contracted_value": "232965.500", "contracted_sold": "841.000", "remaining_amount": "151.000", "overall_avg_price": "235.2599629286376274328081557", "overall_min_price": "210", "overall_max_price": "325" }, "varieties": [{ "id": 1125, "name": "Lynx", "area": "208.1300" }] }

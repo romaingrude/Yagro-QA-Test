@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "email": "qa",
+      "password": "qa",
+      "partnerId": "qa",
+      "roles": ["USER"]
+    }
+  ]
+}

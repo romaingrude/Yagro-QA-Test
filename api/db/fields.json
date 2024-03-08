@@ -1,0 +1,634 @@
+{
+  "fields": [
+    {
+      "id": "xyz01",
+      "name": "Field A",
+      "area": 51.0,
+      "year": 2018
+    },
+    {
+      "id": "xyz02",
+      "name": "Field B",
+      "area": 16.4,
+      "year": 2018
+    },
+    {
+      "id": "xyz03",
+      "name": "Field C",
+      "area": 34.0,
+      "year": 2018
+    },
+    {
+      "id": "xyz04",
+      "name": "Field D",
+      "area": 7.0,
+      "year": 2019
+    },
+    {
+      "id": "xyz05",
+      "name": "Field E",
+      "area": 24.4,
+      "year": 2019
+    },
+    {
+      "id": "xyz06",
+      "name": "Field F",
+      "area": 24.4,
+      "year": 2019
+    },
+    {
+      "id": "xyz07",
+      "name": "Field G",
+      "area": 2.5,
+      "year": 2020
+    },
+    {
+      "id": "xyz08",
+      "name": "Field H",
+      "area": 19.1,
+      "year": 2020
+    },
+    {
+      "id": "xyz09",
+      "name": "Field J",
+      "area": 16.0,
+      "year": 2020
+    },
+    {
+      "id": "xyz10",
+      "name": "Field K",
+      "area": 28.8,
+      "year": 2020
+    },
+    {
+      "id": "xyz11",
+      "name": "Field L",
+      "area": 16.1,
+      "year": 2020
+    },
+    {
+      "id": "xyz12",
+      "name": "Field M",
+      "area": 15.1,
+      "year": 2020
+    },
+    {
+      "id": "xyz13",
+      "name": "Field N",
+      "area": 20.6,
+      "year": 2021
+    },
+    {
+      "id": "xyz14",
+      "name": "Field O",
+      "area": 16.2,
+      "year": 2021
+    },
+    {
+      "id": "xyz15",
+      "name": "Field P",
+      "area": 8.0,
+      "year": 2021
+    },
+    {
+      "id": "xyz16",
+      "name": "Field Q",
+      "area": 53.2,
+      "year": 2021
+    },
+    {
+      "id": "xyz17",
+      "name": "Field R",
+      "area": 28.5,
+      "year": 2021
+    },
+    {
+      "id": "xyz18",
+      "name": "Field S",
+      "area": 10.42,
+      "year": 2021
+    },
+    {
+      "id": "xyz19",
+      "name": "Field T",
+      "area": 17.3,
+      "year": 2022
+    },
+    {
+      "id": "xyz20",
+      "name": "Field U",
+      "area": 20.0,
+      "year": 2022
+    },
+    {
+      "id": "xyz21",
+      "name": "Field V",
+      "area": 10.3,
+      "year": 2022
+    },
+    {
+      "id": "xyz22",
+      "name": "Field W",
+      "area": 6.41,
+      "year": 2022
+    },
+    {
+      "id": "xyz23",
+      "name": "Field X",
+      "area": 20.7,
+      "year": 2022
+    },
+    {
+      "id": "xyz24",
+      "name": "Field Y",
+      "area": 6.18,
+      "year": 2022
+    },
+    {
+      "id": "fr2101",
+      "name": "100 Acre",
+      "area": 42.1,
+      "year": 2022
+    },
+    {
+      "id": "fr2102",
+      "name": "Basil's",
+      "area": 15.2,
+      "year": 2022
+    },
+    {
+      "id": "fr2103",
+      "name": "Blacksmiths",
+      "area": 15.9,
+      "year": 2022
+    },
+    {
+      "id": "fr2104",
+      "name": "Bottom Meadow",
+      "area": 9.3,
+      "year": 2022
+    },
+    {
+      "id": "fr2105",
+      "name": "Brick Top",
+      "area": 53.1,
+      "year": 2022
+    },
+    {
+      "id": "fr2106",
+      "name": "Chapel",
+      "area": 18,
+      "year": 2022
+    },
+    {
+      "id": "fr2107",
+      "name": "Clamp Field",
+      "area": 13.8,
+      "year": 2022
+    },
+    {
+      "id": "fr2108",
+      "name": "Cottage Field",
+      "area": 9.7,
+      "year": 2022
+    },
+    {
+      "id": "fr2109",
+      "name": "Cow Park",
+      "area": 33.7,
+      "year": 2022
+    },
+    {
+      "id": "fr2110",
+      "name": "Fig Tree",
+      "area": 10.5,
+      "year": 2022
+    },
+    {
+      "id": "fr2111",
+      "name": "Gate Close",
+      "area": 28.6,
+      "year": 2022
+    },
+    {
+      "id": "fr2112",
+      "name": "Greenfield",
+      "area": 4.4,
+      "year": 2022
+    },
+    {
+      "id": "fr2113",
+      "name": "Haggard",
+      "area": 6.1,
+      "year": 2022
+    },
+    {
+      "id": "fr2114",
+      "name": "Hawthorn",
+      "area": 0.6,
+      "year": 2022
+    },
+    {
+      "id": "fr2115",
+      "name": "Judge's Close",
+      "area": 3.5,
+      "year": 2022
+    },
+    {
+      "id": "fr2116",
+      "name": "Nine Days",
+      "area": 36.6,
+      "year": 2022
+    },
+    {
+      "id": "fr2117",
+      "name": "Pease Close",
+      "area": 31.4,
+      "year": 2022
+    },
+    {
+      "id": "fr2118",
+      "name": "Pit Field",
+      "area": 16,
+      "year": 2022
+    },
+    {
+      "id": "fr2119",
+      "name": "The Windmill",
+      "area": 10.7,
+      "year": 2022
+    },
+    {
+      "id": "fr2120",
+      "name": "Warren Field",
+      "area": 30.4,
+      "year": 2022
+    },
+    {
+      "id": "fr2121",
+      "name": "Woodcock",
+      "area": 21.5,
+      "year": 2022
+    },
+    {
+      "id": "fr2001",
+      "name": "Basil's",
+      "area": 15.2,
+      "year": 2021
+    },
+    {
+      "id": "fr2002",
+      "name": "Bottom Meadow",
+      "area": 9.3,
+      "year": 2021
+    },
+    {
+      "id": "fr2003",
+      "name": "Chapel",
+      "area": 18,
+      "year": 2021
+    },
+    {
+      "id": "fr2004",
+      "name": "Church Field",
+      "area": 7.4,
+      "year": 2021
+    },
+    {
+      "id": "fr2005",
+      "name": "Cottage Field",
+      "area": 9.7,
+      "year": 2021
+    },
+    {
+      "id": "fr2006",
+      "name": "Ditch Field",
+      "area": 24.3,
+      "year": 2021
+    },
+    {
+      "id": "fr2007",
+      "name": "Dove's Nest",
+      "area": 13,
+      "year": 2021
+    },
+    {
+      "id": "fr2008",
+      "name": "Elm Tree",
+      "area": 28.9,
+      "year": 2021
+    },
+    {
+      "id": "fr2009",
+      "name": "Hammer Leys",
+      "area": 23.2,
+      "year": 2021
+    },
+    {
+      "id": "fr2010",
+      "name": "Hilly's",
+      "area": 2.7,
+      "year": 2021
+    },
+    {
+      "id": "fr2011",
+      "name": "Marl Pit",
+      "area": 8.3,
+      "year": 2021
+    },
+    {
+      "id": "fr2012",
+      "name": "Number 19",
+      "area": 7.4,
+      "year": 2021
+    },
+    {
+      "id": "fr2013",
+      "name": "Pit Field",
+      "area": 16,
+      "year": 2021
+    },
+    {
+      "id": "fr2014",
+      "name": "Tanner's Field",
+      "area": 17,
+      "year": 2021
+    },
+    {
+      "id": "fr2015",
+      "name": "The Covey",
+      "area": 9.7,
+      "year": 2021
+    },
+    {
+      "id": "fr1901",
+      "name": "50 Acre",
+      "area": 19.8,
+      "year": 2020
+    },
+    {
+      "id": "fr1902",
+      "name": "Barn Lane",
+      "area": 12.4,
+      "year": 2020
+    },
+    {
+      "id": "fr1903",
+      "name": "Black End",
+      "area": 3.9,
+      "year": 2020
+    },
+    {
+      "id": "fr1904",
+      "name": "Blacksmiths",
+      "area": 15.9,
+      "year": 2020
+    },
+    {
+      "id": "fr1905",
+      "name": "Bottom Meadow",
+      "area": 9.3,
+      "year": 2020
+    },
+    {
+      "id": "fr1906",
+      "name": "Brick Top",
+      "area": 53.1,
+      "year": 2020
+    },
+    {
+      "id": "fr1907",
+      "name": "Chapel",
+      "area": 18,
+      "year": 2020
+    },
+    {
+      "id": "fr1908",
+      "name": "Church Field",
+      "area": 7.4,
+      "year": 2020
+    },
+    {
+      "id": "fr1909",
+      "name": "Cockpit",
+      "area": 20.6,
+      "year": 2020
+    },
+    {
+      "id": "fr1910",
+      "name": "Cottage Field",
+      "area": 9.7,
+      "year": 2020
+    },
+    {
+      "id": "fr1911",
+      "name": "Cow Park",
+      "area": 33.7,
+      "year": 2020
+    },
+    {
+      "id": "fr1912",
+      "name": "Docky Close",
+      "area": 5.6,
+      "year": 2020
+    },
+    {
+      "id": "fr1913",
+      "name": "Far Common",
+      "area": 6.2,
+      "year": 2020
+    },
+    {
+      "id": "fr1914",
+      "name": "Fish Pond",
+      "area": 11.9,
+      "year": 2020
+    },
+    {
+      "id": "fr1915",
+      "name": "Five Leys",
+      "area": 12.3,
+      "year": 2020
+    },
+    {
+      "id": "fr1916",
+      "name": "Gallows Hill",
+      "area": 18.4,
+      "year": 2020
+    },
+    {
+      "id": "fr1917",
+      "name": "Golden Way",
+      "area": 11.2,
+      "year": 2020
+    },
+    {
+      "id": "fr1918",
+      "name": "Greenfield",
+      "area": 4.4,
+      "year": 2020
+    },
+    {
+      "id": "fr1919",
+      "name": "Haggard",
+      "area": 6.1,
+      "year": 2020
+    },
+    {
+      "id": "fr1920",
+      "name": "Hammer Leys",
+      "area": 23.2,
+      "year": 2020
+    },
+    {
+      "id": "fr1921",
+      "name": "Hanger",
+      "area": 3,
+      "year": 2020
+    },
+    {
+      "id": "fr1922",
+      "name": "Hilly's",
+      "area": 2.7,
+      "year": 2020
+    },
+    {
+      "id": "fr1923",
+      "name": "Marl Pit",
+      "area": 8.3,
+      "year": 2020
+    },
+    {
+      "id": "fr1924",
+      "name": "Tanner's Field",
+      "area": 17,
+      "year": 2020
+    },
+    {
+      "id": "fr2201",
+      "name": "Warren Field",
+      "area": 30.4,
+      "year": 2023
+    },
+    {
+      "id": "fr2202",
+      "name": "Nine Days",
+      "area": 36.6,
+      "year": 2023
+    },
+    {
+      "id": "fr2203",
+      "name": "Woodcock",
+      "area": 21.5,
+      "year": 2023
+    },
+    {
+      "id": "fr2204",
+      "name": "Hawthorn",
+      "area": 0.6,
+      "year": 2023
+    },
+    {
+      "id": "fr2205",
+      "name": "Brick Top",
+      "area": 53.1,
+      "year": 2023
+    },
+    {
+      "id": "fr2206",
+      "name": "Pease Close",
+      "area": 31.4,
+      "year": 2023
+    },
+    {
+      "id": "fr2207",
+      "name": "Clamp Field",
+      "area": 13.8,
+      "year": 2023
+    },
+    {
+      "id": "fr2208",
+      "name": "Cottage Field",
+      "area": 9.7,
+      "year": 2023
+    },
+    {
+      "id": "fr2209",
+      "name": "Judge's Close",
+      "area": 3.5,
+      "year": 2023
+    },
+    {
+      "id": "fr2210",
+      "name": "Haggard",
+      "area": 6.1,
+      "year": 2023
+    },
+    {
+      "id": "fr2211",
+      "name": "Greenfield",
+      "area": 4.4,
+      "year": 2023
+    },
+    {
+      "id": "fr2212",
+      "name": "The Windmill",
+      "area": 10.7,
+      "year": 2023
+    },
+    {
+      "id": "fr2213",
+      "name": "Gate Close",
+      "area": 28.6,
+      "year": 2023
+    },
+    {
+      "id": "fr2214",
+      "name": "Pit Field",
+      "area": 16.0,
+      "year": 2023
+    },
+    {
+      "id": "fr2215",
+      "name": "Bottom Meadow",
+      "area": 9.3,
+      "year": 2023
+    },
+    {
+      "id": "fr2216",
+      "name": "100 Acre",
+      "area": 42.1,
+      "year": 2023
+    },
+    {
+      "id": "fr2217",
+      "name": "Cow Park",
+      "area": 33.7,
+      "year": 2023
+    },
+    {
+      "id": "fr2218",
+      "name": "Blacksmiths",
+      "area": 15.9,
+      "year": 2023
+    },
+    {
+      "id": "fr2219",
+      "name": "Fig Tree",
+      "area": 10.5,
+      "year": 2023
+    },
+    {
+      "id": "fr2220",
+      "name": "Chapel",
+      "area": 18.0,
+      "year": 2023
+    },
+    {
+      "id": "fr2221",
+      "name": "Basil's",
+      "area": 15.2,
+      "year": 2023
+    }
+  ]
+}

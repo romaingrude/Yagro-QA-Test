@@ -1,0 +1,3501 @@
+{
+  "cropPerformances": [
+    {
+      "cropId": 300,
+      "year": 2017,
+      "groupId": 1,
+      "area": 257.67,
+      "cop": 45.04,
+      "costPerHa": 550.61,
+      "fieldCount": 18,
+      "production": 3150.09,
+      "totalCost": 141876.25,
+      "benchmark": 52.77,
+      "yield": { "magnitude": 12.23, "dimension": "t/ha" },
+      "marketRange": {
+        "min": 33.08,
+        "median": 62.79,
+        "max": 121.91,
+        "percentile25": 54.99,
+        "percentile75": 71.35
+      },
+      "categories": [
+        {
+          "category": "yield",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 12.23,
+            "min": 5.92
+          }
+        },
+        {
+          "category": "seed",
+          "costPerHa": 43.16,
+          "cop": 3.53,
+          "marketBenchmark": {
+            "max": 16.33,
+            "min": 1.37
+          }
+        },
+        {
+          "category": "fertiliser",
+          "costPerHa": 216.71,
+          "cop": 17.73,
+          "marketBenchmark": {
+            "max": 29.63,
+            "min": 7.55
+          }
+        },
+        {
+          "category": "adjuvant",
+          "costPerHa": 11.97,
+          "cop": 0.98,
+          "marketBenchmark": {
+            "max": 2.32,
+            "min": 0.04
+          }
+        },
+        {
+          "category": "anti-foam",
+          "costPerHa": 0.14,
+          "cop": 0.02,
+          "marketBenchmark": {
+            "max": 0.04,
+            "min": 0.02
+          }
+        },
+        {
+          "category": "fungicide",
+          "costPerHa": 127.26,
+          "cop": 10.41,
+          "marketBenchmark": {
+            "max": 17.48,
+            "min": 6.16
+          }
+        },
+        {
+          "category": "herbicide",
+          "costPerHa": 116.78,
+          "cop": 9.55,
+          "marketBenchmark": {
+            "max": 21.57,
+            "min": 2.13
+          }
+        },
+        {
+          "category": "insecticide",
+          "costPerHa": 3.28,
+          "cop": 0.27,
+          "marketBenchmark": {
+            "max": 1.04,
+            "min": 0.0
+          }
+        },
+        {
+          "category": "molluscicide",
+          "costPerHa": 4.05,
+          "cop": 0.62,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "plant growth regulator",
+          "costPerHa": 14.59,
+          "cop": 1.19,
+          "marketBenchmark": {
+            "max": 2.14,
+            "min": 0.29
+          }
+        },
+        {
+          "category": "trace element",
+          "costPerHa": 16.86,
+          "cop": 1.38,
+          "marketBenchmark": {
+            "max": 4.71,
+            "min": 0.05
+          }
+        },
+        {
+          "category": "total chemical",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 50.77,
+            "min": 13.43
+          }
+        }
+      ]
+    },
+    {
+      "cropId": 300,
+      "year": 2019,
+      "groupId": 1,
+      "area": 415.57,
+      "cop": 56.47,
+      "costPerHa": 632.67,
+      "fieldCount": 21,
+      "production": 4539.99,
+      "totalCost": 256393.8,
+      "benchmark": 59.9,
+      "yield": { "magnitude": 10.92, "dimension": "t/ha" },
+      "marketRange": {
+        "min": 33.08,
+        "median": 62.79,
+        "max": 121.91,
+        "percentile25": 54.99,
+        "percentile75": 71.35
+      },
+      "categories": [
+        {
+          "category": "yield",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 9.82,
+            "min": 4.58
+          }
+        },
+        {
+          "category": "seed",
+          "costPerHa": 92.69,
+          "cop": 14.09,
+          "marketBenchmark": {
+            "max": 22.53,
+            "min": 4.53
+          }
+        },
+        {
+          "category": "fertiliser",
+          "costPerHa": 191.23,
+          "cop": 29.07,
+          "marketBenchmark": {
+            "max": 42.22,
+            "min": 12.28
+          }
+        },
+        {
+          "category": "adjuvant",
+          "costPerHa": 7.94,
+          "cop": 1.21,
+          "marketBenchmark": {
+            "max": 3.19,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "anti-foam",
+          "costPerHa": 0.14,
+          "cop": 0.02,
+          "marketBenchmark": {
+            "max": 0.04,
+            "min": 0.02
+          }
+        },
+        {
+          "category": "fungicide",
+          "costPerHa": 108.18,
+          "cop": 16.45,
+          "marketBenchmark": {
+            "max": 17.54,
+            "min": 5.1
+          }
+        },
+        {
+          "category": "herbicide",
+          "costPerHa": 116.19,
+          "cop": 17.66,
+          "marketBenchmark": {
+            "max": 21.41,
+            "min": 1.46
+          }
+        },
+        {
+          "category": "insecticide",
+          "costPerHa": 1.25,
+          "cop": 0.19,
+          "marketBenchmark": {
+            "max": 0.81,
+            "min": 0.0
+          }
+        },
+        {
+          "category": "molluscicide",
+          "costPerHa": 4.05,
+          "cop": 0.62,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "plant growth regulator",
+          "costPerHa": 10.88,
+          "cop": 1.65,
+          "marketBenchmark": {
+            "max": 2.39,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "trace element",
+          "costPerHa": 21.95,
+          "cop": 3.34,
+          "marketBenchmark": {
+            "max": 5.83,
+            "min": 0.04
+          }
+        },
+        {
+          "category": "total chemical",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 45.5,
+            "min": 11.69
+          }
+        }
+      ]
+    },
+    {
+      "cropId": 300,
+      "year": 2020,
+      "groupId": 1,
+      "area": 451.07,
+      "cop": 52.77,
+      "costPerHa": 577.74,
+      "fieldCount": 26,
+      "production": 4947.43,
+      "totalCost": 261082.38,
+      "benchmark": 53.34,
+      "yield": { "magnitude": 10.97, "dimension": "t/ha" },
+      "marketRange": {
+        "min": 33.08,
+        "median": 62.79,
+        "max": 121.91,
+        "percentile25": 54.99,
+        "percentile75": 71.35
+      },
+      "categories": [
+        {
+          "category": "yield",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 9.82,
+            "min": 4.58
+          }
+        },
+        {
+          "category": "seed",
+          "costPerHa": 92.69,
+          "cop": 14.09,
+          "marketBenchmark": {
+            "max": 22.53,
+            "min": 4.53
+          }
+        },
+        {
+          "category": "fertiliser",
+          "costPerHa": 191.23,
+          "cop": 29.07,
+          "marketBenchmark": {
+            "max": 42.22,
+            "min": 12.28
+          }
+        },
+        {
+          "category": "adjuvant",
+          "costPerHa": 7.94,
+          "cop": 1.21,
+          "marketBenchmark": {
+            "max": 3.19,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "anti-foam",
+          "costPerHa": 0.14,
+          "cop": 0.02,
+          "marketBenchmark": {
+            "max": 0.04,
+            "min": 0.02
+          }
+        },
+        {
+          "category": "fungicide",
+          "costPerHa": 108.18,
+          "cop": 16.45,
+          "marketBenchmark": {
+            "max": 17.54,
+            "min": 5.1
+          }
+        },
+        {
+          "category": "herbicide",
+          "costPerHa": 116.19,
+          "cop": 17.66,
+          "marketBenchmark": {
+            "max": 21.41,
+            "min": 1.46
+          }
+        },
+        {
+          "category": "insecticide",
+          "costPerHa": 1.25,
+          "cop": 0.19,
+          "marketBenchmark": {
+            "max": 0.81,
+            "min": 0.0
+          }
+        },
+        {
+          "category": "molluscicide",
+          "costPerHa": 4.05,
+          "cop": 0.62,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "plant growth regulator",
+          "costPerHa": 10.88,
+          "cop": 1.65,
+          "marketBenchmark": {
+            "max": 2.39,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "trace element",
+          "costPerHa": 21.95,
+          "cop": 3.34,
+          "marketBenchmark": {
+            "max": 5.83,
+            "min": 0.04
+          }
+        },
+        {
+          "category": "total chemical",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 45.5,
+            "min": 11.69
+          }
+        }
+      ]
+    },
+    {
+      "cropId": 301,
+      "year": 2020,
+      "groupId": 1,
+      "area": 41.7,
+      "cop": 40.24,
+      "costPerHa": 329.24,
+      "fieldCount": 4,
+      "production": 358.13,
+      "totalCost": 14410.85,
+      "benchmark": 56.61,
+      "yield": { "magnitude": 8.59, "dimension": "t/ha" },
+      "marketRange": {
+        "min": 36.8,
+        "max": 122.55
+      },
+      "categories": [
+        {
+          "category": "yield",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 9.82,
+            "min": 4.58
+          }
+        },
+        {
+          "category": "seed",
+          "costPerHa": 92.69,
+          "cop": 14.09,
+          "marketBenchmark": {
+            "max": 22.53,
+            "min": 4.53
+          }
+        },
+        {
+          "category": "fertiliser",
+          "costPerHa": 191.23,
+          "cop": 29.07,
+          "marketBenchmark": {
+            "max": 42.22,
+            "min": 12.28
+          }
+        },
+        {
+          "category": "adjuvant",
+          "costPerHa": 7.94,
+          "cop": 1.21,
+          "marketBenchmark": {
+            "max": 3.19,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "anti-foam",
+          "costPerHa": 0.14,
+          "cop": 0.02,
+          "marketBenchmark": {
+            "max": 0.04,
+            "min": 0.02
+          }
+        },
+        {
+          "category": "fungicide",
+          "costPerHa": 108.18,
+          "cop": 16.45,
+          "marketBenchmark": {
+            "max": 17.54,
+            "min": 5.1
+          }
+        },
+        {
+          "category": "herbicide",
+          "costPerHa": 116.19,
+          "cop": 17.66,
+          "marketBenchmark": {
+            "max": 21.41,
+            "min": 1.46
+          }
+        },
+        {
+          "category": "insecticide",
+          "costPerHa": 1.25,
+          "cop": 0.19,
+          "marketBenchmark": {
+            "max": 0.81,
+            "min": 0.0
+          }
+        },
+        {
+          "category": "molluscicide",
+          "costPerHa": 4.05,
+          "cop": 0.62,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "plant growth regulator",
+          "costPerHa": 10.88,
+          "cop": 1.65,
+          "marketBenchmark": {
+            "max": 2.39,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "trace element",
+          "costPerHa": 21.95,
+          "cop": 3.34,
+          "marketBenchmark": {
+            "max": 5.83,
+            "min": 0.04
+          }
+        },
+        {
+          "category": "total chemical",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 45.5,
+            "min": 11.69
+          }
+        }
+      ]
+    },
+    {
+      "cropId": 302,
+      "year": 2020,
+      "groupId": 1,
+      "area": 31.2,
+      "cop": 86.53,
+      "costPerHa": 355.01,
+      "fieldCount": 2,
+      "production": 128.0,
+      "totalCost": 11076.37,
+      "benchmark": 62.36,
+      "yield": { "magnitude": 4.1, "dimension": "t/ha" },
+      "marketRange": {
+        "min": 30.1,
+        "max": 231.82
+      },
+      "categories": [
+        {
+          "category": "yield",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 9.82,
+            "min": 4.58
+          }
+        },
+        {
+          "category": "seed",
+          "costPerHa": 92.69,
+          "cop": 14.09,
+          "marketBenchmark": {
+            "max": 22.53,
+            "min": 4.53
+          }
+        },
+        {
+          "category": "fertiliser",
+          "costPerHa": 191.23,
+          "cop": 29.07,
+          "marketBenchmark": {
+            "max": 42.22,
+            "min": 12.28
+          }
+        },
+        {
+          "category": "adjuvant",
+          "costPerHa": 7.94,
+          "cop": 1.21,
+          "marketBenchmark": {
+            "max": 3.19,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "anti-foam",
+          "costPerHa": 0.14,
+          "cop": 0.02,
+          "marketBenchmark": {
+            "max": 0.04,
+            "min": 0.02
+          }
+        },
+        {
+          "category": "fungicide",
+          "costPerHa": 108.18,
+          "cop": 16.45,
+          "marketBenchmark": {
+            "max": 17.54,
+            "min": 5.1
+          }
+        },
+        {
+          "category": "herbicide",
+          "costPerHa": 116.19,
+          "cop": 17.66,
+          "marketBenchmark": {
+            "max": 21.41,
+            "min": 1.46
+          }
+        },
+        {
+          "category": "insecticide",
+          "costPerHa": 1.25,
+          "cop": 0.19,
+          "marketBenchmark": {
+            "max": 0.81,
+            "min": 0.0
+          }
+        },
+        {
+          "category": "molluscicide",
+          "costPerHa": 4.05,
+          "cop": 0.62,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "plant growth regulator",
+          "costPerHa": 10.88,
+          "cop": 1.65,
+          "marketBenchmark": {
+            "max": 2.39,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "trace element",
+          "costPerHa": 21.95,
+          "cop": 3.34,
+          "marketBenchmark": {
+            "max": 5.83,
+            "min": 0.04
+          }
+        },
+        {
+          "category": "total chemical",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 45.5,
+            "min": 11.69
+          }
+        }
+      ]
+    },
+    {
+      "cropId": 300,
+      "year": 2021,
+      "groupId": 1,
+      "area": 200.0,
+      "cop": 99.91,
+      "costPerHa": 391.8,
+      "fieldCount": 10,
+      "production": 542.3,
+      "totalCost": 54178.49,
+      "benchmark": 66.46,
+      "yield": { "magnitude": 3.92, "dimension": "t/ha" },
+      "marketRange": {
+        "min": 33.08,
+        "median": 62.79,
+        "max": 121.91,
+        "percentile25": 54.99,
+        "percentile75": 71.35
+      },
+      "categories": [
+        {
+          "category": "yield",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 9.82,
+            "min": 4.58
+          }
+        },
+        {
+          "category": "seed",
+          "costPerHa": 92.69,
+          "cop": 14.09,
+          "marketBenchmark": {
+            "max": 22.53,
+            "min": 4.53
+          }
+        },
+        {
+          "category": "fertiliser",
+          "costPerHa": 191.23,
+          "cop": 29.07,
+          "marketBenchmark": {
+            "max": 42.22,
+            "min": 12.28
+          }
+        },
+        {
+          "category": "adjuvant",
+          "costPerHa": 7.94,
+          "cop": 1.21,
+          "marketBenchmark": {
+            "max": 3.19,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "anti-foam",
+          "costPerHa": 0.14,
+          "cop": 0.02,
+          "marketBenchmark": {
+            "max": 0.04,
+            "min": 0.02
+          }
+        },
+        {
+          "category": "fungicide",
+          "costPerHa": 108.18,
+          "cop": 16.45,
+          "marketBenchmark": {
+            "max": 17.54,
+            "min": 5.1
+          }
+        },
+        {
+          "category": "herbicide",
+          "costPerHa": 116.19,
+          "cop": 17.66,
+          "marketBenchmark": {
+            "max": 21.41,
+            "min": 1.46
+          }
+        },
+        {
+          "category": "insecticide",
+          "costPerHa": 1.25,
+          "cop": 0.19,
+          "marketBenchmark": {
+            "max": 0.81,
+            "min": 0.0
+          }
+        },
+        {
+          "category": "molluscicide",
+          "costPerHa": 4.05,
+          "cop": 0.62,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "plant growth regulator",
+          "costPerHa": 10.88,
+          "cop": 1.65,
+          "marketBenchmark": {
+            "max": 2.39,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "trace element",
+          "costPerHa": 21.95,
+          "cop": 3.34,
+          "marketBenchmark": {
+            "max": 5.83,
+            "min": 0.04
+          }
+        },
+        {
+          "category": "total chemical",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 45.5,
+            "min": 11.69
+          }
+        }
+      ]
+    },
+    {
+      "cropId": 301,
+      "year": 2021,
+      "groupId": 1,
+      "area": 77.08,
+      "cop": 42.6,
+      "costPerHa": 404.3,
+      "fieldCount": 2,
+      "production": 723.25,
+      "totalCost": 30807.61,
+      "benchmark": 67.64,
+      "yield": { "magnitude": 9.38, "dimension": "t/ha" },
+      "marketRange": {
+        "min": 42.6,
+        "max": 120.53
+      },
+      "categories": [
+        {
+          "category": "yield",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 9.82,
+            "min": 4.58
+          }
+        },
+        {
+          "category": "seed",
+          "costPerHa": 92.69,
+          "cop": 14.09,
+          "marketBenchmark": {
+            "max": 22.53,
+            "min": 4.53
+          }
+        },
+        {
+          "category": "fertiliser",
+          "costPerHa": 191.23,
+          "cop": 29.07,
+          "marketBenchmark": {
+            "max": 42.22,
+            "min": 12.28
+          }
+        },
+        {
+          "category": "adjuvant",
+          "costPerHa": 7.94,
+          "cop": 1.21,
+          "marketBenchmark": {
+            "max": 3.19,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "anti-foam",
+          "costPerHa": 0.14,
+          "cop": 0.02,
+          "marketBenchmark": {
+            "max": 0.04,
+            "min": 0.02
+          }
+        },
+        {
+          "category": "fungicide",
+          "costPerHa": 108.18,
+          "cop": 16.45,
+          "marketBenchmark": {
+            "max": 17.54,
+            "min": 5.1
+          }
+        },
+        {
+          "category": "herbicide",
+          "costPerHa": 116.19,
+          "cop": 17.66,
+          "marketBenchmark": {
+            "max": 21.41,
+            "min": 1.46
+          }
+        },
+        {
+          "category": "insecticide",
+          "costPerHa": 1.25,
+          "cop": 0.19,
+          "marketBenchmark": {
+            "max": 0.81,
+            "min": 0.0
+          }
+        },
+        {
+          "category": "molluscicide",
+          "costPerHa": 4.05,
+          "cop": 0.62,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "plant growth regulator",
+          "costPerHa": 10.88,
+          "cop": 1.65,
+          "marketBenchmark": {
+            "max": 2.39,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "trace element",
+          "costPerHa": 21.95,
+          "cop": 3.34,
+          "marketBenchmark": {
+            "max": 5.83,
+            "min": 0.04
+          }
+        },
+        {
+          "category": "total chemical",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 45.5,
+            "min": 11.69
+          }
+        }
+      ]
+    },
+    {
+      "cropId": 302,
+      "year": 2021,
+      "groupId": 1,
+      "area": 114.62,
+      "cop": 45.62,
+      "costPerHa": 200.67,
+      "fieldCount": 5,
+      "production": 504.14,
+      "totalCost": 23000.62,
+      "benchmark": 114.9,
+      "yield": { "magnitude": 4.4, "dimension": "t/ha" },
+      "marketRange": {
+        "min": 37.88,
+        "max": 336.12
+      },
+      "categories": [
+        {
+          "category": "yield",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 9.82,
+            "min": 4.58
+          }
+        },
+        {
+          "category": "seed",
+          "costPerHa": 92.69,
+          "cop": 14.09,
+          "marketBenchmark": {
+            "max": 22.53,
+            "min": 4.53
+          }
+        },
+        {
+          "category": "fertiliser",
+          "costPerHa": 191.23,
+          "cop": 29.07,
+          "marketBenchmark": {
+            "max": 42.22,
+            "min": 12.28
+          }
+        },
+        {
+          "category": "adjuvant",
+          "costPerHa": 7.94,
+          "cop": 1.21,
+          "marketBenchmark": {
+            "max": 3.19,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "anti-foam",
+          "costPerHa": 0.14,
+          "cop": 0.02,
+          "marketBenchmark": {
+            "max": 0.04,
+            "min": 0.02
+          }
+        },
+        {
+          "category": "fungicide",
+          "costPerHa": 108.18,
+          "cop": 16.45,
+          "marketBenchmark": {
+            "max": 17.54,
+            "min": 5.1
+          }
+        },
+        {
+          "category": "herbicide",
+          "costPerHa": 116.19,
+          "cop": 17.66,
+          "marketBenchmark": {
+            "max": 21.41,
+            "min": 1.46
+          }
+        },
+        {
+          "category": "insecticide",
+          "costPerHa": 1.25,
+          "cop": 0.19,
+          "marketBenchmark": {
+            "max": 0.81,
+            "min": 0.0
+          }
+        },
+        {
+          "category": "molluscicide",
+          "costPerHa": 4.05,
+          "cop": 0.62,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "plant growth regulator",
+          "costPerHa": 10.88,
+          "cop": 1.65,
+          "marketBenchmark": {
+            "max": 2.39,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "trace element",
+          "costPerHa": 21.95,
+          "cop": 3.34,
+          "marketBenchmark": {
+            "max": 5.83,
+            "min": 0.04
+          }
+        },
+        {
+          "category": "total chemical",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 45.5,
+            "min": 11.69
+          }
+        }
+      ]
+    },
+    {
+      "cropId": 300,
+      "year": 2022,
+      "groupId": 1,
+      "area": 573.86,
+      "cop": 84.31,
+      "costPerHa": 554.49,
+      "fieldCount": 45,
+      "production": 3789.9,
+      "totalCost": 319508.76,
+      "benchmark": 57.17,
+      "yield": { "magnitude": 6.6, "dimension": "t/ha" },
+      "marketRange": {
+        "min": 33.08,
+        "median": 62.79,
+        "max": 121.91,
+        "percentile25": 54.99,
+        "percentile75": 71.35
+      },
+      "categories": [
+        {
+          "category": "yield",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "min": 6.1,
+            "median": 9.6,
+            "max": 12.63,
+            "percentile25": 8.63,
+            "percentile75": 10.32
+          }
+        },
+        {
+          "category": "seed",
+          "costPerHa": 92.69,
+          "cop": 14.09,
+          "marketBenchmark": {
+            "max": 22.53,
+            "min": 4.53
+          }
+        },
+        {
+          "category": "fertiliser",
+          "costPerHa": 191.23,
+          "cop": 29.07,
+          "marketBenchmark": {
+            "max": 42.22,
+            "min": 12.28
+          }
+        },
+        {
+          "category": "adjuvant",
+          "costPerHa": 7.94,
+          "cop": 1.21,
+          "marketBenchmark": {
+            "max": 3.19,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "anti-foam",
+          "costPerHa": 0.14,
+          "cop": 0.02,
+          "marketBenchmark": {
+            "min": 0.0,
+            "median": 0.01,
+            "max": 0.05,
+            "percentile25": 0.01,
+            "percentile75": 0.03
+          }
+        },
+        {
+          "category": "fungicide",
+          "costPerHa": 108.18,
+          "cop": 16.45,
+          "marketBenchmark": {
+            "min": 6.03,
+            "median": 11.86,
+            "max": 18.24,
+            "percentile25": 10.61,
+            "percentile75": 13.66
+          }
+        },
+        {
+          "category": "herbicide",
+          "costPerHa": 116.19,
+          "cop": 17.66,
+          "marketBenchmark": {
+            "min": 1.98,
+            "median": 9.31,
+            "max": 19.05,
+            "percentile25": 7.47,
+            "percentile75": 12.1
+          }
+        },
+        {
+          "category": "insecticide",
+          "costPerHa": 1.25,
+          "cop": 0.19,
+          "marketBenchmark": {
+            "min": 1.98,
+            "median": 9.31,
+            "max": 19.05,
+            "percentile25": 7.47,
+            "percentile75": 12.1
+          }
+        },
+        {
+          "category": "molluscicide",
+          "costPerHa": 4.05,
+          "cop": 0.62,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "plant growth regulator",
+          "costPerHa": 10.88,
+          "cop": 1.65,
+          "marketBenchmark": {
+            "max": 2.39,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "trace element",
+          "costPerHa": 21.95,
+          "cop": 3.34,
+          "marketBenchmark": {
+            "max": 5.83,
+            "min": 0.04
+          }
+        },
+        {
+          "category": "total chemical",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 45.5,
+            "min": 11.69
+          }
+        }
+      ]
+    },
+    {
+      "cropId": 301,
+      "year": 2022,
+      "groupId": 1,
+      "area": 99.65,
+      "cop": 82.89,
+      "costPerHa": 768.61,
+      "fieldCount": 7,
+      "production": 923.99,
+      "totalCost": 76591.98,
+      "benchmark": 58.48,
+      "yield": { "magnitude": 9.27, "dimension": "t/ha" },
+      "marketRange": {
+        "min": 25.21,
+        "max": 111.92
+      },
+      "categories": [
+        {
+          "category": "yield",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 9.82,
+            "min": 4.58
+          }
+        },
+        {
+          "category": "seed",
+          "costPerHa": 92.69,
+          "cop": 14.09,
+          "marketBenchmark": {
+            "max": 22.53,
+            "min": 4.53
+          }
+        },
+        {
+          "category": "fertiliser",
+          "costPerHa": 191.23,
+          "cop": 29.07,
+          "marketBenchmark": {
+            "max": 42.22,
+            "min": 12.28
+          }
+        },
+        {
+          "category": "adjuvant",
+          "costPerHa": 7.94,
+          "cop": 1.21,
+          "marketBenchmark": {
+            "max": 3.19,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "anti-foam",
+          "costPerHa": 0.14,
+          "cop": 0.02,
+          "marketBenchmark": {
+            "max": 0.04,
+            "min": 0.02
+          }
+        },
+        {
+          "category": "fungicide",
+          "costPerHa": 108.18,
+          "cop": 16.45,
+          "marketBenchmark": {
+            "max": 17.54,
+            "min": 5.1
+          }
+        },
+        {
+          "category": "herbicide",
+          "costPerHa": 116.19,
+          "cop": 17.66,
+          "marketBenchmark": {
+            "max": 21.41,
+            "min": 1.46
+          }
+        },
+        {
+          "category": "insecticide",
+          "costPerHa": 1.25,
+          "cop": 0.19,
+          "marketBenchmark": {
+            "max": 0.81,
+            "min": 0.0
+          }
+        },
+        {
+          "category": "molluscicide",
+          "costPerHa": 4.05,
+          "cop": 0.62,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "plant growth regulator",
+          "costPerHa": 10.88,
+          "cop": 1.65,
+          "marketBenchmark": {
+            "max": 2.39,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "trace element",
+          "costPerHa": 21.95,
+          "cop": 3.34,
+          "marketBenchmark": {
+            "max": 5.83,
+            "min": 0.04
+          }
+        },
+        {
+          "category": "total chemical",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 45.5,
+            "min": 11.69
+          }
+        }
+      ]
+    },
+    {
+      "cropId": 300,
+      "year": 2022,
+      "groupId": 2,
+      "area": 99.65,
+      "cop": 68.4,
+      "costPerHa": 614.94,
+      "fieldCount": 7,
+      "production": 923.99,
+      "totalCost": 76591.98,
+      "benchmark": 58.48,
+      "yield": { "magnitude": 8.99, "dimension": "t/ha" },
+      "marketRange": {
+        "min": 33.08,
+        "median": 62.79,
+        "max": 121.91,
+        "percentile25": 54.99,
+        "percentile75": 71.35
+      },
+      "categories": [
+        {
+          "category": "yield",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 9.82,
+            "min": 4.58
+          }
+        },
+        {
+          "category": "seed",
+          "costPerHa": 95.08,
+          "cop": 14.09,
+          "marketBenchmark": {
+            "max": 22.53,
+            "min": 4.53
+          }
+        },
+        {
+          "category": "fertiliser",
+          "costPerHa": 270.44,
+          "cop": 29.07,
+          "marketBenchmark": {
+            "max": 42.22,
+            "min": 12.28
+          }
+        },
+        {
+          "category": "adjuvant",
+          "costPerHa": 7.21,
+          "cop": 1.21,
+          "marketBenchmark": {
+            "max": 3.19,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "anti-foam",
+          "costPerHa": 0,
+          "cop": 0.02,
+          "marketBenchmark": {
+            "max": 0.04,
+            "min": 0.02
+          }
+        },
+        {
+          "category": "fungicide",
+          "costPerHa": 112.6,
+          "cop": 16.45,
+          "marketBenchmark": {
+            "max": 17.54,
+            "min": 5.1
+          }
+        },
+        {
+          "category": "herbicide",
+          "costPerHa": 89.05,
+          "cop": 17.66,
+          "marketBenchmark": {
+            "max": 21.41,
+            "min": 1.46
+          }
+        },
+        {
+          "category": "insecticide",
+          "costPerHa": 4.64,
+          "cop": 0.19,
+          "marketBenchmark": {
+            "max": 0.81,
+            "min": 0.0
+          }
+        },
+        {
+          "category": "molluscicide",
+          "costPerHa": 15.21,
+          "cop": 0.62,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "plant growth regulator",
+          "costPerHa": 8.57,
+          "cop": 1.65,
+          "marketBenchmark": {
+            "max": 2.39,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "trace element",
+          "costPerHa": 12.13,
+          "cop": 3.34,
+          "marketBenchmark": {
+            "max": 5.83,
+            "min": 0.04
+          }
+        },
+        {
+          "category": "total chemical",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 45.5,
+            "min": 11.69
+          }
+        }
+      ]
+    },
+    {
+      "cropId": 300,
+      "year": 2022,
+      "groupId": 4,
+      "area": 99.65,
+      "cop": 66.49,
+      "costPerHa": 594.99,
+      "fieldCount": 7,
+      "production": 923.99,
+      "totalCost": 76591.98,
+      "benchmark": 58.48,
+      "yield": { "magnitude": 8.95, "dimension": "t/ha" },
+      "marketRange": {
+        "min": 33.08,
+        "median": 62.79,
+        "max": 121.91,
+        "percentile25": 54.99,
+        "percentile75": 71.35
+      },
+      "categories": [
+        {
+          "category": "yield",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 9.82,
+            "min": 4.58
+          }
+        },
+        {
+          "category": "seed",
+          "costPerHa": 60.76,
+          "cop": 14.09,
+          "marketBenchmark": {
+            "max": 22.53,
+            "min": 4.53
+          }
+        },
+        {
+          "category": "fertiliser",
+          "costPerHa": 265.39,
+          "cop": 29.07,
+          "marketBenchmark": {
+            "max": 42.22,
+            "min": 12.28
+          }
+        },
+        {
+          "category": "adjuvant",
+          "costPerHa": 0.76,
+          "cop": 1.21,
+          "marketBenchmark": {
+            "max": 3.19,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "anti-foam",
+          "costPerHa": 0,
+          "cop": 0.02,
+          "marketBenchmark": {
+            "max": 0.04,
+            "min": 0.02
+          }
+        },
+        {
+          "category": "fungicide",
+          "costPerHa": 103.56,
+          "cop": 16.45,
+          "marketBenchmark": {
+            "max": 17.54,
+            "min": 5.1
+          }
+        },
+        {
+          "category": "herbicide",
+          "costPerHa": 129.66,
+          "cop": 17.66,
+          "marketBenchmark": {
+            "max": 21.41,
+            "min": 1.46
+          }
+        },
+        {
+          "category": "insecticide",
+          "costPerHa": 3.72,
+          "cop": 0.19,
+          "marketBenchmark": {
+            "max": 0.81,
+            "min": 0.0
+          }
+        },
+        {
+          "category": "molluscicide",
+          "costPerHa": 12.57,
+          "cop": 0.62,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "plant growth regulator",
+          "costPerHa": 17.83,
+          "cop": 1.65,
+          "marketBenchmark": {
+            "max": 2.39,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "trace element",
+          "costPerHa": 0.75,
+          "cop": 3.34,
+          "marketBenchmark": {
+            "max": 5.83,
+            "min": 0.04
+          }
+        },
+        {
+          "category": "total chemical",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 45.5,
+            "min": 11.69
+          }
+        }
+      ]
+    },
+    {
+      "cropId": 300,
+      "year": 2021,
+      "groupId": 2,
+      "area": 99.65,
+      "cop": 59.45,
+      "costPerHa": 596.96,
+      "fieldCount": 7,
+      "production": 923.99,
+      "totalCost": 76591.98,
+      "benchmark": 58.48,
+      "yield": { "magnitude": 10.04, "dimension": "t/ha" },
+      "marketRange": {
+        "min": 33.08,
+        "median": 62.79,
+        "max": 121.91,
+        "percentile25": 54.99,
+        "percentile75": 71.35
+      },
+      "categories": [
+        {
+          "category": "yield",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 9.82,
+            "min": 4.58
+          }
+        },
+        {
+          "category": "seed",
+          "costPerHa": 71.65,
+          "cop": 14.09,
+          "marketBenchmark": {
+            "max": 22.53,
+            "min": 4.53
+          }
+        },
+        {
+          "category": "fertiliser",
+          "costPerHa": 281.41,
+          "cop": 29.07,
+          "marketBenchmark": {
+            "max": 42.22,
+            "min": 12.28
+          }
+        },
+        {
+          "category": "adjuvant",
+          "costPerHa": 4.69,
+          "cop": 1.21,
+          "marketBenchmark": {
+            "max": 3.19,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "fungicide",
+          "costPerHa": 105.63,
+          "cop": 16.45,
+          "marketBenchmark": {
+            "max": 17.54,
+            "min": 5.1
+          }
+        },
+        {
+          "category": "herbicide",
+          "costPerHa": 90.94,
+          "cop": 17.66,
+          "marketBenchmark": {
+            "max": 21.41,
+            "min": 1.46
+          }
+        },
+        {
+          "category": "insecticide",
+          "costPerHa": 10.48,
+          "cop": 0.19,
+          "marketBenchmark": {
+            "max": 0.81,
+            "min": 0.0
+          }
+        },
+        {
+          "category": "molluscicide",
+          "costPerHa": 13.79,
+          "cop": 0.62,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "plant growth regulator",
+          "costPerHa": 8.87,
+          "cop": 1.65,
+          "marketBenchmark": {
+            "max": 2.39,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "trace element",
+          "costPerHa": 9.5,
+          "cop": 3.34,
+          "marketBenchmark": {
+            "max": 5.83,
+            "min": 0.04
+          }
+        },
+        {
+          "category": "total chemical",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 45.5,
+            "min": 11.69
+          }
+        }
+      ]
+    },
+    {
+      "cropId": 300,
+      "year": 2021,
+      "groupId": 4,
+      "area": 99.65,
+      "cop": 60.93,
+      "costPerHa": 510.42,
+      "fieldCount": 7,
+      "production": 923.99,
+      "totalCost": 76591.98,
+      "benchmark": 58.48,
+      "yield": { "magnitude": 8.38, "dimension": "t/ha" },
+      "marketRange": {
+        "min": 33.08,
+        "median": 62.79,
+        "max": 121.91,
+        "percentile25": 54.99,
+        "percentile75": 71.35
+      },
+      "categories": [
+        {
+          "category": "yield",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 9.82,
+            "min": 4.58
+          }
+        },
+        {
+          "category": "seed",
+          "costPerHa": 119.67,
+          "cop": 14.09,
+          "marketBenchmark": {
+            "max": 22.53,
+            "min": 4.53
+          }
+        },
+        {
+          "category": "fertiliser",
+          "costPerHa": 158.22,
+          "cop": 29.07,
+          "marketBenchmark": {
+            "max": 42.22,
+            "min": 12.28
+          }
+        },
+        {
+          "category": "adjuvant",
+          "costPerHa": 5.08,
+          "cop": 1.21,
+          "marketBenchmark": {
+            "max": 3.19,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "anti-foam",
+          "costPerHa": 0,
+          "cop": 0.02,
+          "marketBenchmark": {
+            "max": 0.04,
+            "min": 0.02
+          }
+        },
+        {
+          "category": "fungicide",
+          "costPerHa": 112.15,
+          "cop": 16.45,
+          "marketBenchmark": {
+            "max": 17.54,
+            "min": 5.1
+          }
+        },
+        {
+          "category": "herbicide",
+          "costPerHa": 72.26,
+          "cop": 17.66,
+          "marketBenchmark": {
+            "max": 21.41,
+            "min": 1.46
+          }
+        },
+        {
+          "category": "insecticide",
+          "costPerHa": 0,
+          "cop": 0.19,
+          "marketBenchmark": {
+            "max": 0.81,
+            "min": 0.0
+          }
+        },
+        {
+          "category": "molluscicide",
+          "costPerHa": 14.03,
+          "cop": 0.62,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "plant growth regulator",
+          "costPerHa": 11.98,
+          "cop": 1.65,
+          "marketBenchmark": {
+            "max": 2.39,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "trace element",
+          "costPerHa": 17.03,
+          "cop": 3.34,
+          "marketBenchmark": {
+            "max": 5.83,
+            "min": 0.04
+          }
+        },
+        {
+          "category": "total chemical",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 45.5,
+            "min": 11.69
+          }
+        }
+      ]
+    },
+    {
+      "cropId": 300,
+      "year": 2022,
+      "groupId": 3,
+      "area": 237.5,
+      "cop": 79.94,
+      "costPerHa": 610.3,
+      "fieldCount": 15,
+      "production": 1813.08,
+      "totalCost": 144945.74,
+      "benchmark": 58.48,
+      "yield": { "magnitude": 7.63, "dimension": "t/ha" },
+      "marketRange": {
+        "min": 33.08,
+        "median": 62.79,
+        "max": 121.91,
+        "percentile25": 54.99,
+        "percentile75": 71.35
+      },
+      "categories": [
+        {
+          "category": "yield",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "min": 6.1,
+            "median": 9.6,
+            "max": 12.63,
+            "percentile25": 8.63,
+            "percentile75": 10.32
+          }
+        },
+        {
+          "category": "seed",
+          "costPerHa": 85.08,
+          "cop": 11.14,
+          "marketBenchmark": {
+            "min": 4.05,
+            "max": 14.0,
+            "median": 8.21,
+            "percentile25": 6.51,
+            "percentile75": 9.79
+          }
+        },
+        {
+          "category": "fertiliser",
+          "costPerHa": 205.73,
+          "cop": 26.95,
+          "marketBenchmark": {
+            "min": 12.28,
+            "max": 39.67,
+            "median": 26.94,
+            "percentile25": 20.88,
+            "percentile75": 35.34
+          }
+        },
+        {
+          "category": "adjuvant",
+          "costPerHa": 25.06,
+          "cop": 3.28,
+          "marketBenchmark": {
+            "max": 3.19,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "anti-foam",
+          "costPerHa": 0.14,
+          "cop": 0.02,
+          "marketBenchmark": {
+            "max": 0.04,
+            "min": 0.02
+          }
+        },
+        {
+          "category": "fungicide",
+          "costPerHa": 120.36,
+          "cop": 15.77,
+          "marketBenchmark": {
+            "max": 17.54,
+            "min": 5.1
+          }
+        },
+        {
+          "category": "herbicide",
+          "costPerHa": 144.66,
+          "cop": 18.95,
+          "marketBenchmark": {
+            "max": 21.41,
+            "min": 1.46
+          }
+        },
+        {
+          "category": "insecticide",
+          "costPerHa": 1.79,
+          "cop": 0.23,
+          "marketBenchmark": {
+            "max": 0.81,
+            "min": 0.0
+          }
+        },
+        {
+          "category": "molluscicide",
+          "costPerHa": 5.49,
+          "cop": 0.72,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "plant growth regulator",
+          "costPerHa": 12.3,
+          "cop": 1.61,
+          "marketBenchmark": {
+            "max": 3.12,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "trace element",
+          "costPerHa": 21.95,
+          "cop": 3.34,
+          "marketBenchmark": {
+            "max": 5.83,
+            "min": 0.04
+          }
+        },
+        {
+          "category": "total chemical",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 45.5,
+            "min": 11.69
+          }
+        }
+      ]
+    },
+    {
+      "cropId": 303,
+      "year": 2022,
+      "groupId": 3,
+      "area": 173.6,
+      "cop": 159.64,
+      "costPerHa": 505.66,
+      "fieldCount": 6,
+      "production": 549.88,
+      "totalCost": 87782.36,
+      "benchmark": 139.06,
+      "yield": { "magnitude": 3.17, "dimension": "t/ha" },
+      "marketRange": {
+        "min": 37.82,
+        "median": 62.8,
+        "max": 128.57,
+        "percentile25": 51.55,
+        "percentile75": 71.15
+      },
+      "categories": [
+        {
+          "category": "yield",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 4.68,
+            "min": 1.55
+          }
+        },
+        {
+          "category": "seed",
+          "costPerHa": 52.22,
+          "cop": 16.49,
+          "marketBenchmark": {
+            "max": 79.96,
+            "min": 4.28
+          }
+        },
+        {
+          "category": "fertiliser",
+          "costPerHa": 248.38,
+          "cop": 78.42,
+          "marketBenchmark": {
+            "max": 103.55,
+            "min": 32.19
+          }
+        },
+        {
+          "category": "adjuvant",
+          "costPerHa": 4.64,
+          "cop": 1.46,
+          "marketBenchmark": {
+            "max": 3.19,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "anti-foam",
+          "costPerHa": 0.27,
+          "cop": 0.09,
+          "marketBenchmark": {
+            "max": 0.04,
+            "min": 0.02
+          }
+        },
+        {
+          "category": "fungicide",
+          "costPerHa": 52.84,
+          "cop": 16.68,
+          "marketBenchmark": {
+            "max": 17.54,
+            "min": 5.1
+          }
+        },
+        {
+          "category": "herbicide",
+          "costPerHa": 107.04,
+          "cop": 33.8,
+          "marketBenchmark": {
+            "max": 53.36,
+            "min": 1.46
+          }
+        },
+        {
+          "category": "insecticide",
+          "costPerHa": 5.87,
+          "cop": 1.85,
+          "marketBenchmark": {
+            "max": 13.39,
+            "min": 0.43
+          }
+        },
+        {
+          "category": "molluscicide",
+          "costPerHa": 9.58,
+          "cop": 3.02,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "foliar fertiliser",
+          "costPerHa": 0.2,
+          "cop": 0.06,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "pod sealant",
+          "costPerHa": 8.76,
+          "cop": 2.77,
+          "marketBenchmark": {
+            "max": 2.39,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "trace element",
+          "costPerHa": 15.86,
+          "cop": 5.01,
+          "marketBenchmark": {
+            "max": 20.61,
+            "min": 0.11
+          }
+        },
+        {
+          "category": "total chemical",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 108.36,
+            "min": 22.75
+          }
+        }
+      ]
+    },
+    {
+      "cropId": 303,
+      "year": 2022,
+      "groupId": 2,
+      "area": 173.6,
+      "cop": 167.9,
+      "costPerHa": 464.03,
+      "fieldCount": 6,
+      "production": 549.88,
+      "totalCost": 87782.36,
+      "benchmark": 139.06,
+      "yield": { "magnitude": 2.76, "dimension": "t/ha" },
+      "marketRange": {
+        "min": 37.82,
+        "median": 62.8,
+        "max": 128.57,
+        "percentile25": 51.55,
+        "percentile75": 71.15
+      },
+      "categories": [
+        {
+          "category": "yield",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 4.68,
+            "min": 1.55
+          }
+        },
+        {
+          "category": "seed",
+          "costPerHa": 27.75,
+          "cop": 16.49,
+          "marketBenchmark": {
+            "max": 79.96,
+            "min": 4.28
+          }
+        },
+        {
+          "category": "fertiliser",
+          "costPerHa": 247.32,
+          "cop": 78.42,
+          "marketBenchmark": {
+            "max": 103.55,
+            "min": 32.19
+          }
+        },
+        {
+          "category": "adjuvant",
+          "costPerHa": 3.68,
+          "cop": 1.46,
+          "marketBenchmark": {
+            "max": 3.19,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "anti-foam",
+          "costPerHa": 0.19,
+          "cop": 0.09,
+          "marketBenchmark": {
+            "max": 0.04,
+            "min": 0.02
+          }
+        },
+        {
+          "category": "fungicide",
+          "costPerHa": 55.01,
+          "cop": 16.68,
+          "marketBenchmark": {
+            "max": 17.54,
+            "min": 5.1
+          }
+        },
+        {
+          "category": "herbicide",
+          "costPerHa": 93.79,
+          "cop": 33.8,
+          "marketBenchmark": {
+            "max": 53.36,
+            "min": 1.46
+          }
+        },
+        {
+          "category": "insecticide",
+          "costPerHa": 5.5,
+          "cop": 1.85,
+          "marketBenchmark": {
+            "max": 13.39,
+            "min": 0.43
+          }
+        },
+        {
+          "category": "molluscicide",
+          "costPerHa": 5.7,
+          "cop": 3.02,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "foliar fertiliser",
+          "costPerHa": 0.13,
+          "cop": 0.06,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "plant growth regulator",
+          "costPerHa": 10.88,
+          "cop": 1.65,
+          "marketBenchmark": {
+            "max": 2.39,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "pod sealant",
+          "costPerHa": 9.26,
+          "cop": 2.77,
+          "marketBenchmark": {
+            "max": 2.39,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "trace element",
+          "costPerHa": 15.72,
+          "cop": 5.01,
+          "marketBenchmark": {
+            "max": 20.61,
+            "min": 0.11
+          }
+        },
+        {
+          "category": "total chemical",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 108.36,
+            "min": 22.75
+          }
+        }
+      ]
+    },
+    {
+      "cropId": 303,
+      "year": 2022,
+      "groupId": 4,
+      "area": 173.6,
+      "cop": 95.87,
+      "costPerHa": 307.08,
+      "fieldCount": 6,
+      "production": 549.88,
+      "totalCost": 87782.36,
+      "benchmark": 139.06,
+      "yield": { "magnitude": 3.2, "dimension": "t/ha" },
+      "marketRange": {
+        "min": 37.82,
+        "median": 62.8,
+        "max": 128.57,
+        "percentile25": 51.55,
+        "percentile75": 71.15
+      },
+      "categories": [
+        {
+          "category": "yield",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 4.68,
+            "min": 1.55
+          }
+        },
+        {
+          "category": "seed",
+          "costPerHa": 44.39,
+          "cop": 16.49,
+          "marketBenchmark": {
+            "max": 79.96,
+            "min": 4.28
+          }
+        },
+        {
+          "category": "fertiliser",
+          "costPerHa": 159.37,
+          "cop": 78.42,
+          "marketBenchmark": {
+            "max": 103.55,
+            "min": 32.19
+          }
+        },
+        {
+          "category": "adjuvant",
+          "costPerHa": 6.79,
+          "cop": 1.46,
+          "marketBenchmark": {
+            "max": 3.19,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "anti-foam",
+          "costPerHa": 0,
+          "cop": 0.09,
+          "marketBenchmark": {
+            "max": 0.04,
+            "min": 0.02
+          }
+        },
+        {
+          "category": "fungicide",
+          "costPerHa": 29.73,
+          "cop": 16.68,
+          "marketBenchmark": {
+            "max": 17.54,
+            "min": 5.1
+          }
+        },
+        {
+          "category": "herbicide",
+          "costPerHa": 40.81,
+          "cop": 33.8,
+          "marketBenchmark": {
+            "max": 53.36,
+            "min": 1.46
+          }
+        },
+        {
+          "category": "insecticide",
+          "costPerHa": 0,
+          "cop": 1.85,
+          "marketBenchmark": {
+            "max": 13.39,
+            "min": 0.43
+          }
+        },
+        {
+          "category": "molluscicide",
+          "costPerHa": 3,
+          "cop": 3.02,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "foliar fertiliser",
+          "costPerHa": 0,
+          "cop": 0.06,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "plant growth regulator",
+          "costPerHa": 0,
+          "cop": 1.65,
+          "marketBenchmark": {
+            "max": 2.39,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "pod sealant",
+          "costPerHa": 1.88,
+          "cop": 2.77,
+          "marketBenchmark": {
+            "max": 2.39,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "trace element",
+          "costPerHa": 21.11,
+          "cop": 5.01,
+          "marketBenchmark": {
+            "max": 20.61,
+            "min": 0.11
+          }
+        },
+        {
+          "category": "total chemical",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 108.36,
+            "min": 22.75
+          }
+        }
+      ]
+    },
+    {
+      "cropId": 303,
+      "year": 2021,
+      "groupId": 2,
+      "area": 173.6,
+      "cop": 116.62,
+      "costPerHa": 321.92,
+      "fieldCount": 6,
+      "production": 549.88,
+      "totalCost": 87782.36,
+      "benchmark": 139.06,
+      "yield": { "magnitude": 2.76, "dimension": "t/ha" },
+      "marketRange": {
+        "min": 37.82,
+        "median": 62.8,
+        "max": 128.57,
+        "percentile25": 51.55,
+        "percentile75": 71.15
+      },
+      "categories": [
+        {
+          "category": "yield",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 4.68,
+            "min": 1.55
+          }
+        },
+        {
+          "category": "seed",
+          "costPerHa": 29.47,
+          "cop": 16.49,
+          "marketBenchmark": {
+            "max": 79.96,
+            "min": 4.28
+          }
+        },
+        {
+          "category": "fertiliser",
+          "costPerHa": 204.34,
+          "cop": 78.42,
+          "marketBenchmark": {
+            "max": 103.55,
+            "min": 32.19
+          }
+        },
+        {
+          "category": "adjuvant",
+          "costPerHa": 2.57,
+          "cop": 1.46,
+          "marketBenchmark": {
+            "max": 3.19,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "anti-foam",
+          "costPerHa": 0.16,
+          "cop": 0.09,
+          "marketBenchmark": {
+            "max": 0.04,
+            "min": 0.02
+          }
+        },
+        {
+          "category": "fungicide",
+          "costPerHa": 27.93,
+          "cop": 16.68,
+          "marketBenchmark": {
+            "max": 17.54,
+            "min": 5.1
+          }
+        },
+        {
+          "category": "herbicide",
+          "costPerHa": 43.95,
+          "cop": 33.8,
+          "marketBenchmark": {
+            "max": 53.36,
+            "min": 1.46
+          }
+        },
+        {
+          "category": "insecticide",
+          "costPerHa": 1.11,
+          "cop": 1.85,
+          "marketBenchmark": {
+            "max": 13.39,
+            "min": 0.43
+          }
+        },
+        {
+          "category": "molluscicide",
+          "costPerHa": 2.9,
+          "cop": 3.02,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "other chemical",
+          "costPerHa": 1.95,
+          "cop": 0.06,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "plant growth regulator",
+          "costPerHa": 0,
+          "cop": 1.65,
+          "marketBenchmark": {
+            "max": 2.39,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "pod sealant",
+          "costPerHa": 0.66,
+          "cop": 2.77,
+          "marketBenchmark": {
+            "max": 2.39,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "trace element",
+          "costPerHa": 6.88,
+          "cop": 5.01,
+          "marketBenchmark": {
+            "max": 20.61,
+            "min": 0.11
+          }
+        },
+        {
+          "category": "total chemical",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 108.36,
+            "min": 22.75
+          }
+        }
+      ]
+    },
+    {
+      "cropId": 303,
+      "year": 2021,
+      "groupId": 4,
+      "area": 173.6,
+      "cop": 79.56,
+      "costPerHa": 375.74,
+      "fieldCount": 6,
+      "production": 549.88,
+      "totalCost": 87782.36,
+      "benchmark": 139.06,
+      "yield": { "magnitude": 4.72, "dimension": "t/ha" },
+      "marketRange": {
+        "min": 37.82,
+        "median": 62.8,
+        "max": 128.57,
+        "percentile25": 51.55,
+        "percentile75": 71.15
+      },
+      "categories": [
+        {
+          "category": "yield",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 4.68,
+            "min": 1.55
+          }
+        },
+        {
+          "category": "seed",
+          "costPerHa": 23.92,
+          "cop": 16.49,
+          "marketBenchmark": {
+            "max": 79.96,
+            "min": 4.28
+          }
+        },
+        {
+          "category": "fertiliser",
+          "costPerHa": 237.85,
+          "cop": 78.42,
+          "marketBenchmark": {
+            "max": 103.55,
+            "min": 32.19
+          }
+        },
+        {
+          "category": "adjuvant",
+          "costPerHa": 1.43,
+          "cop": 1.46,
+          "marketBenchmark": {
+            "max": 3.19,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "anti-foam",
+          "costPerHa": 0,
+          "cop": 0.09,
+          "marketBenchmark": {
+            "max": 0.04,
+            "min": 0.02
+          }
+        },
+        {
+          "category": "fungicide",
+          "costPerHa": 39.91,
+          "cop": 16.68,
+          "marketBenchmark": {
+            "max": 17.54,
+            "min": 5.1
+          }
+        },
+        {
+          "category": "herbicide",
+          "costPerHa": 38.9,
+          "cop": 33.8,
+          "marketBenchmark": {
+            "max": 53.36,
+            "min": 1.46
+          }
+        },
+        {
+          "category": "insecticide",
+          "costPerHa": 4.27,
+          "cop": 1.85,
+          "marketBenchmark": {
+            "max": 13.39,
+            "min": 0.43
+          }
+        },
+        {
+          "category": "molluscicide",
+          "costPerHa": 3.4,
+          "cop": 3.02,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "other chemical",
+          "costPerHa": 0,
+          "cop": 0.06,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "plant growth regulator",
+          "costPerHa": 16.14,
+          "cop": 1.65,
+          "marketBenchmark": {
+            "max": 2.39,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "pod sealant",
+          "costPerHa": 0,
+          "cop": 2.77,
+          "marketBenchmark": {
+            "max": 2.39,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "trace element",
+          "costPerHa": 9.92,
+          "cop": 5.01,
+          "marketBenchmark": {
+            "max": 20.61,
+            "min": 0.11
+          }
+        },
+        {
+          "category": "total chemical",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 108.36,
+            "min": 22.75
+          }
+        }
+      ]
+    },
+    {
+      "cropId": 303,
+      "year": 2020,
+      "groupId": 2,
+      "area": 173.6,
+      "cop": 110.21,
+      "costPerHa": 485.97,
+      "fieldCount": 6,
+      "production": 549.88,
+      "totalCost": 87782.36,
+      "benchmark": 139.06,
+      "yield": { "magnitude": 4.41, "dimension": "t/ha" },
+      "marketRange": {
+        "min": 37.82,
+        "median": 62.8,
+        "max": 128.57,
+        "percentile25": 51.55,
+        "percentile75": 71.15
+      },
+      "categories": [
+        {
+          "category": "yield",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 4.68,
+            "min": 1.55
+          }
+        },
+        {
+          "category": "seed",
+          "costPerHa": 42.37,
+          "cop": 16.49,
+          "marketBenchmark": {
+            "max": 79.96,
+            "min": 4.28
+          }
+        },
+        {
+          "category": "fertiliser",
+          "costPerHa": 218.33,
+          "cop": 78.42,
+          "marketBenchmark": {
+            "max": 103.55,
+            "min": 32.19
+          }
+        },
+        {
+          "category": "adjuvant",
+          "costPerHa": 5.14,
+          "cop": 1.46,
+          "marketBenchmark": {
+            "max": 3.19,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "biostimulants",
+          "costPerHa": 4.71,
+          "cop": 1.46,
+          "marketBenchmark": {
+            "max": 3.19,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "anti-foam",
+          "costPerHa": 0.16,
+          "cop": 0.09,
+          "marketBenchmark": {
+            "max": 0.04,
+            "min": 0.02
+          }
+        },
+        {
+          "category": "fungicide",
+          "costPerHa": 78.15,
+          "cop": 16.68,
+          "marketBenchmark": {
+            "max": 17.54,
+            "min": 5.1
+          }
+        },
+        {
+          "category": "herbicide",
+          "costPerHa": 83.27,
+          "cop": 33.8,
+          "marketBenchmark": {
+            "max": 53.36,
+            "min": 1.46
+          }
+        },
+        {
+          "category": "insecticide",
+          "costPerHa": 7.15,
+          "cop": 1.85,
+          "marketBenchmark": {
+            "max": 13.39,
+            "min": 0.43
+          }
+        },
+        {
+          "category": "molluscicide",
+          "costPerHa": 7.54,
+          "cop": 3.02,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "foliar fertiliser",
+          "costPerHa": 0.52,
+          "cop": 0.06,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "plant growth regulator",
+          "costPerHa": 0,
+          "cop": 1.65,
+          "marketBenchmark": {
+            "max": 2.39,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "pod sealant",
+          "costPerHa": 11.44,
+          "cop": 2.77,
+          "marketBenchmark": {
+            "max": 2.39,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "trace element",
+          "costPerHa": 27.36,
+          "cop": 5.01,
+          "marketBenchmark": {
+            "max": 20.61,
+            "min": 0.11
+          }
+        },
+        {
+          "category": "total chemical",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 108.36,
+            "min": 22.75
+          }
+        }
+      ]
+    },
+    {
+      "cropId": 303,
+      "year": 2020,
+      "groupId": 4,
+      "area": 173.6,
+      "cop": 93.24,
+      "costPerHa": 294.61,
+      "fieldCount": 6,
+      "production": 549.88,
+      "totalCost": 87782.36,
+      "benchmark": 139.06,
+      "yield": { "magnitude": 3.16, "dimension": "t/ha" },
+      "marketRange": {
+        "min": 37.82,
+        "median": 62.8,
+        "max": 128.57,
+        "percentile25": 51.55,
+        "percentile75": 71.15
+      },
+      "categories": [
+        {
+          "category": "yield",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 4.68,
+            "min": 1.55
+          }
+        },
+        {
+          "category": "seed",
+          "costPerHa": 66.55,
+          "cop": 16.49,
+          "marketBenchmark": {
+            "max": 79.96,
+            "min": 4.28
+          }
+        },
+        {
+          "category": "fertiliser",
+          "costPerHa": 105.48,
+          "cop": 78.42,
+          "marketBenchmark": {
+            "max": 103.55,
+            "min": 32.19
+          }
+        },
+        {
+          "category": "adjuvant",
+          "costPerHa": 0.48,
+          "cop": 1.46,
+          "marketBenchmark": {
+            "max": 3.19,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "anti-foam",
+          "costPerHa": 0,
+          "cop": 0.09,
+          "marketBenchmark": {
+            "max": 0.04,
+            "min": 0.02
+          }
+        },
+        {
+          "category": "fungicide",
+          "costPerHa": 29.35,
+          "cop": 16.68,
+          "marketBenchmark": {
+            "max": 17.54,
+            "min": 5.1
+          }
+        },
+        {
+          "category": "herbicide",
+          "costPerHa": 87.7,
+          "cop": 33.8,
+          "marketBenchmark": {
+            "max": 53.36,
+            "min": 1.46
+          }
+        },
+        {
+          "category": "insecticide",
+          "costPerHa": 4.96,
+          "cop": 1.85,
+          "marketBenchmark": {
+            "max": 13.39,
+            "min": 0.43
+          }
+        },
+        {
+          "category": "molluscicide",
+          "costPerHa": 0,
+          "cop": 3.02,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "other chemical",
+          "costPerHa": 0,
+          "cop": 0.06,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "plant growth regulator",
+          "costPerHa": 0,
+          "cop": 1.65,
+          "marketBenchmark": {
+            "max": 2.39,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "pod sealant",
+          "costPerHa": 0,
+          "cop": 2.77,
+          "marketBenchmark": {
+            "max": 2.39,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "trace element",
+          "costPerHa": 0,
+          "cop": 5.01,
+          "marketBenchmark": {
+            "max": 20.61,
+            "min": 0.11
+          }
+        },
+        {
+          "category": "total chemical",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 108.36,
+            "min": 22.75
+          }
+        }
+      ]
+    },
+    {
+      "cropId": 300,
+      "year": 2021,
+      "groupId": 3,
+      "area": 87.1,
+      "cop": 90.73,
+      "costPerHa": 505.35,
+      "fieldCount": 6,
+      "production": 485.12,
+      "totalCost": 44015.96,
+      "benchmark": 64.61,
+      "yield": { "magnitude": 5.57, "dimension": "t/ha" },
+      "marketRange": {
+        "min": 37.82,
+        "median": 62.8,
+        "max": 128.57,
+        "percentile25": 51.55,
+        "percentile75": 71.15
+      },
+      "categories": [
+        {
+          "category": "yield",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 11.53,
+            "min": 1.76
+          }
+        },
+        {
+          "category": "seed",
+          "costPerHa": 76.27,
+          "cop": 13.69,
+          "marketBenchmark": {
+            "max": 59.79,
+            "min": 3.84
+          }
+        },
+        {
+          "category": "fertiliser",
+          "costPerHa": 273.91,
+          "cop": 49.18,
+          "marketBenchmark": {
+            "max": 128.19,
+            "min": 7.81
+          }
+        },
+        {
+          "category": "adjuvant",
+          "costPerHa": 4.01,
+          "cop": 0.72,
+          "marketBenchmark": {
+            "max": 28.84,
+            "min": 0.01
+          }
+        },
+        {
+          "category": "fungicide",
+          "costPerHa": 59.18,
+          "cop": 10.63,
+          "marketBenchmark": {
+            "max": 17.54,
+            "min": 5.1
+          }
+        },
+        {
+          "category": "herbicide",
+          "costPerHa": 56.92,
+          "cop": 10.22,
+          "marketBenchmark": {
+            "max": 21.41,
+            "min": 1.46
+          }
+        },
+        {
+          "category": "molluscicide",
+          "costPerHa": 9.88,
+          "cop": 1.77,
+          "marketBenchmark": {
+            "max": 12.88,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "plant growth regulator",
+          "costPerHa": 8.25,
+          "cop": 1.48,
+          "marketBenchmark": {
+            "max": 2.39,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "trace element",
+          "costPerHa": 16.93,
+          "cop": 3.04,
+          "marketBenchmark": {
+            "max": 5.83,
+            "min": 0.04
+          }
+        },
+        {
+          "category": "total chemical",
+          "costPerHa": 155.17,
+          "cop": 27.86,
+          "marketBenchmark": {
+            "max": 65.53,
+            "min": 8.84
+          }
+        }
+      ]
+    },
+    {
+      "cropId": 303,
+      "year": 2021,
+      "groupId": 3,
+      "area": 123,
+      "cop": 107.35,
+      "costPerHa": 351.17,
+      "fieldCount": 9,
+      "production": 402.36,
+      "totalCost": 43193.98,
+      "benchmark": 139.06,
+      "yield": { "magnitude": 3.27, "dimension": "t/ha" },
+      "marketRange": {
+        "min": 37.82,
+        "median": 62.8,
+        "max": 128.57,
+        "percentile25": 51.55,
+        "percentile75": 71.15
+      },
+      "categories": [
+        {
+          "category": "yield",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 4.84,
+            "min": 0.44
+          }
+        },
+        {
+          "category": "seed",
+          "costPerHa": 27.38,
+          "cop": 8.37,
+          "marketBenchmark": {
+            "max": 197.22,
+            "min": 5.07
+          }
+        },
+        {
+          "category": "fertiliser",
+          "costPerHa": 220.29,
+          "cop": 67.34,
+          "marketBenchmark": {
+            "max": 280.58,
+            "min": 19.69
+          }
+        },
+        {
+          "category": "adjuvant",
+          "costPerHa": 3.0,
+          "cop": 0.92,
+          "marketBenchmark": {
+            "max": 43.77,
+            "min": 0.09
+          }
+        },
+        {
+          "category": "anti-foam",
+          "costPerHa": 0.17,
+          "cop": 0.05,
+          "marketBenchmark": {
+            "max": 0.06,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "fungicide",
+          "costPerHa": 36.43,
+          "cop": 11.14,
+          "marketBenchmark": {
+            "max": 62.06,
+            "min": 5.36
+          }
+        },
+        {
+          "category": "herbicide",
+          "costPerHa": 49.74,
+          "cop": 15.21,
+          "marketBenchmark": {
+            "max": 256.81,
+            "min": 4.34
+          }
+        },
+        {
+          "category": "insecticide",
+          "costPerHa": 1.73,
+          "cop": 0.53,
+          "marketBenchmark": {
+            "max": 70.55,
+            "min": 0.02
+          }
+        },
+        {
+          "category": "molluscicide",
+          "costPerHa": 2.24,
+          "cop": 0.68,
+          "marketBenchmark": {
+            "max": 40.74,
+            "min": 0.27
+          }
+        },
+        {
+          "category": "trace element",
+          "costPerHa": 8.2,
+          "cop": 2.51,
+          "marketBenchmark": {
+            "max": 41.59,
+            "min": 0.13
+          }
+        },
+        {
+          "category": "pod sealant",
+          "costPerHa": 1.99,
+          "cop": 0.61,
+          "marketBenchmark": {
+            "max": 41.59,
+            "min": 0.13
+          }
+        },
+        {
+          "category": "total chemical",
+          "costPerHa": 103.5,
+          "cop": 31.65,
+          "marketBenchmark": {
+            "max": 430.14,
+            "min": 15.91
+          }
+        }
+      ]
+    },
+    {
+      "cropId": 300,
+      "year": 2020,
+      "groupId": 3,
+      "area": 145.9,
+      "cop": 54.97,
+      "costPerHa": 633.29,
+      "fieldCount": 10,
+      "production": 1680.93,
+      "totalCost": 92396.6,
+      "benchmark": 53.63,
+      "yield": { "magnitude": 11.52, "dimension": "t/ha" },
+      "marketRange": {
+        "min": 33.08,
+        "median": 62.79,
+        "max": 121.91,
+        "percentile25": 54.99,
+        "percentile75": 71.35
+      },
+      "categories": [
+        {
+          "category": "yield",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 12.98,
+            "min": 4.16
+          }
+        },
+        {
+          "category": "seed",
+          "costPerHa": 59.75,
+          "cop": 5.19,
+          "marketBenchmark": {
+            "max": 22.64,
+            "min": 3.23
+          }
+        },
+        {
+          "category": "fertiliser",
+          "costPerHa": 222.72,
+          "cop": 19.33,
+          "marketBenchmark": {
+            "max": 51.03,
+            "min": 8.8
+          }
+        },
+        {
+          "category": "adjuvant",
+          "costPerHa": 8.89,
+          "cop": 0.77,
+          "marketBenchmark": {
+            "max": 2.12,
+            "min": 0.0,
+            "median": 0.41,
+            "percentile25": 0.17,
+            "percentile75": 0.95
+          }
+        },
+        {
+          "category": "fungicide",
+          "costPerHa": 156.9,
+          "cop": 13.63,
+          "marketBenchmark": {
+            "max": 17.54,
+            "min": 5.1
+          }
+        },
+        {
+          "category": "herbicide",
+          "costPerHa": 119.93,
+          "cop": 10.41,
+          "marketBenchmark": {
+            "max": 21.41,
+            "min": 1.46
+          }
+        },
+        {
+          "category": "insecticide",
+          "costPerHa": 5.15,
+          "cop": 0.45,
+          "marketBenchmark": {
+            "max": 0.81,
+            "min": 0.0
+          }
+        },
+        {
+          "category": "molluscicide",
+          "costPerHa": 1.78,
+          "cop": 0.15,
+          "marketBenchmark": {
+            "max": 3.17,
+            "min": 0.03
+          }
+        },
+        {
+          "category": "plant growth regulator",
+          "costPerHa": 24.89,
+          "cop": 2.16,
+          "marketBenchmark": {
+            "max": 2.39,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "trace element",
+          "costPerHa": 33.1,
+          "cop": 2.87,
+          "marketBenchmark": {
+            "max": 5.83,
+            "min": 0.04
+          }
+        },
+        {
+          "category": "foliar fertiliser",
+          "costPerHa": 0.11,
+          "cop": 0.11,
+          "marketBenchmark": {
+            "max": 5.83,
+            "min": 0.04
+          }
+        },
+        {
+          "category": "total chemical",
+          "costPerHa": 350.83,
+          "cop": 30.45,
+          "marketBenchmark": {
+            "max": 56.57,
+            "min": 7.21
+          }
+        }
+      ]
+    },
+    {
+      "cropId": 303,
+      "year": 2020,
+      "groupId": 3,
+      "area": 188.2,
+      "cop": 100.04,
+      "costPerHa": 466.45,
+      "fieldCount": 14,
+      "production": 877.48,
+      "totalCost": 87785.38,
+      "benchmark": 157.27,
+      "yield": { "magnitude": 4.66, "dimension": "t/ha" },
+      "marketRange": {
+        "min": 76.14,
+        "max": 631.37
+      },
+      "categories": [
+        {
+          "category": "yield",
+          "costPerHa": 0.0,
+          "cop": 0.0,
+          "marketBenchmark": {
+            "max": 4.94,
+            "min": 0.64
+          }
+        },
+        {
+          "category": "seed",
+          "costPerHa": 27.33,
+          "cop": 5.86,
+          "marketBenchmark": {
+            "max": 229.25,
+            "min": 3.68
+          }
+        },
+        {
+          "category": "fertiliser",
+          "costPerHa": 207.91,
+          "cop": 44.59,
+          "marketBenchmark": {
+            "max": 234.59,
+            "min": 25.88
+          }
+        },
+        {
+          "category": "adjuvant",
+          "costPerHa": 4.19,
+          "cop": 0.9,
+          "marketBenchmark": {
+            "max": 8.44,
+            "min": 0.09
+          }
+        },
+        {
+          "category": "biostimulant",
+          "costPerHa": 5.59,
+          "cop": 1.2,
+          "marketBenchmark": {
+            "max": 5.06,
+            "min": 0.33
+          }
+        },
+        {
+          "category": "fungicide",
+          "costPerHa": 83.26,
+          "cop": 17.86,
+          "marketBenchmark": {
+            "max": 33.65,
+            "min": 2.36
+          }
+        },
+        {
+          "category": "foliar fertiliser",
+          "costPerHa": 0.29,
+          "cop": 0.06,
+          "marketBenchmark": {
+            "max": 6.1,
+            "min": 0.06
+          }
+        },
+        {
+          "category": "herbicide",
+          "costPerHa": 85,
+          "cop": 18.23,
+          "marketBenchmark": {
+            "max": 256.81,
+            "min": 4.34
+          }
+        },
+        {
+          "category": "insecticide",
+          "costPerHa": 7.09,
+          "cop": 1.52,
+          "marketBenchmark": {
+            "max": 70.55,
+            "min": 0.02
+          }
+        },
+        {
+          "category": "molluscicide",
+          "costPerHa": 5.46,
+          "cop": 1.17,
+          "marketBenchmark": {
+            "max": 15.03,
+            "min": 0.08
+          }
+        },
+        {
+          "category": "trace element",
+          "costPerHa": 28.82,
+          "cop": 6.18,
+          "marketBenchmark": {
+            "max": 12.07,
+            "min": 0.22
+          }
+        },
+        {
+          "category": "pod sealant",
+          "costPerHa": 11.5,
+          "cop": 2.47,
+          "marketBenchmark": {
+            "max": 13.42,
+            "min": 0.65
+          }
+        },
+        {
+          "category": "total chemical",
+          "costPerHa": 231.2,
+          "cop": 49.59,
+          "marketBenchmark": {
+            "max": 302.11,
+            "min": 19.01
+          }
+        }
+      ]
+    }
+  ]
+}

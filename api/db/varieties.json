@@ -1,0 +1,89 @@
+{
+  "varieties": [
+    {
+      "id": 260,
+      "name": "Elgar",
+      "cropId": 303
+    },
+    {
+      "id": 266,
+      "name": "Acacia",
+      "cropId": 303
+    },
+    {
+      "id": 286,
+      "name": "Aardvark",
+      "cropId": 303
+    },
+    {
+      "id": 310,
+      "name": "Edgar",
+      "cropId": 300
+    },
+    {
+      "id": 325,
+      "name": "Zulu",
+      "cropId": 300
+    },
+    {
+      "id": 342,
+      "name": "KWS Orwell",
+      "cropId": 301
+    },
+    {
+      "id": 348,
+      "name": "Django",
+      "cropId": 303
+    },
+    {
+      "id": 373,
+      "name": "Fuego",
+      "cropId": 302
+    },
+    {
+      "id": 385,
+      "name": "Aspire",
+      "cropId": 303
+    },
+    {
+      "id": 396,
+      "name": "Campus",
+      "cropId": 303
+    },
+    {
+      "id": 421,
+      "name": "KWS Basset",
+      "cropId": 300
+    },
+    {
+      "id": 443,
+      "name": "LG Cartouche",
+      "cropId": 302
+    },
+    {
+      "id": 461,
+      "name": "KWS Firefly",
+      "cropId": 300
+    },
+    {
+      "id": 466,
+      "name": "Elicit",
+      "cropId": 300
+    },
+    {
+      "id": 467,
+      "name": "KWS Extase",
+      "cropId": 300
+    },
+    {
+      "id": 681,
+      "name": "Lynx",
+      "cropId": 302
+    },
+    {
+      "id": 1184,
+      "name": "KWS Hawking",
+      "cropId": 301
+    }
+  ]
+}

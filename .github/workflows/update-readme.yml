@@ -1,0 +1,29 @@
+name: Update README URLs
+
+on:
+  create:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Update URLs in README
+        run: |
+          # Define the new repository URL using GitHub's environment variable
+          GITHUB_REPO_URL="https://github.com/${GITHUB_REPOSITORY}"
+
+          # Replace placeholders in README.md with actual URLs
+          sed -i "s|GITHUB_REPO_URL|${GITHUB_REPO_URL}|g" README.md
+
+          # Configure git with your name and email
+          git config --global user.name 'Sam Wells'
+          git config --global user.email 's.wells@yagro.com'
+
+          # Commit and push the changes
+          git add README.md
+          git commit -m "Update README URLs"
+          git push

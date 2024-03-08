@@ -1,0 +1,73 @@
+/*
+-------------------------------------------------------------------------------
+Link - Underline / Underlined
+-------------------------------------------------------------------------------
+Description
+This mixin assists in making styled links with animations.
+-------------------------------------------------------------------------------
+Usage
+@mixin link-underline;
+-------------------------------------------------------------------------------
+Reference
+https://github.com/postcss/postcss-mixins
+-------------------------------------------------------------------------------
+*/
+
+@define-mixin link-underline {
+  position: relative;
+
+  &::after {
+    position: absolute;
+    bottom: -0.1ch;
+    left: 0;
+    width: 100%;
+    border-top: 1px solid;
+    transform: scaleX(0);
+    transform-origin: right;
+    transition: transform var(--transition-fastest);
+    content: '';
+  }
+
+  @mixin hover {
+    color: var(--color-highlight);
+    cursor: pointer;
+
+    &::after {
+      transform: scaleX(1);
+      transform-origin: left;
+      transition: transform var(--transition-fastest);
+    }
+  }
+}
+
+@define-mixin link-underlined {
+  position: relative;
+  display: inline-block;
+  white-space: nowrap;
+
+  &::after {
+    position: absolute;
+    top: calc(100%);
+    left: 0;
+    width: 100%;
+    border-bottom: 1px solid;
+    transform: scaleY(1);
+    transform-origin: bottom;
+    transition: transform var(--transition-fastest);
+    content: '';
+  }
+
+  @mixin hover {
+    color: var(--color-highlight);
+    cursor: pointer;
+
+    &::after {
+      transform: scaleY(200%);
+      transition: transform var(--transition-fastest);
+    }
+  }
+}
+
+.link-underlined {
+  @mixin link-underlined;
+}

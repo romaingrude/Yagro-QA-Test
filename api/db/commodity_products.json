@@ -1,0 +1,39 @@
+{
+  "commodityProducts": [
+    {
+      "ticker": "LWX22",
+      "humanReadableName": "LCE Feed Wheat",
+      "currency": "GBP"
+    },
+    {
+      "ticker": "MLZ22",
+      "humanReadableName": "MATIF Milling Wheat",
+      "currency": "EUR"
+    },
+    {
+      "ticker": "XRG23",
+      "humanReadableName": "MATIF Rapeseed",
+      "currency": "EUR"
+    },
+    {
+      "ticker": "ZWY00",
+      "humanReadableName": "CBOT Wheat (Milling)",
+      "currency": "USD"
+    },
+    {
+      "ticker": "ZCY00",
+      "humanReadableName": "CBOT Corn",
+      "currency": "USD"
+    },
+    {
+      "ticker": "ZOY00",
+      "humanReadableName": "CBOT Oats",
+      "currency": "USD"
+    },
+    {
+      "ticker": "ZSY00",
+      "humanReadableName": "CBOT Soybean",
+      "currency": "USD"
+    }
+  ]
+}

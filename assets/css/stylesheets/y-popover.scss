@@ -1,0 +1,56 @@
+/*
+-------------------------------------------------------------------------------
+Y-Popover
+-------------------------------------------------------------------------------
+Description
+This is used to replicate a 'popover' component from Bootstrap.
+A separate CSS file is used as the component doesn't exist in Vue.
+-------------------------------------------------------------------------------
+@namespace: .y-popover
+-------------------------------------------------------------------------------
+*/
+
+.y-popover {
+  position: absolute;
+  z-index: 10000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  padding: 0.5rem;
+  font-size: 14px;
+  line-height: 1.1;
+  text-align: center;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-grey);
+  border-radius: 0.25rem;
+  pointer-events: none;
+
+  &:before {
+    position: absolute;
+    top: 100%;
+    left: calc(50% - 11px);
+    display: block;
+    width: 0;
+    height: 0;
+    border-top: 11px solid var(--color-grey);
+    border-right: 11px solid transparent;
+    border-left: 11px solid transparent;
+    content: '';
+  }
+
+  &:after {
+    position: absolute;
+    top: 100%;
+    left: calc(50% - 10px);
+    display: block;
+    width: 0;
+    height: 0;
+    border-top: 10px solid var(--color-white);
+    border-right: 10px solid transparent;
+    border-left: 10px solid transparent;
+    content: '';
+    drop-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  }
+}

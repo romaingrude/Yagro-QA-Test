@@ -1,0 +1,382 @@
+{
+  "trackerCrops": [
+    {
+      "groupId": 1,
+      "harvest_year": 2021,
+      "cropId": 300,
+      "fieldArea": 25.2,
+      "yield": {
+        "magnitude": 10,
+        "units": "t/ha",
+        "estimate": false,
+        "percentageChange": 9
+      },
+      "costPerHa": {
+        "cost": 174.32,
+        "percentageChange": 3
+      },
+      "avgPrice": {
+        "avgPrice": 150,
+        "percentageChange": -3
+      },
+      "salesData": {
+        "totalAmount": 400,
+        "soldAmount": 100,
+        "totalSale": 7800.4,
+        "contractedAmount": 0,
+        "dimension": "t"
+      }
+    },
+    {
+      "groupId": 1,
+      "harvest_year": 2023,
+      "cropId": 301,
+      "fieldArea": 25.2,
+      "yield": {
+        "magnitude": 10,
+        "units": "t/ha",
+        "estimate": false,
+        "percentageChange": -121
+      },
+      "costPerHa": {
+        "cost": 574.32,
+        "percentageChange": 13
+      },
+      "avgPrice": {
+        "avgPrice": 190,
+        "percentageChange": -3
+      },
+      "salesData": {
+        "totalAmount": 400,
+        "soldAmount": 140,
+        "totalSale": 7800.4,
+        "contractedAmount": 100,
+        "dimension": "t"
+      }
+    },
+    {
+      "groupId": 1,
+      "harvest_year": 2022,
+      "cropId": 304,
+      "fieldArea": 25.2,
+      "yield": {
+        "magnitude": 10,
+        "units": "t/ha",
+        "estimate": false,
+        "percentageChange": -29
+      },
+      "costPerHa": {
+        "cost": 211.32,
+        "percentageChange": 8
+      },
+      "avgPrice": {
+        "avgPrice": 666,
+        "percentageChange": 3
+      },
+      "salesData": {
+        "totalAmount": 400,
+        "soldAmount": 440,
+        "totalSale": 7800.4,
+        "contractedAmount": 0,
+        "dimension": "t"
+      }
+    },
+    {
+      "groupId": 1,
+      "harvest_year": 2021,
+      "cropId": 303,
+      "fieldArea": 25.2,
+      "yield": {
+        "magnitude": 10,
+        "units": "t/ha",
+        "estimate": false,
+        "percentageChange": -9
+      },
+      "costPerHa": {
+        "cost": 74.98,
+        "percentageChange": -129
+      },
+      "avgPrice": {
+        "avgPrice": 20,
+        "percentageChange": -9
+      },
+      "salesData": {
+        "totalAmount": 400,
+        "soldAmount": 200,
+        "totalSale": 7800.4,
+        "contractedAmount": 0,
+        "dimension": "t"
+      }
+    },
+    {
+      "groupId": 3,
+      "harvest_year": 2019,
+      "cropId": 300,
+      "fieldArea": 243.4,
+      "yield": {
+        "magnitude": 11.02,
+        "units": "t/ha",
+        "estimate": false,
+        "percentageChange": -9
+      },
+      "costPerHa": {
+        "cost": 613.43,
+        "percentageChange": -9
+      },
+      "avgPrice": {
+        "avgPrice": 165.71,
+        "percentageChange": 0
+      },
+      "salesData": {
+        "totalAmount": 1680.93,
+        "soldAmount": 1050,
+        "totalSale": 7800.4,
+        "contractedAmount": 0,
+        "dimension": "t"
+      }
+    },
+    {
+      "groupId": 3,
+      "harvest_year": 2019,
+      "cropId": 303,
+      "fieldArea": 111.3,
+      "yield": {
+        "magnitude": 4.38,
+        "units": "t/ha",
+        "estimate": false,
+        "percentageChange": 3
+      },
+      "costPerHa": {
+        "cost": 505.28,
+        "percentageChange": 2
+      },
+      "avgPrice": {
+        "avgPrice": 358.8,
+        "percentageChange": 0
+      },
+      "salesData": {
+        "totalAmount": 877.48,
+        "soldAmount": 540.0,
+        "totalSale": 0,
+        "contractedAmount": 0,
+        "dimension": "t"
+      }
+    },
+    {
+      "groupId": 3,
+      "harvest_year": 2020,
+      "cropId": 300,
+      "fieldArea": 145.9,
+      "yield": {
+        "magnitude": 11.52,
+        "units": "t/ha",
+        "estimate": false,
+        "percentageChange": -0
+      },
+      "costPerHa": {
+        "cost": 633.29,
+        "percentageChange": -8
+      },
+      "avgPrice": {
+        "avgPrice": 167.4,
+        "percentageChange": 0
+      },
+      "salesData": {
+        "totalAmount": 1680.93,
+        "soldAmount": 1050,
+        "totalSale": 7800.4,
+        "contractedAmount": 0,
+        "dimension": "t"
+      }
+    },
+    {
+      "groupId": 3,
+      "harvest_year": 2020,
+      "cropId": 303,
+      "fieldArea": 188.2,
+      "yield": {
+        "magnitude": 4.66,
+        "units": "t/ha",
+        "estimate": false,
+        "percentageChange": 8
+      },
+      "costPerHa": {
+        "cost": 466.45,
+        "percentageChange": -7
+      },
+      "avgPrice": {
+        "avgPrice": 359.47,
+        "percentageChange": 0
+      },
+      "salesData": {
+        "totalAmount": 877.48,
+        "soldAmount": 540.0,
+        "totalSale": 0,
+        "contractedAmount": 0,
+        "dimension": "t"
+      }
+    },
+    {
+      "groupId": 3,
+      "harvest_year": 2021,
+      "cropId": 300,
+      "fieldArea": 87.1,
+      "yield": {
+        "magnitude": 5.57,
+        "units": "t/ha",
+        "estimate": false,
+        "percentageChange": -52
+      },
+      "costPerHa": {
+        "cost": 505.35,
+        "percentageChange": -16
+      },
+      "avgPrice": {
+        "avgPrice": 167.4,
+        "percentageChange": 1
+      },
+      "salesData": {
+        "totalAmount": 485.12,
+        "soldAmount": 385,
+        "totalSale": 7800.4,
+        "contractedAmount": 0,
+        "dimension": "t"
+      }
+    },
+    {
+      "groupId": 3,
+      "harvest_year": 2021,
+      "cropId": 303,
+      "fieldArea": 123.0,
+      "yield": {
+        "magnitude": 3.27,
+        "units": "t/ha",
+        "estimate": false,
+        "percentageChange": -26
+      },
+      "costPerHa": {
+        "cost": 351.17,
+        "percentageChange": -28
+      },
+      "avgPrice": {
+        "avgPrice": 359.47,
+        "percentageChange": 0
+      },
+      "salesData": {
+        "totalAmount": 402.36,
+        "soldAmount": 380.0,
+        "totalSale": 0,
+        "contractedAmount": 0,
+        "dimension": "t"
+      }
+    },
+    {
+      "groupId": 3,
+      "harvest_year": 2022,
+      "cropId": 300,
+      "fieldArea": 237.5,
+      "yield": {
+        "magnitude": 7.63,
+        "units": "t/ha",
+        "estimate": false,
+        "percentageChange": -19
+      },
+      "costPerHa": {
+        "cost": 610.3,
+        "percentageChange": -4
+      },
+      "avgPrice": {
+        "avgPrice": 170.37,
+        "percentageChange": 2
+      },
+      "salesData": {
+        "totalAmount": 1813.08,
+        "soldAmount": 1610,
+        "totalSale": 7800.4,
+        "contractedAmount": 0,
+        "dimension": "t"
+      }
+    },
+    {
+      "groupId": 3,
+      "harvest_year": 2022,
+      "cropId": 303,
+      "fieldArea": 173.6,
+      "yield": {
+        "magnitude": 3.17,
+        "units": "t/ha",
+        "estimate": false,
+        "percentageChange": -23
+      },
+      "costPerHa": {
+        "cost": 505.66,
+        "percentageChange": -15
+      },
+      "avgPrice": {
+        "avgPrice": 415.92,
+        "percentageChange": 16
+      },
+      "salesData": {
+        "totalAmount": 549.88,
+        "soldAmount": 490,
+        "totalSale": 0,
+        "contractedAmount": 0,
+        "dimension": "t"
+      }
+    },
+    {
+      "groupId": 3,
+      "harvest_year": 2023,
+      "cropId": 300,
+      "fieldArea": 237.5,
+      "yield": {
+        "magnitude": 8.1,
+        "units": "t/ha",
+        "estimate": false,
+        "percentageChange": -2
+      },
+      "costPerHa": {
+        "cost": 609.09,
+        "percentageChange": -4
+      },
+      "avgPrice": {
+        "avgPrice": 177.49,
+        "percentageChange": 6
+      },
+      "salesData": {
+        "totalAmount": 1923.75,
+        "soldAmount": 0,
+        "totalSale": 7800.4,
+        "contractedAmount": 710.0,
+        "dimension": "t"
+      }
+    },
+    {
+      "groupId": 3,
+      "harvest_year": 2023,
+      "cropId": 303,
+      "fieldArea": 173.6,
+      "yield": {
+        "magnitude": 3.5,
+        "units": "t/ha",
+        "estimate": false,
+        "percentageChange": -5
+      },
+      "costPerHa": {
+        "cost": 570.22,
+        "percentageChange": -28
+      },
+      "avgPrice": {
+        "avgPrice": 429.23,
+        "percentageChange": 14
+      },
+      "salesData": {
+        "totalAmount": 587.6,
+        "soldAmount": 0,
+        "totalSale": 0,
+        "contractedAmount": 260.0,
+        "dimension": "t"
+      }
+    }
+  ]
+}

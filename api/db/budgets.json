@@ -1,0 +1,70 @@
+{
+  "budgets": [
+    {
+      "groupId": 1,
+      "cropId": 300,
+      "year": 2022,
+      "area": 200.0,
+      "seedCost": 90.0,
+      "fertiliserCost": 220.0,
+      "chemicalCost": 270.0,
+      "cropYield": 8.0,
+      "salePrice": 155.0
+    },
+    {
+      "groupId": 1,
+      "cropId": 301,
+      "year": 2022,
+      "area": 250.0,
+      "seedCost": 55,
+      "fertiliserCost": 200,
+      "chemicalCost": 250,
+      "cropYield": 10.0,
+      "salePrice": 150.0
+    },
+    {
+      "groupId": 3,
+      "cropId": 300,
+      "year": 2022,
+      "area": 250.0,
+      "seedCost": 85.0,
+      "fertiliserCost": 300.0,
+      "chemicalCost": 220,
+      "cropYield": 8.4,
+      "salePrice": 210.0
+    },
+    {
+      "groupId": 3,
+      "cropId": 303,
+      "year": 2022,
+      "area": 190.0,
+      "seedCost": 55.0,
+      "fertiliserCost": 250.0,
+      "chemicalCost": 200.0,
+      "cropYield": 3.5,
+      "salePrice": 425.0
+    },
+    {
+      "groupId": 3,
+      "cropId": 300,
+      "year": 2023,
+      "area": 240.0,
+      "seedCost": 90.0,
+      "fertiliserCost": 310.0,
+      "chemicalCost": 220.0,
+      "cropYield": 8.0,
+      "salePrice": 210.0
+    },
+    {
+      "groupId": 3,
+      "cropId": 303,
+      "year": 2023,
+      "area": 200.0,
+      "seedCost": 55.0,
+      "fertiliserCost": 270.0,
+      "chemicalCost": 220.0,
+      "cropYield": 3.5,
+      "salePrice": 425.0
+    }
+  ]
+}

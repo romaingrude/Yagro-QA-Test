@@ -1,0 +1,84 @@
+/*
+-------------------------------------------------------------------------------
+Colors
+-------------------------------------------------------------------------------
+Description
+Store colors here that you want to use in the project.
+-------------------------------------------------------------------------------
+*/
+
+$dark-green: #006838;
+$darker-green: #004f1f;
+$light-green: #8dc63f;
+
+$light-grey: #cac8cb;
+$dove-grey: #efeeef;
+$light-blue: #b4d0df;
+$medium-blue: #83b4e2;
+$cream: #ebe5ca;
+$peach: #e8ae84;
+$sun-yellow: #f6db00;
+$orange: #e7ac38;
+$burnt-orange: #d46317;
+$red: #bc4213;
+
+//Yagro Platform Colours
+$grey: #9d9d9d;
+$dark-grey: #555555;
+$white: #ffffff;
+$black: #000000;
+
+// Yagro Ag-grid Colours
+$odd-row-color: #f8f8f8;
+
+// Bootstrap colour override
+$theme-colors: (
+  'primary': $dark-green,
+  'secondary': $light-green,
+  'success': $light-green,
+  'info': $dove-grey,
+  'warning': $orange,
+  'danger': $red,
+  'light': $dove-grey,
+  'dark': $dark-grey,
+  'light-grey': $light-grey,
+  'dove-grey': $dove-grey,
+  'light-blue': $light-blue,
+  'medium-blue': $medium-blue,
+  'cream': $cream,
+  'peach': $peach,
+  'sun-yellow': $sun-yellow,
+  'orange': $orange,
+  'burnt-orange': $burnt-orange,
+  'red': $red,
+  'grey': $grey,
+  'dark-grey': $dark-grey,
+  'white': $white,
+);
+
+:root {
+  --primary-colour: #006838;
+  --secondary-colour: #8dc63f;
+  --primary-darker-colour: #004f1f;
+  --secondary-lighter-colour: #e6f0ec;
+
+  --color-white: #{$white};
+  --color-black: #{$black};
+  --color-grey: #{$grey};
+  --color-dove-grey: #{$dove-grey};
+
+  /* Structure */
+  --color-border: #dee2e6;
+  --color-table-odd-row: #f8f8f8;
+
+  /* Status */
+  --color-status-success: #28a745;
+  --color-status-danger: #ff0000;
+  --color-status-warning: #ffab00;
+  --color-status-info: #17a2b8;
+
+  --color-status-success-lightest: #f3fafb;
+  --color-status-danger-lightest: #fdf2f2;
+  --color-status-warning-lightest: #fefbf2;
+  --color-status-info-lightest: #f4faf5;
+}

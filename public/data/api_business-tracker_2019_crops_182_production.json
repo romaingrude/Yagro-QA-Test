@@ -1,0 +1,1 @@
+{ "summary": { "sales_total": "16309.600", "sold_amount": "85.840", "contracted_amount": 0, "contracted_value": 0, "contracted_sold": 0, "remaining_amount": "-85.840", "overall_avg_price": "190", "overall_min_price": "190", "overall_max_price": "190" }, "varieties": [{ "id": 1121, "name": "Fuego", "area": "15.1000" }, { "id": 1124, "name": "LG Cartouche", "area": "16.1000" }] }

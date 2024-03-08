@@ -1,0 +1,26 @@
+{
+  "production": {
+    "id": "production",
+    "graphqlApiUrl": "https://api.yag.ro/pygraphql/graphql",
+    "microserviceApiUrl": "https://yag.ro/api",
+    "webserviceApiUrl": "https://api.yag.ro"
+  },
+  "staging": {
+    "id": "staging",
+    "graphqlApiUrl": "https://api-staging.yag.ro/pygraphql/graphql",
+    "microserviceApiUrl": "https://staging.yag.ro/api",
+    "webserviceApiUrl": "https://api-staging.yag.ro"
+  },
+  "demo": {
+    "id": "demo",
+    "graphqlApiUrl": "http://localhost:3000",
+    "microserviceApiUrl": "http://localhost:3000",
+    "webserviceApiUrl": "http://localhost:3000"
+  },
+  "local-webservice": {
+    "id": "local-webservice",
+    "graphqlApiUrl": "http://localhost:9000",
+    "microserviceApiUrl": "http://localhost:9000",
+    "webserviceApiUrl": "http://localhost:9000"
+  }
+}

@@ -1,0 +1,33 @@
+/*
+-------------------------------------------------------------------------------
+Grid
+-------------------------------------------------------------------------------
+Description
+Creates a generic grid for use across the site, where needed.
+-------------------------------------------------------------------------------
+Accepts
+  $gap-small: {String}
+  $gap-large: {String}
+  $columns-small: {Number}
+  $columns-large: {Number}
+-------------------------------------------------------------------------------
+Usage
+@mixin grid 0.5rem, 1rem, 4, 12;
+-------------------------------------------------------------------------------
+Reference
+https://github.com/postcss/postcss-mixins
+-------------------------------------------------------------------------------
+*/
+
+@define-mixin grid $gap-small: 0.5rem, $gap-large: 1rem, $columns-small: 4, $columns-large: 12 {
+  display: grid;
+  grid-row-gap: $gap-small;
+  grid-column-gap: $gap-small;
+  grid-template-columns: repeat($(columns-small), 1fr);
+
+  @media (--sm) {
+    grid-row-gap: $gap-large;
+    grid-column-gap: $gap-large;
+    grid-template-columns: repeat($(columns-large), 1fr);
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@apollo/datasource-rest": "^5.0.2",
+    "@apollo/federation": "^0.38.1",
+    "@apollo/server": "^4.4.0",
+    "@apollo/subgraph": "^2.4.0",
+    "@as-integrations/aws-lambda": "^2.0.1",
+    "graphql": "^16.6.0",
+    "graphql-tag": "^2.12.6"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.24"
+  }
+}

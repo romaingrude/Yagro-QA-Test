@@ -1,0 +1,16 @@
+/*
+-------------------------------------------------------------------------------
+z-indexes
+-------------------------------------------------------------------------------
+Description
+Store important z-indexes here so that they can be easily changed across the
+project.
+
+Use increments of 100 for all main z-indexes (Main layers).
+Use increments of 10 for more granular control (Sub components).
+-------------------------------------------------------------------------------
+*/
+
+:root {
+  --z-alerts: 1000;
+}
