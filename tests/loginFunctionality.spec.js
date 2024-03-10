@@ -89,28 +89,32 @@ test('browseBackAfterLoggingIn', async ({ page }) => {
   await expect(page).toHaveURL(dashboardURL)
 })
 
-// Validate Logging out from the Application and browsing back using Browser back button
-test('browseBackAfterLoggingOut', async ({ page }) => {
-  await loginPage.loggingIn('qa', 'test')
-  await expect(page).toHaveTitle('YAGRO - Dashboard')
-  await expect(page).toHaveURL(dashboardURL)
-  const isMobileViewport = page.viewportSize().width < 1024
-  const isHamburgerButtonVisible = isMobileViewport ? await dashboardPage.burgerButton.isVisible() : false
-  if (isHamburgerButtonVisible)
-    await dashboardPage.burgerButton.click()
-  await dashboardPage.logOutButton.click()
-  await expect(page).toHaveTitle('YAGRO - Log in')
-})
+test.describe('Session management tests', () => {
+  // Validate Logging out from the Application and browsing back using Browser back button
+  test('browseBackAfterLoggingOut', async ({ page }) => {
+    await loginPage.loggingIn('qa', 'test')
+    await expect(page).toHaveTitle('YAGRO - Dashboard')
+    await expect(page).toHaveURL(dashboardURL)
+    const isMobileViewport = page.viewportSize().width < 1024 // Checks if the viewport is mobile to locate the hamburger button on the dashboard
+    const isHamburgerButtonVisible = isMobileViewport ? await dashboardPage.burgerButton.isVisible() : false
+    if (isHamburgerButtonVisible)
+      await dashboardPage.burgerButton.click()
+    await dashboardPage.logOutButton.click()
+    await expect(page).toHaveTitle('YAGRO - Log in')
+    await page.goBack()
+    await expect(page).toHaveTitle('YAGRO - Log in')
+  })
 
-// Validate Logging out and trying to reach dashboard URL using direct URL
-test('directURLAfterLoggingOut', async ({ page }) => {
-  await loginPage.loggingIn('qa', 'test')
-  await expect(page).toHaveTitle('YAGRO - Dashboard')
-  await expect(page).toHaveURL(dashboardURL)
-  await dashboardPage.logOutButton.click()
-  await page.goto(dashboardURL)
-  await expect(page).toHaveTitle('YAGRO - Log in')
-  await expect(page).toHaveURL(loginURL)
+  // Validate Logging out and trying to reach dashboard URL using direct URL
+  test('directURLAfterLoggingOut', async ({ page }) => {
+    await loginPage.loggingIn('qa', 'test')
+    await expect(page).toHaveTitle('YAGRO - Dashboard')
+    await expect(page).toHaveURL(dashboardURL)
+    await dashboardPage.logOutButton.click()
+    await page.goto(dashboardURL)
+    await expect(page).toHaveTitle('YAGRO - Log in')
+    await expect(page).toHaveURL(loginURL)
+  })
 })
 
 // Validate the text into the Password field is toggled to hide its visibility
@@ -142,8 +146,7 @@ test('closeBrowserAfterLoggingIn', async ({ page, context }) => {
 })
 
 // Validate SQL injection attacks on the login functionality
-// Validate SQL injection attacks on the login functionality
-test('sqlInjectionAttacks', async ({ browser, context }) => {
+test('sqlInjectionAttacks', async ({ context }) => {
   // SQL injection payloads for email and password fields
   const sqlInjectionQueries = [
     // Standard SQL injection payload
