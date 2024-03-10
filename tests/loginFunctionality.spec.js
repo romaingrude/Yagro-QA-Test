@@ -110,6 +110,10 @@ test.describe('Session management tests', () => {
     await loginPage.loggingIn('qa', 'test')
     await expect(page).toHaveTitle('YAGRO - Dashboard')
     await expect(page).toHaveURL(dashboardURL)
+    const isMobileViewport = page.viewportSize().width < 1024 // Checks if the viewport is mobile to locate the hamburger button on the dashboard
+    const isHamburgerButtonVisible = isMobileViewport ? await dashboardPage.burgerButton.isVisible() : false
+    if (isHamburgerButtonVisible)
+      await dashboardPage.burgerButton.click()
     await dashboardPage.logOutButton.click()
     await page.goto(dashboardURL)
     await expect(page).toHaveTitle('YAGRO - Log in')
