@@ -9,6 +9,8 @@ let dashboardPage
 const dashboardURL = 'https://dulcet-belekoy-b337cc.netlify.app/' // URL for the home page, used for assertions once logged in
 const loginURL = 'https://dulcet-belekoy-b337cc.netlify.app/login' // URL for the login page, used for assertions
 
+// test.describe.configure({ mode: 'parallel' })
+
 // Setup to open loginPage
 test.beforeEach(async ({ page }) => {
   loginPage = new LoginPage(page)
